@@ -16,13 +16,13 @@ Video File: 2019-12-16.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 641
-Active Line: 650
-Video Position: 4942
+Scroll Position: 569
+Active Line: 584
+Video Position: 3792
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Fontin Sans Rg,72,&H00FFFFFF,&H000000FF,&H005C611B,&H7F000000,-1,0,0,0,100,100,0,0,1,5.25,4.5,2,192,234,72,1
+Style: Default,Fontin Sans Rg,72,&H00FFFFFF,&H000000FF,&H00EAC06D,&H7F000000,-1,0,0,0,100,100,0,0,1,5.2,4.5,2,192,234,72,1
 Style: LiverSign,Fontin Sans Rg,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,192,192,72,1
 Style: Outro,Calibri,96,&H00F85B3E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,7.5,0,2,180,225,180,1
 Style: Signs,Fontin Sans Rg,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,192,192,72,1
@@ -611,12 +611,12 @@ Dialogue: 0,0:01:00.96,0:01:02.08,Fortunes,2,0,0,0,,{=11}{\fade(0,300)\an7\c&HFF
 Dialogue: 1,0:01:00.96,0:01:02.08,Fortunes,2,0,0,0,,{=10}{\fade(0,300)\an7\pos(576,535)\c&H1CBE2B&}Sagittarius: {\c&H030303&\fscx100}Time to step up those budgeting skills!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Minato Aqua
 Dialogue: 0,0:01:00.96,0:01:02.08,Fortunes,3,0,0,0,,{=9}{\fade(0,300)\an7\c&HFFFFFF&\p1\pos(576,805)}m 0 0 l 720 0 720 75 0 75
 Dialogue: 1,0:01:00.96,0:01:02.08,Fortunes,3,0,0,0,,{=8}{\fade(0,300)\an7\c&H1CBE2B&\pos(576,805)}Scorpio: {\c&H030303&\fscx100}Be optimistic and discard preconceived notions\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Akai Haato
-Dialogue: 0,0:01:02.84,0:01:04.91,Fortunes,1,0,0,0,,{=13}{\fade(0,300)\an7\c&HFFFFFF&\p1\pos(576,260)}m 0 0 l 720 0 720 75 0 75
-Dialogue: 1,0:01:02.84,0:01:04.91,Fortunes,1,0,0,0,,{=12}{\fade(0,300)\an7\pos(576,260)\c&H1CBE2B&}Cancer: {\c&H030303&\fscx100}Your processing power's improving steadily!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Shiranui Flare
-Dialogue: 0,0:01:02.84,0:01:04.91,Fortunes,2,0,0,0,,{=11}{\fade(0,300)\an7\c&HFFFFFF&\p1\pos(576,535)}m 0 0 l 720 0 720 75 0 75
-Dialogue: 1,0:01:02.84,0:01:04.91,Fortunes,2,0,0,0,,{=10}{\fade(0,300)\an7\pos(576,535)\c&H1CBE2B&}Sagittarius: {\c&H030303&\fscx100}Time to step up those budgeting skills!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Minato Aqua
-Dialogue: 0,0:01:02.84,0:01:04.91,Fortunes,3,0,0,0,,{=9}{\fade(0,300)\an7\c&HFFFFFF&\p1\pos(576,805)}m 0 0 l 720 0 720 75 0 75
-Dialogue: 1,0:01:02.84,0:01:04.91,Fortunes,3,0,0,0,,{=8}{\fade(0,300)\an7\c&H1CBE2B&\pos(576,805)}Scorpio: {\c&H030303&\fscx100}Be optimistic and discard preconceived notions\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Akai Haato
+Dialogue: 0,0:01:02.83,0:01:04.91,Fortunes,1,0,0,0,,{=13}{\fade(100,300)\an7\c&HFFFFFF&\p1\pos(576,260)}m 0 0 l 720 0 720 75 0 75
+Dialogue: 1,0:01:02.83,0:01:04.91,Fortunes,1,0,0,0,,{=12}{\fade(100,300)\an7\pos(576,260)\c&H1CBE2B&}Cancer: {\c&H030303&\fscx100}Your processing power's improving steadily!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Shiranui Flare
+Dialogue: 0,0:01:02.83,0:01:04.91,Fortunes,2,0,0,0,,{=11}{\fade(100,300)\an7\c&HFFFFFF&\p1\pos(576,535)}m 0 0 l 720 0 720 75 0 75
+Dialogue: 1,0:01:02.83,0:01:04.91,Fortunes,2,0,0,0,,{=10}{\fade(100,300)\an7\pos(576,535)\c&H1CBE2B&}Sagittarius: {\c&H030303&\fscx100}Time to step up those budgeting skills!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Minato Aqua
+Dialogue: 0,0:01:02.83,0:01:04.91,Fortunes,3,0,0,0,,{=9}{\fade(100,300)\an7\c&HFFFFFF&\p1\pos(576,805)}m 0 0 l 720 0 720 75 0 75
+Dialogue: 1,0:01:02.83,0:01:04.91,Fortunes,3,0,0,0,,{=8}{\fade(100,300)\an7\c&H1CBE2B&\pos(576,805)}Scorpio: {\c&H030303&\fscx100}Be optimistic and discard preconceived notions\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Akai Haato
 Dialogue: 0,0:01:07.33,0:01:08.19,Fortunes,1,0,0,0,,{=13}{\fade(300,0)\an7\c&HFFFFFF&\p1\pos(576,260)}m 0 0 l 720 0 720 75 0 75
 Dialogue: 1,0:01:07.33,0:01:08.19,Fortunes,1,0,0,0,,{=12}{\fade(300,0)\an7\pos(576,260)\c&H1CBE2B&}Cancer: {\c&H030303&\fscx100}Your processing power's improving steadily!\N{\c&H1CBE2B&\fscx100}Lucky Hololiver: Shiranui Flare
 Dialogue: 0,0:01:07.33,0:01:08.19,Fortunes,2,0,0,0,,{=11}{\fade(300,0)\an7\c&HFFFFFF&\p1\pos(576,535)}m 0 0 l 720 0 720 75 0 75
