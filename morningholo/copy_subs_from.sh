@@ -9,7 +9,12 @@ suffix_day() {
   esac
 }
 
-source_date="$@"
+source_date="$1"
+if [ -z "$2" ]; then
+    target_date="today"
+else
+    target_date="$2"
+fi
 
 # We need localized date strings
 export LANG=en_US.UTF-8
@@ -17,13 +22,13 @@ export LANG=en_US.UTF-8
 export TZ=Asia/Tokyo
 
 date_old=$(date -d "$source_date" +"%Y-%m-%d")
-date_new=$(date +"%Y-%m-%d") # today's date
+date_new=$(date -d "$target_date" +"%Y-%m-%d")
 day_old=$(date -d "$source_date" +%-d)
-day_new=$(date +%-d)
+day_new=$(date -d "$target_date" +%-d)
 month_old=$(date -d "$source_date" +%B)
-month_new=$(date +%B)
+month_new=$(date -d "$target_date" +%B)
 weekday_old=$(date -d "$source_date" +%A)
-weekday_new=$(date +%A)
+weekday_new=$(date -d "$target_date" +%A)
 
 cp $date_old.ass $date_new.ass
 sed -i -e "s/${weekday_old}/${weekday_new}/g" \
