@@ -35,27 +35,31 @@ Comment: 0,1:33:49.39,1:35:41.56,Default,,0,0,0,,{Sakura to Pan, Opening}
 Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs96\c&HFFFFFF&\fade(0,300)\pos(240,86)}Soap Opera
 Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,70)\fade(0,300)}Cherry
 Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,190)\fade(0,300)}Blossoms
-Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HD3D7FF&\fax-0.1\frz1.5\pos(1280,320)\fade(0,300)} &
+Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HFFFFFF&\fax-0.1\frz1.5\pos(1280,320)\fade(0,300)} &
 Dialogue: 0,1:33:49.39,1:34:25.08,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&H9FDFFF&\fax-0.1\frz1.5\pos(1180,380)\fade(0,300)}Bread
 Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur1\fs22\bord1\c&HFFFFFF&\pos(16,80)\fade(300,270)}Soap Opera
 Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(160,70)\fade(300,270)}Cherry
 Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(160,100)\fade(300,270)}Blossoms
-Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur3\fs32\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(235,130)\fade(300,270)} &
+Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur3\fs32\bord1\c&HFFFFFF&\fax-0.1\frz1.5\pos(235,130)\fade(300,270)} &
 Dialogue: 0,1:34:24.81,1:35:33.43,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&H9FDFFF&\fax-0.1\frz1.5\pos(210,140)\fade(300,270)}Bread
-Dialogue: 0,1:34:24.79,1:34:51.88,Signs,,0,0,0,,{\fnGandhi Sans\blur2\fs96\bord8\c&HEFEFEF&\pos(724,424)\fade(300,300)}Cast\NManager, his Early Years
-Dialogue: 0,1:34:51.58,1:35:00.98,Signs,,0,0,0,,{\fnGandhi Sans\blur2\fs96\bord8\c&HEFEFEF&\pos(320,872)\fade(300,360)}Sakuramiya Mikoo
-Dialogue: 0,1:35:00.66,1:35:13.64,Signs,,0,0,0,,{\fnGandhi Sans\blur2\fs96\bord8\c&HEFEFEF&\fade(350,330)\pos(972,684)}Koromi the Baker
-Dialogue: 0,1:35:13.36,1:35:33.43,Signs,,0,0,0,,{\fnGandhi Sans\blur2\fs96\bord8\c&HEFEFEF&\fade(300,270)\pos(580,614)}Barako
+Dialogue: 0,1:34:24.79,1:34:51.88,Signs,,0,0,0,,{\fnGandhi Sans\blur1.75\fs96\bord8\c&H000000&\pos(724,424)\fade(300,300)}Cast\NManager, his Early Years
+Dialogue: 1,1:34:24.79,1:34:51.88,Signs,,0,0,0,,{\fnGandhi Sans\blur0.75\fs96\c&HEFEFEF&\pos(724,424)\fade(300,300)}Cast\NManager, his Early Years
+Dialogue: 0,1:34:51.58,1:35:00.98,Signs,,0,0,0,,{\fnGandhi Sans\blur1.75\fs96\bord8\c&H000000&\pos(320,872)\fade(300,360)}Sakuramiya Mikoo
+Dialogue: 1,1:34:51.58,1:35:00.98,Signs,,0,0,0,,{\fnGandhi Sans\blur0.75\fs96\c&HEFEFEF&\pos(320,872)\fade(300,360)}Sakuramiya Mikoo
+Dialogue: 0,1:35:00.66,1:35:13.64,Signs,,0,0,0,,{\fnGandhi Sans\blur1.75\fs96\bord8\c&H000000&\fade(350,330)\pos(972,684)}Koromi the Baker
+Dialogue: 1,1:35:00.66,1:35:13.64,Signs,,0,0,0,,{\fnGandhi Sans\blur0.75\fs96\c&HEFEFEF&\fade(350,330)\pos(972,684)}Koromi the Baker
+Dialogue: 0,1:35:13.36,1:35:33.43,Signs,,0,0,0,,{\fnGandhi Sans\blur1.75\fs96\bord8\c&H000000&\fade(300,270)\pos(580,614)}Barako
+Dialogue: 1,1:35:13.36,1:35:33.43,Signs,,0,0,0,,{\fnGandhi Sans\blur0.75\fs96\c&HEFEFEF&\fade(300,270)\pos(580,614)}Barako
 Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs96\c&HFFFFFF&\fade(300,300)\pos(240,86)}Soap Opera
 Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,70)\fade(300,300)}Cherry
 Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,190)\fade(300,300)}Blossoms
-Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HD3D7FF&\fax-0.1\frz1.5\pos(1280,320)\fade(300,300)} &
+Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HFFFFFF&\fax-0.1\frz1.5\pos(1280,320)\fade(300,300)} &
 Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&H9FDFFF&\fax-0.1\frz1.5\pos(1180,380)\fade(300,300)}Bread
 Dialogue: 0,1:35:33.18,1:35:41.58,Signs,,0,0,0,,{\fnComfortaa\blur0.5\fs256\c&HFFFFFF&\an1\pos(128,1032)\fade(300,300)\b1}ACT I
 Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur1\fs22\bord1\c&HFFFFFF&\pos(16,80)\fade(300,0)}Soap Opera
 Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(160,70)\fade(300,0)}Cherry
 Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(160,100)\fade(300,0)}Blossoms
-Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur3\fs32\bord1\c&HD3D7FF&\fax-0.1\frz1.5\pos(235,130)\fade(300,0)} &
+Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur3\fs32\bord1\c&HFFFFFF&\fax-0.1\frz1.5\pos(235,130)\fade(300,0)} &
 Dialogue: 0,1:35:41.26,1:43:20.38,Signs,,0,0,0,,{\fnAlice\blur3\fs48\bord1\c&H9FDFFF&\fax-0.1\frz1.5\pos(210,140)\fade(300,0)}Bread
 Comment: 0,1:35:41.56,1:43:20.36,Default,,0,0,0,,{Sakura to Pan, Act I}
 Dialogue: 0,1:35:53.48,1:35:54.64,Koromi,,0,0,0,,So heavy.
@@ -241,7 +245,7 @@ Comment: 0,1:33:04.23,1:33:19.53,Default,,0,0,0,,{Sakura to Pan, Act 1 Break}
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs96\c&HFFFFFF&\pos(240,86)}Soap Opera
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,190)}Blossoms
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&HD3D7FF&\fax-0.1\frz1.5\pos(980,70)}Cherry
-Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HD3D7FF&\fax-0.1\frz1.5\pos(1280,320)} &
+Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs128\c&HFFFFFF&\fax-0.1\frz1.5\pos(1280,320)} &
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnAlice\blur0.75\fs192\c&H9FDFFF&\fax-0.1\frz1.5\pos(1180,380)}Bread
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnComfortaa\blur0.5\fs128\c&HFFFFFF&\an1\pos(192,952)\i1\b1}See You\NNext Time
 Dialogue: 0,1:33:04.23,1:33:19.53,Signs,,0,0,0,,{\fnComfortaa\blur0.5\fs80\c&HFFFFFF&\an2\pos(960,1032)\b1}Be sure to subscribe to Inugami Korone and Sakura Miko!
