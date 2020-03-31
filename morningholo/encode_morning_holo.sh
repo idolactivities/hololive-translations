@@ -11,4 +11,4 @@ fi
 ffmpeg -i "$date.mp4" \
     -c:v libx264 -profile:v high -level 3.2 -preset veryslow -tune film \
     -vf "format=pix_fmts=rgb32,subtitles=$date.ass,format=pix_fmts=yuv420p,scale=1280:720" \
-    -c:a copy "$date-subbed.mp4"
+    -color_primaries bt709 -color_trc bt709 -colorspace bt709 -c:a copy "$date-subbed.mp4"
