@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#EF6234" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="3" fc="#D9D9D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#B583F1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="161" et="3"/>
+<pen id="7" i="1" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="161" et="3"/>
+<pen id="8" b="1" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="223" et="3"/>
+<pen id="9" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" i="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#8CD9F8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#5EEFE5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#F4D509" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#E88909" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#A39FDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#EAFF5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#9D5AEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" i="1" fc="#D9D9D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" i="1" fc="#B583F1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" b="1" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#EAFF5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="161" et="3"/>
+<pen id="23" fc="#EAFF5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="223" et="3"/>
+<pen id="24" fc="#21E81A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#F05858" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="27" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="0" ah="0" av="0"/>
+<wp id="4" ap="1" ah="50" av="9"/>
+<wp id="13" ap="3" ah="38" av="59"/>
+<wp id="14" ap="3" ah="39" av="77"/>
+<wp id="15" ap="3" ah="39" av="94"/>
+<wp id="16" ap="3" ah="59" av="94"/>
+<wp id="5" ap="4" ah="16" av="31"/>
+<wp id="33" ap="4" ah="20" av="50"/>
+<wp id="12" ap="4" ah="22" av="56"/>
+<wp id="10" ap="4" ah="22" av="98"/>
+<wp id="36" ap="4" ah="23" av="50"/>
+<wp id="31" ap="4" ah="27" av="50"/>
+<wp id="35" ap="4" ah="30" av="55"/>
+<wp id="38" ap="4" ah="31" av="56"/>
+<wp id="6" ap="4" ah="33" av="41"/>
+<wp id="39" ap="4" ah="33" av="46"/>
+<wp id="37" ap="4" ah="34" av="60"/>
+<wp id="34" ap="4" ah="34" av="77"/>
+<wp id="32" ap="4" ah="37" av="77"/>
+<wp id="21" ap="4" ah="45" av="71"/>
+<wp id="22" ap="4" ah="47" av="67"/>
+<wp id="17" ap="4" ah="48" av="70"/>
+<wp id="28" ap="4" ah="50" av="77"/>
+<wp id="27" ap="4" ah="50" av="82"/>
+<wp id="7" ap="4" ah="55" av="75"/>
+<wp id="40" ap="4" ah="61" av="75"/>
+<wp id="23" ap="4" ah="69" av="62"/>
+<wp id="26" ap="4" ah="69" av="64"/>
+<wp id="25" ap="4" ah="69" av="70"/>
+<wp id="30" ap="4" ah="70" av="63"/>
+<wp id="11" ap="4" ah="70" av="98"/>
+<wp id="24" ap="4" ah="74" av="62"/>
+<wp id="8" ap="4" ah="81" av="85"/>
+<wp id="29" ap="4" ah="82" av="51"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="19" ap="7" ah="49" av="100"/>
+<wp id="18" ap="7" ah="49" av="99"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="41" ap="7" ah="50" av="74"/>
+<wp id="9" ap="7" ah="50" av="90"/>
+<wp id="20" ap="7" ah="50" av="99"/>
+<wp id="43" ap="8" ah="0" av="0"/>
+<wp id="42" ap="8" ah="100" av="100"/>
+</head>
+<body>
+<p t="417" d="768" wp="2" ws="1"><s p="2">It&#39;s not sp—</s><s>​</s><s p="3">owowOWOWOWOW!</s></p>
+<p t="1185" d="1195" wp="2" ws="1" p="2">It&#39;s not sp—owowOWOWOWOW!</p>
+<p t="2380" d="1300" wp="2" ws="1" p="4">I&#39;m gonna spit fire!</p>
+<p t="3680" d="440" wp="2" ws="1" p="4">Sec—</p>
+<p t="4120" d="530" wp="2" ws="1" p="4">I&#39;m gonna spit fire!</p>
+<p t="4780" d="770" wp="2" ws="1" p="5">It hurts...</p>
+<p t="5550" d="1070" wp="2" ws="1"><s p="6">It </s><s>​</s><s p="7">hurts</s><s p="6">...</s></p>
+<p t="6620" d="730" wp="2" ws="1" p="8">It hurts!</p>
+<p t="7350" d="3070" wp="2" ws="1" p="9">Log 007: A Series of Idols Squaring Off With Their Tolerances</p>
+<p t="10420" d="42140" wp="3" ws="2" p="10">A Series of Idols Squaring Off With Their Tolerances</p>
+<p t="10420" d="4310" wp="4" ws="1"><s p="10">Matsuri attempts </s><s>​</s><s p="11">CoCo ICHI</s><s p="10">&#39;s Spice Level 10 curry
+(she usually eats Mild Level 5)</s></p>
+<p t="10420" d="4310" wp="5" ws="1" p="12">3rd Gen: Usada Pekora</p>
+<p t="10420" d="4310" wp="6" ws="1" p="13">1st Gen: Shirakami Fubuki</p>
+<p t="10420" d="4310" wp="7" ws="1" p="14">2nd Gen: Oozora Subaru</p>
+<p t="10420" d="4310" wp="8" ws="1" p="15">1st Gen: Natsuiro Matsuri</p>
+<p t="12090" d="1640" wp="2" ws="1" p="13">We have milk, you&#39;ll be fine!</p>
+<p t="13730" d="1500" wp="2" ws="1" p="16">We also have yogurt!</p>
+<p t="14590" d="640" wp="9" ws="1" p="15">Okay.</p>
+<p t="16190" d="870" wp="2" ws="1" p="15">Ahh, I&#39;m scared!</p>
+<p t="17060" d="1570" wp="2" ws="1" p="15">Okay, so I&#39;ll react—</p>
+<p t="18630" d="930" wp="2" ws="1" p="15">I&#39;ll give you guys</p>
+<p t="19560" d="1978" wp="2" ws="1" p="15">an honest to goodness, authentic reaction.</p>
+<p t="21538" d="1001" wp="2" ws="1"><s p="15">Time to eat! </s><s>​</s><s p="3">Spice Level 10!</s></p>
+<p t="22539" d="1201" wp="2" ws="1" p="15">Time to eat! Spice Level 10!</p>
+<p t="23740" d="2100" wp="2" ws="1" p="15">Time to eat...</p>
+<p t="28710" d="1870" wp="10" ws="1" p="15">*cough*</p>
+<p t="29340" d="1240" wp="11" ws="1" p="15">*wail*</p>
+<p t="30580" d="2060" wp="2" ws="1" p="15">I can&#39;t...!</p>
+<p t="33010" d="2070" wp="2" ws="1" p="13">That&#39;s an over-the-top reaction, you know?!</p>
+<p t="35080" d="930" wp="2" ws="1" p="16">She&#39;s chugging the milk down now.</p>
+<p t="35710" d="300" wp="12" ws="1" p="12">Huh?!</p>
+<p t="36010" d="1540" wp="2" ws="1" p="12">Your face got pekoribbly red!</p>
+<p t="37550" d="1900" wp="2" ws="1" p="17">Her face and her mouth... lol</p>
+<p t="40320" d="2070" wp="2" ws="1" p="12">Oh no, she became stationary! lol</p>
+<p t="44190" d="900" wp="2" ws="1" p="17">Her eyes...! lol</p>
+<p t="45090" d="2670" wp="2" ws="1" p="17">Her eyes stopped moving! lol</p>
+<p t="48430" d="1300" wp="2" ws="1" p="15">I&#39;m out of milk?!</p>
+<p t="49730" d="2530" wp="2" ws="1" p="15">There&#39;s no more milk?!</p>
+<p t="53070" d="1130" wp="2" ws="1" p="9">Hololog!</p>
+<p t="54270" d="139170" wp="3" ws="2" p="10">A Series of Idols Squaring Off With Their Tolerances</p>
+<p t="54330" d="4140" wp="4" ws="1" p="2">4th Gen: Kiryu Coco</p>
+<p t="54700" d="2740" wp="2" ws="1" p="2">Time to eat!</p>
+<p t="58870" d="1700" wp="2" ws="1" p="2">Might as well take a big bite, I guess?</p>
+<p t="61440" d="5070" wp="13" ws="2" p="10">*slurp*</p>
+<p t="62640" d="3870" wp="14" ws="2" p="10">*sluuuurp*</p>
+<p t="64180" d="2330" wp="15" ws="2" p="10">*slurp*</p>
+<p t="65310" d="1200" wp="16" ws="2" p="10">*slurp*</p>
+<p t="67184" d="767" wp="2" ws="1"><s p="2">It&#39;s not sp—</s><s>​</s><s p="3">owowOWOWOWOW!</s></p>
+<p t="67951" d="1929" wp="2" ws="1" p="2">It&#39;s not sp—owowOWOWOWOW!</p>
+<p t="70180" d="1340" wp="2" ws="1" p="2">Ow, Ow...</p>
+<p t="71720" d="1330" wp="2" ws="1" p="2">Yeah, this is awful!</p>
+<p t="73720" d="3300" wp="2" ws="1" p="10">(Now positioning hair-removal machine)</p>
+<p t="77220" d="1170" wp="2" ws="1" p="2">It&#39;s now or never (to remove the hair)!</p>
+<p t="78390" d="1470" wp="2" ws="1" p="2">Just like this!</p>
+<p t="80890" d="1970" wp="2" ws="1" p="2">Anergy!</p>
+<p t="82860" d="1970" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="86160" d="1970" wp="2" ws="1" p="2">Let&#39;s go!</p>
+<p t="88930" d="1340" wp="17" ws="1" p="10">Bzzt!</p>
+<p t="89239" d="67" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="89306" d="67" wp="18" ws="1" p="2">Ahhh!</p>
+<p t="89373" d="67" wp="18" ws="1" p="2">Ahhh!</p>
+<p t="89440" d="66" wp="19" ws="1" p="2">Ahhh!</p>
+<p t="89506" d="67" wp="19" ws="1" p="2">Ahhh!</p>
+<p t="89573" d="67" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="89640" d="66" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="89706" d="67" wp="18" ws="1" p="2">Ahhh!</p>
+<p t="89773" d="67" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="89840" d="67" wp="19" ws="1" p="2">Ahhh!</p>
+<p t="89907" d="66" wp="20" ws="1" p="2">Ahhh!</p>
+<p t="89973" d="67" wp="18" ws="1" p="2">Ahhh!</p>
+<p t="90040" d="67" wp="2" ws="1" p="2">Ahhh!</p>
+<p t="90107" d="67" wp="20" ws="1" p="2">Ahhh!</p>
+<p t="90174" d="96" wp="18" ws="1" p="2">Ahhh!</p>
+<p t="90370" d="4170" wp="4" ws="1" p="18">2nd Gen: Murasaki Shion</p>
+<p t="90700" d="775" wp="2" ws="1" p="4">Ahhh!</p>
+<p t="91475" d="434" wp="2" ws="1"><s p="4">Hot! </s><s>​</s><s p="3">Hot! Hot!</s></p>
+<p t="91909" d="400" wp="2" ws="1"><s p="4">Hot! Hot! </s><s>​</s><s p="3">Hot!</s></p>
+<p t="92309" d="761" wp="2" ws="1" p="4">Hot! Hot! Hot!</p>
+<p t="93070" d="770" wp="2" ws="1" p="4">Wait.</p>
+<p t="93840" d="930" wp="2" ws="1" p="4">So like,</p>
+<p t="94770" d="2270" wp="2" ws="1" p="4">I can&#39;t eat spicy food.</p>
+<p t="97040" d="2443" wp="2" ws="1" p="4">So why did I attempt this without thinking it through...?</p>
+<p t="99483" d="133" wp="2" ws="1"><s p="4">What?! </s><s>​</s><s p="3">It </s><s p="19">is </s><s p="3">spicy!</s></p>
+<p t="99616" d="694" wp="2" ws="1"><s p="4">What?! It </s><s>​</s><s p="20">is </s><s p="4">spicy!</s></p>
+<p t="100310" d="1270" wp="2" ws="1" p="4">It really is spicy!</p>
+<p t="101080" d="500" wp="21" ws="1" p="4">Um...</p>
+<p t="101580" d="1470" wp="2" ws="1" p="4">Have you guys tried it?</p>
+<p t="103050" d="1030" wp="2" ws="1" p="4">You haven&#39;t, right?!</p>
+<p t="104080" d="2340" wp="2" ws="1" p="4">It&#39;s easy for you guys to say all that because you haven&#39;t—</p>
+<p t="106420" d="2800" wp="2" ws="1" p="4">Not that I&#39;d know.</p>
+<p t="107150" d="2070" wp="22" ws="1" p="4">lolol</p>
+<p t="109920" d="1400" wp="2" ws="1" p="4">Mmmph!</p>
+<p t="111960" d="1430" wp="2" ws="1" p="4">So spicy!</p>
+<p t="113390" d="1300" wp="2" ws="1" p="4">I&#39;m gonna spit fire!</p>
+<p t="114690" d="440" wp="2" ws="1" p="4">Sec—</p>
+<p t="115130" d="560" wp="2" ws="1" p="4">I&#39;m gonna spit fire!</p>
+<p t="115690" d="1810" wp="2" ws="1" p="4">Like, my mouth</p>
+<p t="117500" d="2730" wp="2" ws="1" p="4">feels like it&#39;ll become a flamethrower. Really.</p>
+<p t="120300" d="4340" wp="4" ws="1" p="5">2nd Gen: Minato Aqua</p>
+<p t="121030" d="1270" wp="2" ws="1" p="5">I&#39;m gonna eat it!</p>
+<p t="122300" d="2740" wp="2" ws="1" p="5">Just a little...</p>
+<p t="125642" d="1469" wp="2" ws="1"><s p="5">Just a sample </s><s>​</s><s p="3">to start off with...</s></p>
+<p t="127111" d="1399" wp="2" ws="1" p="5">Just a sample to start off with...</p>
+<p t="128510" d="1800" wp="2" ws="1" p="5">Down the hatch!</p>
+<p t="130710" d="1630" wp="2" ws="1" p="5">*Agonizing*haha!</p>
+<p t="136350" d="1630" wp="2" ws="1" p="5">M-My lips...</p>
+<p t="138555" d="1335" wp="2" ws="1"><s p="5">My lips have gone </s><s>​</s><s p="3">numb.</s></p>
+<p t="139890" d="960" wp="2" ws="1" p="5">My lips have gone numb.</p>
+<p t="140850" d="2140" wp="2" ws="1" p="5">I can&#39;t feel anything</p>
+<p t="142990" d="1700" wp="2" ws="1" p="5">in my lips...</p>
+<p t="145120" d="2010" wp="2" ws="1" p="5">And it feels like my teeth are gone.</p>
+<p t="147130" d="1260" wp="2" ws="1" p="5">It hurts...</p>
+<p t="148390" d="700" wp="2" ws="1" p="5">Ow...</p>
+<p t="149090" d="1040" wp="2" ws="1" p="5">Ah, wait!</p>
+<p t="150130" d="1038" wp="23" ws="1" p="10">*coughing*</p>
+<p t="151168" d="634" wp="2" ws="1"><s p="5">I-</s><s>​</s><s p="3">I can barely speak!</s></p>
+<p t="151802" d="1258" wp="2" ws="1" p="5">I-I can barely speak!</p>
+<p t="153670" d="1030" wp="2" ws="1" p="5">It hurts!</p>
+<p t="155370" d="1570" wp="24" ws="1" p="5">*coughing*</p>
+<p t="157270" d="2430" wp="2" ws="1" p="5">lololol</p>
+<p t="160040" d="770" wp="2" ws="1" p="5">It hurts...</p>
+<p t="160810" d="1060" wp="2" ws="1"><s p="6">It </s><s>​</s><s p="7">hurts</s><s p="6">...</s></p>
+<p t="161870" d="2910" wp="2" ws="1" p="8">It hurts!</p>
+<p t="162910" d="1870" wp="25" ws="1" p="5">I can&#39;t take it!</p>
+<p t="166040" d="2810" wp="26" ws="1" p="21">I can&#39;t take it!</p>
+<p t="168950" d="4240" wp="4" ws="1" p="14">2nd Gen: Oozora Subaru</p>
+<p t="169920" d="300" wp="2" ws="1" p="17">Huh?!</p>
+<p t="170220" d="1560" wp="2" ws="1" p="17">Wait, this seems really risky!</p>
+<p t="171780" d="1870" wp="2" ws="1" p="17">Uhh...</p>
+<p t="173650" d="2600" wp="2" ws="1" p="17">Just a sniff tells me that this is bad news</p>
+<p t="176693" d="401" wp="2" ws="1"><s p="17">Owww... </s><s>​</s><s p="3">Ow... Ow...</s></p>
+<p t="177094" d="567" wp="2" ws="1"><s p="17">Owww... Ow... </s><s>​</s><s p="3">Ow...</s></p>
+<p t="177661" d="399" wp="2" ws="1" p="17">Owww... Ow... Ow...</p>
+<p t="178060" d="2770" wp="2" ws="1" p="17">I&#39;ll eat it!</p>
+<p t="178490" d="2340" wp="27" ws="1" p="17">Just watch.</p>
+<p t="181830" d="1260" wp="2" ws="1" p="17">So spicy!</p>
+<p t="182330" d="760" wp="28" ws="1" p="17">This is awful!</p>
+<p t="183090" d="2240" wp="2" ws="1" p="17">No more, no more!</p>
+<p t="185330" d="1400" wp="2" ws="1" p="17">It&#39;s so hot! No more!</p>
+<p t="187370" d="1700" wp="2" ws="1" p="17">Seriously. This is crazy.</p>
+<p t="189070" d="1070" wp="2" ws="1" p="17">My mouth is stinging!</p>
+<p t="190140" d="960" wp="2" ws="1" p="22">My mouth is stinging!</p>
+<p t="191100" d="1370" wp="2" ws="1" p="23">My mouth is stinging!</p>
+<p t="192470" d="1070" wp="2" ws="1" p="17">My mouth...my mouth...</p>
+<p t="193940" d="1130" wp="2" ws="1" p="9">Hololog!</p>
+<p t="195140" d="110880" wp="3" ws="2" p="10">A Series of Idols Squaring Off With Their Tolerances</p>
+<p t="195240" d="4200" wp="4" ws="1" p="24">hololive Gamers: Ookami Mio</p>
+<p t="195510" d="1930" wp="2" ws="1" p="24">Down we go...!</p>
+<p t="197440" d="1770" wp="2" ws="1" p="24">Mmh?!</p>
+<p t="199810" d="2340" wp="2" ws="1" p="24">It&#39;s spicy, but...</p>
+<p t="203220" d="1560" wp="2" ws="1" p="24">Ah...</p>
+<p t="204780" d="2710" wp="2" ws="1" p="24">It&#39;s spicy.</p>
+<p t="205750" d="1740" wp="29" ws="1" p="24">lolol</p>
+<p t="207490" d="1560" wp="2" ws="1" p="24">It&#39;s spicy, yeah...</p>
+<p t="209050" d="1210" wp="2" ws="1" p="24">It may be spicy,</p>
+<p t="210260" d="935" wp="2" ws="1"><s p="24">but it&#39;s still pretty </s><s>​</s><s p="3">edible.</s></p>
+<p t="211195" d="1025" wp="2" ws="1" p="24">but it&#39;s still pretty edible.</p>
+<p t="212220" d="2040" wp="2" ws="1" p="24">It&#39;s not so spicy that I can&#39;t eat it.</p>
+<p t="214260" d="1630" wp="2" ws="1" p="24">Let&#39;s try adding the oil pack</p>
+<p t="215890" d="1340" wp="2" ws="1" p="24">that was under the lid.</p>
+<p t="217530" d="1400" wp="30" ws="1" p="24">*snort*</p>
+<p t="217900" d="1030" wp="2" ws="1" p="24">*gags*</p>
+<p t="218930" d="870" wp="2" ws="1" p="24">Adding in the oil</p>
+<p t="219800" d="1630" wp="2" ws="1" p="24">made it really spicy!</p>
+<p t="221670" d="2930" wp="2" ws="1" p="24">Adding in the oil was a mistake... lol</p>
+<p t="225200" d="1940" wp="2" ws="1" p="24">Spicy!</p>
+<p t="227470" d="1700" wp="2" ws="1" p="24">*cough* *cough*</p>
+<p t="229170" d="1370" wp="31" ws="1" p="10">Meow</p>
+<p t="229870" d="1570" wp="32" ws="1" p="10">Meow</p>
+<p t="230440" d="1740" wp="2" ws="1" p="24">It&#39;s sho shpicy!</p>
+<p t="231440" d="1400" wp="33" ws="1" p="10">Meow</p>
+<p t="232180" d="1800" wp="2" ws="1" p="24">Cat!</p>
+<p t="233040" d="1540" wp="34" ws="1" p="10">Meow</p>
+<p t="233980" d="2070" wp="2" ws="1" p="24">Cat!!</p>
+<p t="234580" d="1630" wp="35" ws="1" p="10">Meow</p>
+<p t="236050" d="1830" wp="2" ws="1" p="24">What&#39;s wrong, cat?</p>
+<p t="236210" d="1940" wp="34" ws="1" p="10">Meow</p>
+<p t="237380" d="1840" wp="36" ws="1" p="10">Meow</p>
+<p t="239220" d="2930" wp="37" ws="1" p="10">Meow</p>
+<p t="239850" d="3140" wp="2" ws="1" p="24">The cat&#39;s meowing a lot...</p>
+<p t="242150" d="840" wp="38" ws="1" p="10">Meow</p>
+<p t="243050" d="19760" wp="39" ws="1" p="10">* If I finish the super spicy ramen,
+this&#39;ll become an announcement stream</p>
+<p t="243090" d="4200" wp="4" ws="1" p="25">1st Gen: Akai Haato</p>
+<p t="243290" d="3030" wp="2" ws="1" p="25">So, this one is twice as spicy</p>
+<p t="246320" d="2412" wp="2" ws="1" p="25">as the normal flavor.</p>
+<p t="248732" d="1368" wp="2" ws="1"><s p="25">So like, if I eat two, </s><s>​</s><s p="3">it&#39;ll be four times as spicy...</s></p>
+<p t="250100" d="2660" wp="2" ws="1" p="25">So like, if I eat two, it&#39;ll be four times as spicy...</p>
+<p t="252760" d="2040" wp="2" ws="1" p="25">Wait, maybe not.</p>
+<p t="253570" d="1230" wp="40" ws="1" p="25">*nervous giggle*</p>
+<p t="254800" d="1470" wp="2" ws="1" p="25">Given the shape I&#39;m in now,</p>
+<p t="256270" d="1770" wp="2" ws="1" p="25">this should be a piece of cake.</p>
+<p t="258040" d="2030" wp="2" ws="1" p="25">Sorry, guys, but I&#39;ll probably finish</p>
+<p t="260070" d="2740" wp="2" ws="1" p="25">eating today&#39;s menu item in a flash.</p>
+<p t="261370" d="1440" wp="27" ws="1" p="25">Ahahahaha❤</p>
+<p t="262810" d="9140" wp="39" ws="1" p="10">Why&#39;d you think it was a good idea
+to eat the super spicy one?</p>
+<p t="262810" d="2370" wp="2" ws="1" p="25">Wait, this is actually pretty hellish...</p>
+<p t="265510" d="2970" wp="41" ws="1" p="25">Eww,</p>
+<p t="266180" d="2300" wp="2" ws="1" p="25">it&#39;s like one of those kinds that take effect little by little!</p>
+<p t="268480" d="1200" wp="2" ws="1" p="25">Bleugh...!</p>
+<p t="270080" d="1870" wp="2" ws="1" p="25">Huh? This isn&#39;t enough to make me throw up!</p>
+<p t="272150" d="1200" wp="2" ws="1" p="25">So spicy!</p>
+<p t="273350" d="3870" wp="2" ws="1" p="25">Uwaaaaaaaaaaaaaaah!!</p>
+<p t="277620" d="4210" wp="2" ws="1" p="25">I feel sick...</p>
+<p t="282132" d="767" wp="2" ws="1"><s p="25">*retching </s><s>​</s><s p="3">intensifies*</s></p>
+<p t="282899" d="1301" wp="2" ws="1" p="25">*retching intensifies*</p>
+<p t="284200" d="1560" wp="2" ws="1" p="25">Crap, I feel like throwing up...</p>
+<p t="288130" d="100" wp="2" ws="1" p="25">*haachama rainbows*</p>
+<p t="288230" d="3670" wp="2" ws="1" p="10">Please stand by.</p>
+<p t="292570" d="2000" wp="2" ws="1" p="25">I threw up...</p>
+<p t="295110" d="2030" wp="2" ws="1" p="25">Am I an idiot?</p>
+<p t="297140" d="2800" wp="2" ws="1" p="25">Haachama must be an idiot, huh?</p>
+<p t="300380" d="1705" wp="2" ws="1" p="25">Haachama!</p>
+<p t="302085" d="935" wp="2" ws="1"><s p="25">Haachama! </s><s>​</s><s p="3">Is!</s></p>
+<p t="303020" d="1330" wp="2" ws="1" p="25">Haachama! Is!</p>
+<p t="304350" d="1670" wp="2" ws="1" p="25">A Real Idiot, Right?!</p>
+<p t="306020" d="2830" wp="2" ws="1" p="9">Log 007: Relish the Challenge of the Super Spicy</p>
+<p t="308850" d="3070" wp="42" ws="3" p="9">If anyone caught your attention, come join their streams!</p>
+<p t="311920" d="1540" wp="42" ws="3" p="10">Extra</p>
+<p t="313560" d="4270" wp="4" ws="1" p="13">1st Gen: Shirakami Fubuki</p>
+<p t="314890" d="900" wp="2" ws="1" p="13">I smell death...</p>
+<p t="315790" d="2510" wp="2" ws="1" p="15">You smell death?!</p>
+<p t="318300" d="1030" wp="2" ws="1" p="13">Yeah, it reeks of death.</p>
+<p t="319030" d="1640" wp="9" ws="1" p="15">Is eating this gonna be fine...?</p>
+<p t="319330" d="1340" wp="2" ws="1" p="13">Well!</p>
+<p t="321370" d="2930" wp="2" ws="1" p="13">Let&#39;s eat!</p>
+<p t="322600" d="1700" wp="9" ws="1" p="15">Go on...</p>
+<p t="325170" d="1940" wp="2" ws="1" p="13">Oh, it&#39;s tasty!</p>
+<p t="325970" d="2140" wp="27" ws="1" p="15">Whaaaaaa?!</p>
+<p t="327110" d="1000" wp="2" ws="1" p="13">Uh, but,</p>
+<p t="328110" d="3630" wp="2" ws="1" p="13">I instantly felt the spice come at me the moment</p>
+<p t="331740" d="1100" wp="2" ws="1" p="13">it touched my tongue,</p>
+<p t="332840" d="2840" wp="2" ws="1" p="13">but even afterwards, it feels like the spice is building up!</p>
+<p t="334450" d="1230" wp="9" ws="1" p="15">*stares in disbelief*</p>
+<p t="335680" d="1240" wp="2" ws="1" p="15">Y&#39;look totally fine...</p>
+<p t="337180" d="2800" wp="2" ws="1" p="15">You&#39;re overpowered, Fubuking.</p>
+<p t="339980" d="2145" wp="2" ws="1" p="13">Yeah, it&#39;s just tasty.</p>
+<p t="342125" d="2203" wp="2" ws="1"><s p="13">It&#39;s spicy, </s><s>​</s><s p="3">but tasty.</s></p>
+<p t="343590" d="2100" wp="9" ws="1" p="15">Yeah...</p>
+<p t="344328" d="1362" wp="2" ws="1" p="13">It&#39;s spicy, but tasty.</p>
+<p t="346830" d="2360" wp="9" ws="1" p="15">Wild...</p>
+<p t="347630" d="3970" wp="2" ws="1" p="13">Scoop up the cabbage leaves and...</p>
+<p t="349660" d="1940" wp="9" ws="1" p="15">This gal&#39;s crazy...</p>
+<p t="353230" d="1470" wp="2" ws="1" p="13">All done! Thanks for the meal!</p>
+<p t="354230" d="1740" wp="9" ws="1" p="15">You&#39;re kidding me...?</p>
+<p t="354700" d="3840" wp="2" ws="1" p="13">It was really yummy!</p>
+<p t="355970" d="2570" wp="9" ws="1" p="15">I still haven&#39;t finished half of mine...</p>
+<p t="358540" d="10040" wp="42" ws="3" p="9">If anyone caught your attention, come join their streams!</p>
+<p t="5000" d="100" wp="43" ws="3" p="26">​</p>
+<p t="5000" d="100" wp="43" ws="3" p="27">​</p>
+</body>
+</timedtext>

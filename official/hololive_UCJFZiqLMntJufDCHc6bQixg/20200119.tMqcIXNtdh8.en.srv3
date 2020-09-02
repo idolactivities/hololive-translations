@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#C57F7F" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="2" fc="#B6E9FE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="3" fc="#FFB5D8" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="4" i="1" fc="#FFB5D8" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="5" i="1" fc="#B6E9FE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="6" b="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#A39FDC" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="9" i="1" fc="#A39FDC" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="10" i="1" fc="#C57F7F" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#2CA9E1" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#CA80F5" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FFA5B6" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#EC6800" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#FEF263" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#FAD850" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#FEFEFE" fo="183" bc="#FFFFFF" bo="133" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#FEFEFE" fo="110" bc="#FFFFFF" bo="80" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#FEFEFE" fo="37" bc="#FFFFFF" bo="26" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#E95464" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="21" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="22" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="1" ah="50" av="0"/>
+<wp id="1" ap="7" ah="50" av="100"/>
+<wp id="4" ap="7" ah="50" av="80"/>
+<wp id="2" ap="7" ah="50" av="90"/>
+<wp id="5" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="1" d="2943" wp="1" ws="1" p="1">The Toyosu PIT concert is this weekend!
+It&#39;s almost here!​</p>
+<p t="2944" d="633" wp="1" ws="1" p="2">Really?!​</p>
+<p t="3577" d="601" wp="1" ws="1" p="1">Huh?​</p>
+<p t="3577" d="601" wp="2" ws="1" p="3">Huh?​</p>
+<p t="4178" d="934" wp="1" ws="1" p="2">I had no idea.​</p>
+<p t="5112" d="1701" wp="2" ws="1" p="3">How is that possible?​</p>
+<p t="5880" d="1101" wp="1" ws="1" p="1">Don&#39;t tell me...​</p>
+<p t="6981" d="934" wp="1" ws="1" p="1">Is it amnesia?​</p>
+<p t="7915" d="1502" wp="1" ws="1" p="2">Of course not!​</p>
+<p t="9417" d="2102" wp="1" ws="1" p="2">I remember both your names,
+and I can write them, too!​</p>
+<p t="11519" d="1166" wp="1" ws="1" p="2">Watch me!​</p>
+<p t="16424" d="634" wp="1" ws="1" p="2">Huh?​</p>
+<p t="17058" d="1601" wp="1" ws="1" p="2">I can&#39;t write with this fork...​</p>
+<p t="18659" d="1702" wp="1" ws="1"><s p="3">It ​</s><s>​</s><s p="4">is ​</s><s p="3">amnesia!​</s></p>
+<p t="20361" d="2436" wp="1" ws="1" p="1">I&#39;ll search my logs for helpful information.​</p>
+<p t="22797" d="1800" wp="1" ws="1" p="3">That&#39;s our high-spec robot!​</p>
+<p t="25666" d="2303" wp="1" ws="1" p="3">Just searching through your logs makes you glow?​</p>
+<p t="27969" d="1867" wp="1" ws="1"><s p="2">Well, Roboco-san ​</s><s>​</s><s p="5">is ​</s><s p="2">really high-spec.​</s></p>
+<p t="33374" d="1802" wp="3" ws="1"><s p="6">Year of the Rat​</s><s>​</s><s p="7">​
+​Shampoo yummy​</s></p>
+<p t="35176" d="2035" wp="1" ws="1" p="1">No clues in my diary.​</p>
+<p t="37211" d="1335" wp="1" ws="1" p="3">What was that all about?!​</p>
+<p t="38546" d="934" wp="1" ws="1" p="2">Check this out!​</p>
+<p t="39480" d="2769" wp="1" ws="1" p="2">I can walk forward when
+I move my left and right legs alternately!​</p>
+<p t="42249" d="1702" wp="1" ws="1" p="3">She can&#39;t perform like this!​</p>
+<p t="43951" d="768" wp="1" ws="1" p="3">What do we do?!​</p>
+<p t="44719" d="3069" wp="1" ws="1" p="1">I hear eating fish makes you smarter.​</p>
+<p t="47788" d="601" wp="1" ws="1" p="1">Why not try it?​</p>
+<p t="48389" d="2635" wp="1" ws="1" p="3">I think you need it more than her.​</p>
+<p t="52026" d="1467" wp="1" ws="1" p="5">I&#39;ve got them hook, line, and sinker...​</p>
+<p t="54161" d="967" wp="1" ws="1" p="5">I think?​</p>
+<p t="54929" d="2369" wp="4" ws="1" p="1">How about a bigger fish?​</p>
+<p t="55429" d="3003" wp="1" ws="1" p="5">The poor things don&#39;t know
+we&#39;re filming for A-chan&#39;s Prank&#39;d idea.​</p>
+<p t="57298" d="1134" wp="4" ws="1" p="3">Where were you hiding that?!​</p>
+<p t="58432" d="1968" wp="1" ws="1" p="5">They&#39;re trying so hard for me! Thank you both!​</p>
+<p t="61002" d="2736" wp="1" ws="1" p="5">The plan is for A-chan to walk in
+and let them know.​</p>
+<p t="63738" d="1968" wp="1" ws="1" p="5">What&#39;s taking her so long?​</p>
+<p t="65706" d="1268" wp="1" ws="1" p="8">I heard Sora&#39;s in trouble!​</p>
+<p t="66974" d="2268" wp="2" ws="1" p="3">A-chan! You see, Sora-chan&#39;s...​</p>
+<p t="68442" d="800" wp="1" ws="1" p="8">You&#39;ve been Pun...​</p>
+<p t="70011" d="1868" wp="1" ws="1" p="1">Sorry! My hand slipped!​</p>
+<p t="71879" d="2302" wp="1" ws="1" p="8">Where am I? Who am I?​</p>
+<p t="74181" d="1635" wp="1" ws="1" p="3">We have another amnesiac now!​</p>
+<p t="75816" d="3571" wp="3" ws="1" p="7">You&#39;ve Been Prank&#39;d!​</p>
+<p t="75816" d="1869" wp="1" ws="1" p="9">Yikes. I was messing around,
+but they took it seriously.​</p>
+<p t="77685" d="1702" wp="1" ws="1" p="9">Someone notice the board!​</p>
+<p t="79387" d="2302" wp="1" ws="1" p="4">Look at that board. This is definitely a prank.​</p>
+<p t="81689" d="3168" wp="1" ws="1" p="10">There&#39;s no fish zodiac, is there?​</p>
+<p t="83457" d="1634" wp="2" ws="1" p="5">Wh-What am I supposed to do?​</p>
+<p t="85760" d="1166" wp="1" ws="1" p="1">What&#39;s this?​</p>
+<p t="88295" d="1969" wp="3" ws="1" p="7">You&#39;ve been Prank&#39;d!​</p>
+<p t="88529" d="1735" wp="1" ws="1" p="3">What was the point of that board, then?!​</p>
+<p t="90264" d="400" wp="1" ws="1" p="8">Ta-da!​</p>
+<p t="90664" d="1535" wp="1" ws="1" p="8">We&#39;re going nonstop!​</p>
+<p t="92199" d="3270" wp="1" ws="1" p="2">S-So yeah, we&#39;re having a concert on Jan 24th!​</p>
+<p t="95469" d="967" wp="1" ws="1" p="2">Don&#39;t miss it!​</p>
+<p t="101375" d="1502" wp="1" ws="1" p="11">What? A movie?!​</p>
+<p t="102877" d="1368" wp="1" ws="1" p="12">You guys just don&#39;t get it.​</p>
+<p t="104245" d="1967" wp="1" ws="1" p="12">Your ideas are too simple-minded.​</p>
+<p t="105246" d="2334" wp="2" ws="1" p="13">You&#39;re here, Sora-senpai?​</p>
+<p t="106914" d="2668" wp="1" ws="1" p="2">Y-Yeah. I just got in.​</p>
+<p t="108749" d="2301" wp="2" ws="1" p="14">Not the same thing we do every week?​</p>
+<p t="112019" d="1634" wp="1" ws="1" p="11">When did you get here, Matsuri-chan?​</p>
+<p t="112820" d="1834" wp="4" ws="1" p="15">If we&#39;re looking to change things up...​</p>
+<p t="113954" d="2136" wp="1" ws="1" p="16">Which do you prefer, Okayu?
+Barley tea or roasted?​</p>
+<p t="115356" d="1734" wp="4" ws="1" p="13">We can&#39;t do those, either!​</p>
+<p t="116090" d="1735" wp="1" ws="1" p="14">I know! Let&#39;s have Sora-senpai decide!​</p>
+<p t="117825" d="766" wp="1" ws="1" p="14">The title?​</p>
+<p t="118692" d="3437" wp="1" ws="1" p="7">holo no graffiti the Movie: Reincarnation​</p>
+<p t="122129" d="1602" wp="1" ws="1" p="7">Debuts Jan 24th (Fri)
+in Toyosu PIT​</p>
+<p t="123731" d="67" wp="1" ws="1" p="17">Debuts Jan 24th (Fri)
+in Toyosu PIT​</p>
+<p t="123798" d="66" wp="1" ws="1" p="18">Debuts Jan 24th (Fri)
+in Toyosu PIT​</p>
+<p t="123864" d="100" wp="1" ws="1" p="19">Debuts Jan 24th (Fri)
+in Toyosu PIT​</p>
+<p t="123964" d="1502" wp="1" ws="1" p="20">Let me handle this one.​</p>
+<p t="125466" d="1533" wp="1" ws="1" p="20">I happen to be an expert in these scenarios.​</p>
+<p t="5000" d="100" wp="5" ws="2" p="21">​​</p>
+<p t="5000" d="100" wp="5" ws="2" p="22">​​</p>
+</body>
+</timedtext>
