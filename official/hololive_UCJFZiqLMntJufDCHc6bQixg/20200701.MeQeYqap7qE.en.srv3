@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="3" fc="#F04E87" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#F495E1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#FAD850" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#F897E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#D4D6DE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#F795D5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#D9D9D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#F37157" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#B6E9FE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#ED2866" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#F49208" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#F9C73B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#5844C8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#DE64F9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#EC414F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#F599E2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#CA80F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#DDDDDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#F15857" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#F497E4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#1FF0B0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" i="1" fc="#F04E87" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#23FD19" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#FBE799" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#C7EFFD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#8CD9F8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#EF6234" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#DB3F46" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" i="1" fc="#DB3F46" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" i="1" fc="#EF6234" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#F6C91D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#F579DE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#E90002" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="38" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="5" ap="0" ah="0" av="0"/>
+<wp id="17" ap="0" ah="0" av="20"/>
+<wp id="6" ap="0" ah="0" av="9"/>
+<wp id="7" ap="1" ah="50" av="20"/>
+<wp id="10" ap="1" ah="50" av="9"/>
+<wp id="8" ap="2" ah="100" av="9"/>
+<wp id="11" ap="3" ah="8" av="55"/>
+<wp id="21" ap="4" ah="25" av="79"/>
+<wp id="18" ap="4" ah="26" av="36"/>
+<wp id="22" ap="4" ah="44" av="54"/>
+<wp id="23" ap="4" ah="50" av="74"/>
+<wp id="2" ap="4" ah="50" av="75"/>
+<wp id="15" ap="4" ah="52" av="34"/>
+<wp id="16" ap="4" ah="55" av="28"/>
+<wp id="13" ap="4" ah="57" av="60"/>
+<wp id="20" ap="4" ah="67" av="68"/>
+<wp id="14" ap="4" ah="74" av="79"/>
+<wp id="4" ap="4" ah="74" av="80"/>
+<wp id="19" ap="4" ah="78" av="36"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="3" ap="7" ah="50" av="100"/>
+<wp id="12" ap="7" ah="50" av="79"/>
+<wp id="9" ap="7" ah="50" av="90"/>
+<wp id="25" ap="8" ah="0" av="0"/>
+<wp id="24" ap="8" ah="100" av="100"/>
+</head>
+<body>
+<p t="1" d="2509" wp="2" ws="1" p="2">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="610" d="1900" wp="3" ws="1" p="3">Bingo, babeh.</p>
+<p t="3280" d="1400" wp="4" ws="1" p="4">lolol</p>
+<p t="4680" d="2500" wp="3" ws="1"><s p="5">We&#39;ll order a Dom Perignon Tower. </s><s>​</s><s p="6">(defeated)</s></p>
+<p t="7180" d="3047" wp="3" ws="1" p="7">Log 006: Let My Voice Enrapture You</p>
+<p t="10227" d="868" wp="3" ws="1"><s p="8">The world only has </s><s>​</s><s p="2">two types of men:</s></p>
+<p t="10650" d="62160" wp="5" ws="2" p="7">Let My Voice Enrapture You</p>
+<p t="11095" d="1768" wp="3" ws="1" p="8">The world only has two types of men:</p>
+<p t="12863" d="1602" wp="3" ws="1"><s p="8">Me... </s><s>​</s><s p="2">and not me.</s></p>
+<p t="14465" d="2785" wp="3" ws="1" p="8">Me... and not me.</p>
+<p t="17250" d="2100" wp="3" ws="1" p="8">You two seem worn out,</p>
+<p t="17350" d="4230" wp="6" ws="2" p="9">Sakura Miko</p>
+<p t="17350" d="4230" wp="7" ws="1" p="5">hololive Gamers: Inugami Korone</p>
+<p t="17350" d="4230" wp="8" ws="3" p="8">3rd Gen: Shirogane Noel</p>
+<p t="19350" d="2300" wp="3" ws="1" p="8">so I figured I could clean your ears for you.</p>
+<p t="20870" d="780" wp="9" ws="1" p="9">Wait, what?</p>
+<p t="21650" d="860" wp="3" ws="1" p="9">Clean our ears?!</p>
+<p t="22510" d="1640" wp="3" ws="1" p="8">Going in slowly.</p>
+<p t="24150" d="792" wp="3" ws="1" p="9">Ahh!</p>
+<p t="24942" d="434" wp="3" ws="1"><s p="9">Th-</s><s>​</s><s p="10">This is amazing!</s></p>
+<p t="25376" d="1104" wp="3" ws="1" p="9">Th-This is amazing!</p>
+<p t="26480" d="2200" wp="3" ws="1" p="9">It&#39;s something else!</p>
+<p t="28680" d="3270" wp="3" ws="1" p="8">When you&#39;re with me, Kurogane,</p>
+<p t="31950" d="2730" wp="3" ws="1" p="8">I want you to be your natural selves.</p>
+<p t="33770" d="1800" wp="9" ws="1" p="9">That&#39;s... That&#39;s so nice.</p>
+<p t="35810" d="2940" wp="3" ws="1"><s p="5">We&#39;ll order a Dom Perignon Tower. </s><s>​</s><s p="6">(defeated)</s></p>
+<p t="38750" d="2030" wp="3" ws="1" p="9">His hands are really pretty.</p>
+<p t="40780" d="2200" wp="3" ws="1" p="5">I like the hands.</p>
+<p t="42980" d="1530" wp="3" ws="1" p="5">Let&#39;s call for Mr. Prettyhands.</p>
+<p t="44510" d="1240" wp="3" ws="1" p="9">Yeah, Mr. Prettyhands.</p>
+<p t="45750" d="1860" wp="3" ws="1" p="11">I&#39;m Homura. You chose me for my hands.</p>
+<p t="45850" d="4160" wp="10" ws="1" p="11">3rd Gen: Shiranui Flare</p>
+<p t="47610" d="2140" wp="3" ws="1" p="11">Nice to meetcha.</p>
+<p t="49750" d="1460" wp="3" ws="1" p="11">You have some amusing criteria.</p>
+<p t="51410" d="1840" wp="3" ws="1" p="11">Are you thirsty? &#39;Cause I am.</p>
+<p t="53250" d="2623" wp="3" ws="1" p="9">What would you like to drink?</p>
+<p t="55873" d="934" wp="3" ws="1"><s p="11">I&#39;ll take </s><s>​</s><s p="10">whatever you two like.</s></p>
+<p t="56807" d="2143" wp="3" ws="1" p="11">I&#39;ll take whatever you two like.</p>
+<p t="58950" d="2995" wp="3" ws="1" p="9">God, he&#39;s a heartthrob for real!</p>
+<p t="61945" d="1168" wp="3" ws="1"><s p="9">Would you seriously be okay
+​</s><s>​</s><s p="10">with us ordering some lamesauce?</s></p>
+<p t="63113" d="1397" wp="3" ws="1" p="9">Would you seriously be okay
+with us ordering some lamesauce?</p>
+<p t="64510" d="1170" wp="3" ws="1" p="11">Oh, absolutely.</p>
+<p t="65680" d="1670" wp="3" ws="1" p="11">I&#39;m fine with anything you choose.</p>
+<p t="67350" d="2130" wp="3" ws="1" p="9">How reasonable! He&#39;s totally reasonable!</p>
+<p t="69480" d="1930" wp="3" ws="1" p="5">Don&#39;t say that!</p>
+<p t="71410" d="1470" wp="3" ws="1" p="11">You two are really so amusing.</p>
+<p t="73280" d="1130" wp="3" ws="1" p="7">Hololog!</p>
+<p t="74480" d="55100" wp="5" ws="2" p="7">Let My Voice Enrapture You</p>
+<p t="74480" d="1900" wp="3" ws="1" p="12">I&#39;m a male virtual YouTuber.</p>
+<p t="76380" d="1500" wp="3" ws="1" p="12">My name is Tokino Sora.</p>
+<p t="77880" d="900" wp="3" ws="1" p="12">Whoa...</p>
+<p t="78780" d="2000" wp="11" ws="2" p="13">Uwah...</p>
+<p t="78780" d="2000" wp="3" ws="1" p="12">You&#39;ve got something in your hair!</p>
+<p t="80780" d="3120" wp="3" ws="1" p="12">Are those ears real?</p>
+<p t="83900" d="1810" wp="3" ws="1" p="12">They&#39;re super cute!</p>
+<p t="85710" d="2362" wp="11" ws="2" p="13">Don&#39;t be scared.
+Come to me, little fox.</p>
+<p t="86360" d="1712" wp="3" ws="1" p="12">I love &#39;em.</p>
+<p t="88072" d="2102" wp="3" ws="1"><s p="14">Good evening. </s><s>​</s><s p="10">I&#39;m Natsuiro Matsuhiko.</s></p>
+<p t="88180" d="4200" wp="10" ws="1" p="14">1st Gen: Natsuiro Matsuri</p>
+<p t="90174" d="1976" wp="3" ws="1" p="14">Good evening. I&#39;m Natsuiro Matsuhiko.</p>
+<p t="92150" d="4160" wp="3" ws="1" p="14">There were a bunch of lewd questions...</p>
+<p t="96310" d="1200" wp="3" ws="1" p="14">What&#39;s up with that?</p>
+<p t="98950" d="2030" wp="3" ws="1" p="14">Is it your fault, Matsuri?</p>
+<p t="101118" d="1601" wp="3" ws="1"><s p="14">Yo, this really makes me wonder...
+​</s><s>​</s><s p="10">What the hell kinda streams do you do?</s></p>
+<p t="102719" d="2591" wp="3" ws="1" p="14">Yo, this really makes me wonder...
+What the hell kinda streams do you do?</p>
+<p t="105889" d="935" wp="3" ws="1"><s p="14">Huh? </s><s>​</s><s p="10">Er...</s></p>
+<p t="106824" d="2356" wp="3" ws="1" p="14">Huh? Er...</p>
+<p t="109180" d="2200" wp="3" ws="1" p="14">Uh...</p>
+<p t="111380" d="770" wp="3" ws="1" p="15">Y&#39;know...</p>
+<p t="111480" d="4170" wp="10" ws="1" p="15">1st Gen: Yozora Mel</p>
+<p t="112150" d="4400" wp="3" ws="1" p="15">What&#39;s not to love about girls
+who are upfront about their feelings?</p>
+<p t="116550" d="4600" wp="3" ws="1" p="15">Wouldn&#39;t you be all like, &quot;I can&#39;t believe
+you&#39;re professing your love to a guy like me&quot;?</p>
+<p t="121150" d="2791" wp="3" ws="1" p="16">Can you do that one more time in a stud voice?</p>
+<p t="123941" d="1568" wp="3" ws="1"><s p="15">I can&#39;t believe you&#39;re professing your love
+​</s><s>​</s><s p="10">to a guy like me. You&#39;re so precious, babe.</s></p>
+<p t="125509" d="4071" wp="3" ws="1" p="15">I can&#39;t believe you&#39;re professing your love
+to a guy like me. You&#39;re so precious, babe.</p>
+<p t="127580" d="2000" wp="12" ws="1" p="16">Thank you so very much!</p>
+<p t="129950" d="1130" wp="3" ws="1" p="7">Hololog!</p>
+<p t="131150" d="116860" wp="5" ws="2" p="7">Let My Voice Enrapture You</p>
+<p t="131150" d="1900" wp="3" ws="1" p="17">Oh boy, my voice sounds so deep. (Just woke up)</p>
+<p t="131250" d="4240" wp="6" ws="2" p="17">4th Gen: Tokoyami Towa</p>
+<p t="131250" d="4240" wp="8" ws="3" p="18">Roboco San</p>
+<p t="132640" d="1600" wp="9" ws="1" p="18">It does!</p>
+<p t="133050" d="1730" wp="3" ws="1" p="17">Super deep. Yikes.</p>
+<p t="135490" d="970" wp="3" ws="1" p="17">This is nuts!</p>
+<p t="136460" d="1120" wp="9" ws="1" p="18">It is.</p>
+<p t="136460" d="1760" wp="3" ws="1" p="17">Hold up. This is too deep.</p>
+<p t="138220" d="2090" wp="3" ws="1" p="18">Super-duper deep!</p>
+<p t="140310" d="1600" wp="3" ws="1" p="18">Do the Orochimaru for me.</p>
+<p t="142050" d="2130" wp="3" ws="1" p="17">You see, I...</p>
+<p t="144180" d="2330" wp="3" ws="1" p="17">Look, I don&#39;t know how &quot;the Orochimaru&quot; goes!</p>
+<p t="146910" d="1270" wp="3" ws="1" p="18">Say, &quot;Sasuke-kun!&quot;</p>
+<p t="148180" d="2670" wp="3" ws="1" p="17">Sasuke-kun!</p>
+<p t="151250" d="2060" wp="3" ws="1" p="18">I&#39;m not sleepy at all.</p>
+<p t="153310" d="1770" wp="3" ws="1" p="18">It&#39;s just how my voice sounds right now.</p>
+<p t="156110" d="1570" wp="3" ws="1" p="18">So...</p>
+<p t="158080" d="2430" wp="3" ws="1" p="18">I&#39;m going in one more time.</p>
+<p t="160510" d="1470" wp="13" ws="1" p="19">sharp</p>
+<p t="162150" d="3460" wp="3" ws="1" p="20">They want me to say something
+that&#39;d help them sleep easy?</p>
+<p t="165610" d="1840" wp="3" ws="1" p="20">What can I even say?</p>
+<p t="167751" d="1034" wp="3" ws="1"><s p="20">Sleep tight. </s><s>​</s><s p="10">Pleasant dreams.</s></p>
+<p t="168785" d="1595" wp="3" ws="1" p="20">Sleep tight. Pleasant dreams.</p>
+<p t="170380" d="1600" wp="3" ws="1" p="20">How&#39;s that?</p>
+<p t="171980" d="1900" wp="3" ws="1" p="20">Did that help?</p>
+<p t="173880" d="3470" wp="3" ws="1" p="21">Thank you, Alphonso-chan. (Reading SuperChats)</p>
+<p t="173980" d="4230" wp="10" ws="1" p="22">1st Gen: Akai Haato</p>
+<p t="190610" d="1400" wp="14" ws="1" p="23">lolol</p>
+<p t="192080" d="4330" wp="6" ws="2" p="3">2nd Gen: Nakiri Ayame</p>
+<p t="192080" d="4330" wp="8" ws="3" p="24">3rd Gen: Uruha Rushia</p>
+<p t="192543" d="367" wp="3" ws="1"><s p="3">Sh-</s><s>​</s><s p="10">Should I call you Rushifer?</s></p>
+<p t="192550" d="3760" wp="15" ws="1" p="2">Have a conversation between
+Rushifer and Kijin Hyakki, please.</p>
+<p t="192910" d="3400" wp="3" ws="1" p="3">Sh-Should I call you Rushifer?</p>
+<p t="197510" d="3800" wp="3" ws="1" p="24">Thanks for coming to hang out on my stream.</p>
+<p t="201560" d="3350" wp="3" ws="1"><s p="3">No, thank </s><s>​</s><s p="25">you </s><s p="3">for having me on.</s></p>
+<p t="204910" d="1600" wp="3" ws="1" p="24">Hold up!</p>
+<p t="208610" d="1740" wp="3" ws="1" p="24">I can&#39;t stop blushing! My face is on fire!</p>
+<p t="210350" d="2000" wp="3" ws="1" p="3">Let&#39;s just move on! Move on!</p>
+<p t="212350" d="1600" wp="3" ws="1" p="26">Now hang on just a damn minute.</p>
+<p t="212380" d="35630" wp="2" ws="1" p="2">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="213950" d="1600" wp="3" ws="1" p="26">Viewy (the audience) is in love with me!</p>
+<p t="215550" d="2200" wp="3" ws="1" p="26">This chocolate&#39;s obviously for me.</p>
+<p t="217750" d="1560" wp="3" ws="1" p="27">No, you wait up.</p>
+<p t="219310" d="3070" wp="3" ws="1" p="27">Do you lot even know
+the type of guy Viewy&#39;s into?</p>
+<p t="222380" d="1630" wp="3" ws="1" p="28">What is it?</p>
+<p t="224010" d="2900" wp="3" ws="1" p="27">Viewy loves the ripped and the swole.</p>
+<p t="227810" d="2040" wp="3" ws="1" p="3">No, no, wait.</p>
+<p t="229850" d="2660" wp="3" ws="1" p="3">Do you all even know what Viewy&#39;s favorite line is?</p>
+<p t="232510" d="890" wp="3" ws="1" p="27">What is it?</p>
+<p t="233400" d="680" wp="3" ws="1" p="27">Spit it out.</p>
+<p t="235610" d="1600" wp="3" ws="1" p="3">Are you ready? It&#39;s...</p>
+<p t="238910" d="2100" wp="3" ws="1" p="3">&quot;Bingo, babeh.&quot;</p>
+<p t="242510" d="2540" wp="3" ws="1" p="26">I saw that coming from a mile away.</p>
+<p t="244380" d="2000" wp="9" ws="1" p="27">You fail.</p>
+<p t="245310" d="2700" wp="16" ws="1" p="2">Ayame Fail!</p>
+<p t="248010" d="4140" wp="3" ws="1" p="7">Log 006: Fell for the Voice? Bingo, Babeh.</p>
+<p t="252150" d="1700" wp="5" ws="2" p="2">Extra</p>
+<p t="253850" d="109860" wp="5" ws="2" p="7">Those Whose Stud Voices Failed Them</p>
+<p t="253850" d="6000" wp="3" ws="1" p="29">Y&#39;know, the hosts in Kabukicho
+go straight for the DomPeri Tower.</p>
+<p t="253950" d="4230" wp="10" ws="1" p="29">3rd Gen: Usada Pekora</p>
+<p t="259850" d="3296" wp="3" ws="1" p="29">As a good Bekora, I thought I should let you know.</p>
+<p t="263146" d="901" wp="3" ws="1"><s p="5">All he&#39;s talked about since we&#39;ve sat down
+​</s><s>​</s><s p="10">is frickin&#39; Dom Perignon!</s></p>
+<p t="264047" d="2970" wp="3" ws="1" p="5">All he&#39;s talked about since we&#39;ve sat down
+is frickin&#39; Dom Perignon!</p>
+<p t="267017" d="1602" wp="3" ws="1"><s p="9">And he&#39;s basically calling us </s><s>​</s><s p="10">bumpkins!</s></p>
+<p t="268619" d="1591" wp="3" ws="1" p="9">And he&#39;s basically calling us bumpkins!</p>
+<p t="270210" d="1740" wp="3" ws="1" p="5">What an awful host!</p>
+<p t="271950" d="1030" wp="3" ws="1" p="5">Right?</p>
+<p t="272980" d="1600" wp="3" ws="1" p="5">Can we get some water, please?</p>
+<p t="275950" d="2130" wp="3" ws="1" p="9">Oh, and some wet wipes.</p>
+<p t="279180" d="4200" wp="6" ws="2" p="30">4th Gen: Kiryu Coco</p>
+<p t="279180" d="4200" wp="8" ws="3" p="31">3rd Gen: Houshou Marine</p>
+<p t="279380" d="1170" wp="3" ws="1" p="31">Why?</p>
+<p t="280550" d="2216" wp="3" ws="1" p="31">Why does this always happen with me?</p>
+<p t="282766" d="1101" wp="3" ws="1"><s p="31">Why must </s><s>​</s><s p="10">one of us have to die?</s></p>
+<p t="283867" d="1443" wp="3" ws="1" p="31">Why must one of us have to die?</p>
+<p t="285310" d="2561" wp="3" ws="1" p="31">Why? Somebody tell me why!</p>
+<p t="287871" d="601" wp="3" ws="1"><s p="30">Uh, are you </s><s>​</s><s p="10">offering to off yourself?</s></p>
+<p t="288472" d="1838" wp="3" ws="1" p="30">Uh, are you offering to off yourself?</p>
+<p t="291550" d="1630" wp="3" ws="1" p="31">Wait, no. I can explain.</p>
+<p t="293180" d="2100" wp="3" ws="1"><s p="31">I&#39;m watching a </s><s>​</s><s p="32">Yakuza </s><s p="31">quotes compilation here.</s></p>
+<p t="295750" d="1360" wp="3" ws="1" p="31">I won&#39;t hold back.</p>
+<p t="297110" d="2140" wp="3" ws="1" p="31">Come at me if you&#39;re ready to die!</p>
+<p t="299316" d="1335" wp="3" ws="1"><s p="31">You can </s><s>​</s><s p="10">think of me as K-Kazuma, okay?</s></p>
+<p t="300651" d="2699" wp="3" ws="1" p="31">You can think of me as K-Kazuma, okay?</p>
+<p t="303350" d="360" wp="3" ws="1" p="31">Huh?</p>
+<p t="303710" d="760" wp="3" ws="1" p="30">K... Ka...</p>
+<p t="305650" d="1600" wp="3" ws="1" p="30">Houshou Kazuma-san?</p>
+<p t="308750" d="2745" wp="3" ws="1" p="31">F-Forget I said anything. I&#39;m out.</p>
+<p t="311495" d="1067" wp="3" ws="1"><s p="30">I think I&#39;ll whisper </s><s>​</s><s p="10">some creepy nothings
+in your ear with a stud voice.</s></p>
+<p t="312562" d="2748" wp="3" ws="1" p="30">I think I&#39;ll whisper some creepy nothings
+in your ear with a stud voice.</p>
+<p t="315310" d="1240" wp="3" ws="1" p="30">In my stud voice.</p>
+<p t="316550" d="1418" wp="3" ws="1" p="30">Yeah, in my stud voice.</p>
+<p t="317968" d="1568" wp="3" ws="1"><s p="30">What? You can&#39;t sleep</s><s>​</s><s p="10">?</s></p>
+<p t="319536" d="1668" wp="3" ws="1" p="30">What? You can&#39;t sleep?</p>
+<p t="321204" d="568" wp="3" ws="1"><s p="30">Do you wanna </s><s>​</s><s p="10">lie down...</s></p>
+<p t="321772" d="1138" wp="3" ws="1" p="30">Do you wanna lie down...</p>
+<p t="322910" d="2140" wp="3" ws="1" p="30">next to me?</p>
+<p t="325050" d="3030" wp="3" ws="1"><s p="30">Yeah, no, that did </s><s>​</s><s p="33">not </s><s p="30">work.</s></p>
+<p t="328210" d="4240" wp="17" ws="2" p="34">4th Gen: Tsunomaki Watame</p>
+<p t="328210" d="4240" wp="10" ws="1" p="35">4th Gen: Himemori Luna</p>
+<p t="328278" d="1735" wp="3" ws="1"><s p="34">Thanks </s><s>​</s><s p="10">for dropping by today.</s></p>
+<p t="330013" d="2067" wp="3" ws="1" p="34">Thanks for dropping by today.</p>
+<p t="332080" d="1370" wp="3" ws="1" p="34">What&#39;ll you have?</p>
+<p t="333450" d="2002" wp="3" ws="1"><s p="34">Champagne? </s><s>​</s><s p="10">DomPeri?</s></p>
+<p t="335452" d="1198" wp="3" ws="1" p="34">Champagne? DomPeri?</p>
+<p t="336650" d="1960" wp="3" ws="1" p="35">Is that Crayo* Shin-chan?</p>
+<p t="337890" d="720" wp="9" ws="1" p="34">Beer, maybe?</p>
+<p t="340050" d="1408" wp="3" ws="1" p="22">Who&#39;re you supposed to be?</p>
+<p t="341458" d="534" wp="3" ws="1"><s p="34">Order of DomPeri, </s><s>​</s><s p="10">Table 1!</s></p>
+<p t="341992" d="1688" wp="3" ws="1" p="34">Order of DomPeri, Table 1!</p>
+<p t="343680" d="3000" wp="18" ws="1" p="34">Woohoo!</p>
+<p t="344310" d="2370" wp="19" ws="1" p="34">Woohoo!</p>
+<p t="344780" d="1900" wp="20" ws="1" p="34">hoo!</p>
+<p t="345010" d="1670" wp="21" ws="1" p="34">hoo!</p>
+<p t="345350" d="1330" wp="22" ws="1" p="34">Woohoo!</p>
+<p t="345810" d="870" wp="23" ws="1" p="36">WOOHOO!</p>
+<p t="346680" d="1970" wp="3" ws="1" p="35">Hol&#39;wup one second!</p>
+<p t="348650" d="1800" wp="3" ws="1" p="22">Hol&#39;wup one second!</p>
+<p t="350450" d="2030" wp="3" ws="1" p="35">That&#39;s no stud voice!</p>
+<p t="352480" d="2400" wp="3" ws="1" p="35">Just for you...</p>
+<p t="354880" d="3495" wp="3" ws="1" p="35">I booked this room.</p>
+<p t="358375" d="1401" wp="3" ws="1"><s p="35">Let&#39;s spend </s><s>​</s><s p="10">all night</s></p>
+<p t="359776" d="1274" wp="3" ws="1" p="35">Let&#39;s spend all night</p>
+<p t="361050" d="2660" wp="3" ws="1" p="35">filling each other up with warmth.</p>
+<p t="363710" d="10800" wp="24" ws="3" p="7">If anyone caught your attention, come join their streams!</p>
+<p t="5000" d="100" wp="25" ws="3" p="37">​</p>
+<p t="5000" d="100" wp="25" ws="3" p="38">​</p>
+</body>
+</timedtext>

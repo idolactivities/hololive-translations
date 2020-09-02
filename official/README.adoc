@@ -1,0 +1,16 @@
+== official translations
+
+Currently, these are fetched via `youtube-dl` for archival purposes.
+
+[source,bash]
+----
+alias dl_ch_subs='youtube-dl --ignore-config --cookies /tmp/cookies.txt -o "%(upload_date)s.%(id)s.%(ext)s" --sub-lang en --write-sub --sub-format=srv3 --skip-download'
+( cd hololive_UCJFZiqLMntJufDCHc6bQixg; dl_ch_subs https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg )
+( cd holostars_UCWsfcksUUpoEvhia0_ut0bA; dl_ch_subs https://www.youtube.com/channel/UCWsfcksUUpoEvhia0_ut0bA )
+# ( cd kiryu_coco_UCS9uQI-jC3DE0L4IpXyvr6w; dl_ch_subs https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w )
+----
+
+== morale
+
+Clips that included Kaoru on the official Holostars were privated, so who knows
+what management will do on someone else's contract expiration.

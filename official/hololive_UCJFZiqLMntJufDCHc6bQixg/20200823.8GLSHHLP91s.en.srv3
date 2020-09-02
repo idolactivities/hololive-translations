@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#8CD9F8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="3" fc="#DB3F46" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#FA9382" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#6CD3F0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" i="1" fc="#6CD3F0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#C7EFFD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#10C5FA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="10" i="1" fc="#828C96" fo="0" bo="0" sz="100"/>
+<pen id="11" i="1" fc="#FFFFFF" fo="0" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="4" ap="7" ah="25" av="100"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="3" ap="7" ah="80" av="100"/>
+<wp id="5" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="1610" d="2040" wp="2" ws="1" p="2">​Whatcha doin&#39;, Maririn?!</p>
+<p t="5110" d="440" wp="2" ws="1" p="3">​Okay.</p>
+<p t="5550" d="1460" wp="2" ws="1" p="4">​What are you up to, Captain?</p>
+<p t="7010" d="3300" wp="2" ws="1" p="3">​Ship in a Bottle.
+​It looked interesting, so I bought a kit.</p>
+<p t="10310" d="2080" wp="2" ws="1" p="5">​Looks like it needs a lot of focus.</p>
+<p t="12390" d="3220" wp="2" ws="1" p="3">​It does, so try to keep it down, okay?</p>
+<p t="21160" d="650" wp="2" ws="1" p="3">​What the—?!</p>
+<p t="21810" d="3010" wp="2" ws="1" p="5">​We&#39;re having a party to celebrate
+​Coco-chan&#39;s hair growing by 1cm.</p>
+<p t="25210" d="1970" wp="2" ws="1" p="3">​Do you have to do that now?!</p>
+<p t="27180" d="2660" wp="2" ws="1" p="3">​Geez, I asked you to keep it down, didn&#39;t I?</p>
+<p t="29840" d="870" wp="2" ws="1" p="4">​Sorry.</p>
+<p t="30710" d="2470" wp="2" ws="1" p="5">​Pin-drop silence, Coco-chan.</p>
+<p t="33180" d="570" wp="2" ws="1" p="4">​Roger!</p>
+<p t="35270" d="730" wp="2" ws="1" p="3">​Uh...</p>
+<p t="36000" d="1190" wp="2" ws="1" p="3">​What are you doing?</p>
+<p t="37190" d="730" wp="2" ws="1" p="5">​Hide-and-seek.</p>
+<p t="37920" d="1590" wp="2" ws="1" p="3">​It&#39;s hella distracting.</p>
+<p t="39510" d="1320" wp="2" ws="1" p="3">​Do it back at your place!</p>
+<p t="40830" d="790" wp="2" ws="1" p="4">​You&#39;re out, Sui-chan.</p>
+<p t="41620" d="430" wp="2" ws="1" p="5">​No!</p>
+<p t="42050" d="810" wp="2" ws="1" p="5">​Ouch!</p>
+<p t="42860" d="1050" wp="2" ws="1" p="3">​So noisy!</p>
+<p t="43910" d="2630" wp="2" ws="1" p="3">​If this happens one more time,
+​I&#39;ll get mad for real, you hear me?</p>
+<p t="46540" d="870" wp="3" ws="1" p="5">​...and clear.</p>
+<p t="46540" d="870" wp="2" ws="1" p="4">​Loud...</p>
+<p t="52880" d="1840" wp="2" ws="1" p="6">​Oh no! Coco-chan&#39;s gonna sneeze!</p>
+<p t="54720" d="2660" wp="2" ws="1" p="6">​And there&#39;s a shaky pan
+​directly above the captain!</p>
+<p t="57380" d="1100" wp="2" ws="1" p="4">​Ach...</p>
+<p t="58480" d="1400" wp="2" ws="1" p="6">​Phew, close shave.</p>
+<p t="59880" d="1470" wp="2" ws="1" p="6">​Crap, her hair...</p>
+<p t="61350" d="360" wp="2" ws="1" p="5">​Ac...</p>
+<p t="61710" d="730" wp="4" ws="1" p="2">​Achoo!</p>
+<p t="67010" d="1100" wp="2" ws="1" p="7">​&#39;ello!</p>
+<p t="68110" d="1270" wp="2" ws="1" p="7">​What happened here?!</p>
+<p t="69380" d="4770" wp="2" ws="1" p="8">​If you enjoyed this, smash that like button!</p>
+<p t="5000" d="100" wp="5" ws="2"><s p="9">​</s><s>​</s><s p="10">​</s></p>
+<p t="5000" d="100" wp="5" ws="2"><s p="11">​</s><s>​</s><s p="10">​</s></p>
+</body>
+</timedtext>
