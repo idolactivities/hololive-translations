@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="0"/>
+<pen id="3" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#008CD9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#A17AFF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#008CD9" fo="251" bc="#FFFFFF" bo="226" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#FEFEFE" fo="251" bc="#FFFFFF" bo="226" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#008CD9" fo="234" bc="#FFFFFF" bo="211" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#FEFEFE" fo="234" bc="#FFFFFF" bo="211" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#008CD9" fo="216" bc="#FFFFFF" bo="194" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#FEFEFE" fo="216" bc="#FFFFFF" bo="194" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#008CD9" fo="198" bc="#FFFFFF" bo="178" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FEFEFE" fo="198" bc="#FFFFFF" bo="178" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#008CD9" fo="181" bc="#FFFFFF" bo="163" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#FEFEFE" fo="181" bc="#FFFFFF" bo="163" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#008CD9" fo="163" bc="#FFFFFF" bo="147" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#FEFEFE" fo="163" bc="#FFFFFF" bo="147" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#008CD9" fo="146" bc="#FFFFFF" bo="131" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#FEFEFE" fo="146" bc="#FFFFFF" bo="131" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#008CD9" fo="128" bc="#FFFFFF" bo="115" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#FEFEFE" fo="128" bc="#FFFFFF" bo="115" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#008CD9" fo="110" bc="#FFFFFF" bo="99" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#FEFEFE" fo="110" bc="#FFFFFF" bo="99" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#008CD9" fo="93" bc="#FFFFFF" bo="83" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#FEFEFE" fo="93" bc="#FFFFFF" bo="83" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#008CD9" fo="75" bc="#FFFFFF" bo="67" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#FEFEFE" fo="75" bc="#FFFFFF" bo="67" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#008CD9" fo="58" bc="#FFFFFF" bo="52" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#FEFEFE" fo="58" bc="#FFFFFF" bo="52" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#008CD9" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#FEFEFE" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#008CD9" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#FEFEFE" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#008CD9" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#FEFEFE" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#FEFEFE" fo="4" bc="#FFFFFF" bo="3" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#FEFEFE" fo="21" bc="#FFFFFF" bo="18" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#FEFEFE" fo="39" bc="#FFFFFF" bo="35" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#FEFEFE" fo="57" bc="#FFFFFF" bo="51" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#FEFEFE" fo="74" bc="#FFFFFF" bo="66" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#FEFEFE" fo="92" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#FEFEFE" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#FEFEFE" fo="127" bc="#FFFFFF" bo="114" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#FEFEFE" fo="145" bc="#FFFFFF" bo="130" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#FEFEFE" fo="162" bc="#FFFFFF" bo="146" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#FEFEFE" fo="180" bc="#FFFFFF" bo="162" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#FEFEFE" fo="197" bc="#FFFFFF" bo="177" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#FEFEFE" fo="215" bc="#FFFFFF" bo="193" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#FEFEFE" fo="233" bc="#FFFFFF" bo="210" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#FEFEFE" fo="250" bc="#FFFFFF" bo="225" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#B0E6C1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" i="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="53" i="1" fc="#B0E6C1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#B0E6C1" fo="253" bc="#FFFFFF" bo="228" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#B0E6C1" fo="241" bc="#FFFFFF" bo="217" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#B0E6C1" fo="229" bc="#FFFFFF" bo="206" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#B0E6C1" fo="218" bc="#FFFFFF" bo="196" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#B0E6C1" fo="206" bc="#FFFFFF" bo="185" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#B0E6C1" fo="195" bc="#FFFFFF" bo="175" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#B0E6C1" fo="183" bc="#FFFFFF" bo="165" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#B0E6C1" fo="171" bc="#FFFFFF" bo="154" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#B0E6C1" fo="160" bc="#FFFFFF" bo="144" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#B0E6C1" fo="148" bc="#FFFFFF" bo="133" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#B0E6C1" fo="137" bc="#FFFFFF" bo="123" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#B0E6C1" fo="125" bc="#FFFFFF" bo="112" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#B0E6C1" fo="114" bc="#FFFFFF" bo="102" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#B0E6C1" fo="102" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#B0E6C1" fo="90" bc="#FFFFFF" bo="81" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#B0E6C1" fo="79" bc="#FFFFFF" bo="71" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#B0E6C1" fo="67" bc="#FFFFFF" bo="60" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#B0E6C1" fo="56" bc="#FFFFFF" bo="50" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#B0E6C1" fo="44" bc="#FFFFFF" bo="39" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#B0E6C1" fo="32" bc="#FFFFFF" bo="28" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#B0E6C1" fo="21" bc="#FFFFFF" bo="18" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#B0E6C1" fo="9" bc="#FFFFFF" bo="8" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#FEFEFE" fo="1" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#FEFEFE" fo="8" bc="#FFFFFF" bo="7" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#FEFEFE" fo="15" bc="#FFFFFF" bo="13" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#FEFEFE" fo="29" bc="#FFFFFF" bo="26" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#FEFEFE" fo="36" bc="#FFFFFF" bo="32" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#FEFEFE" fo="43" bc="#FFFFFF" bo="38" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#FEFEFE" fo="49" bc="#FFFFFF" bo="44" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#FEFEFE" fo="56" bc="#FFFFFF" bo="50" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#FEFEFE" fo="63" bc="#FFFFFF" bo="56" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#FEFEFE" fo="70" bc="#FFFFFF" bo="63" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#FEFEFE" fo="77" bc="#FFFFFF" bo="69" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#FEFEFE" fo="84" bc="#FFFFFF" bo="75" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#FEFEFE" fo="91" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#FEFEFE" fo="98" bc="#FFFFFF" bo="88" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#FEFEFE" fo="105" bc="#FFFFFF" bo="94" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#FEFEFE" fo="111" bc="#FFFFFF" bo="100" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#FEFEFE" fo="118" bc="#FFFFFF" bo="106" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#FEFEFE" fo="125" bc="#FFFFFF" bo="112" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#FEFEFE" fo="132" bc="#FFFFFF" bo="119" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#FEFEFE" fo="139" bc="#FFFFFF" bo="125" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#FEFEFE" fo="153" bc="#FFFFFF" bo="138" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#FEFEFE" fo="160" bc="#FFFFFF" bo="144" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#FEFEFE" fo="167" bc="#FFFFFF" bo="150" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#FEFEFE" fo="174" bc="#FFFFFF" bo="156" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#FEFEFE" fo="187" bc="#FFFFFF" bo="168" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#FEFEFE" fo="194" bc="#FFFFFF" bo="174" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#FEFEFE" fo="201" bc="#FFFFFF" bo="181" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#FEFEFE" fo="208" bc="#FFFFFF" bo="187" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#FEFEFE" fo="222" bc="#FFFFFF" bo="200" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#FEFEFE" fo="229" bc="#FFFFFF" bo="206" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#FEFEFE" fo="236" bc="#FFFFFF" bo="212" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#FEFEFE" fo="242" bc="#FFFFFF" bo="218" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#FEFEFE" fo="249" bc="#FFFFFF" bo="224" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#FEFEFE" fo="253" bc="#FFFFFF" bo="228" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#FEFEFE" fo="243" bc="#FFFFFF" bo="219" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#B0E6C1" fo="243" bc="#FFFFFF" bo="219" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#B0E6C1" fo="234" bc="#FFFFFF" bo="211" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#FEFEFE" fo="224" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#B0E6C1" fo="224" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#B0E6C1" fo="215" bc="#FFFFFF" bo="193" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#FEFEFE" fo="205" bc="#FFFFFF" bo="184" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#B0E6C1" fo="205" bc="#FFFFFF" bo="184" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#FEFEFE" fo="195" bc="#FFFFFF" bo="175" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#FEFEFE" fo="186" bc="#FFFFFF" bo="167" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#B0E6C1" fo="186" bc="#FFFFFF" bo="167" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#FEFEFE" fo="176" bc="#FFFFFF" bo="158" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#B0E6C1" fo="176" bc="#FFFFFF" bo="158" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#FEFEFE" fo="166" bc="#FFFFFF" bo="149" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#B0E6C1" fo="166" bc="#FFFFFF" bo="149" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#FEFEFE" fo="157" bc="#FFFFFF" bo="141" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#B0E6C1" fo="157" bc="#FFFFFF" bo="141" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#FEFEFE" fo="147" bc="#FFFFFF" bo="132" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#B0E6C1" fo="147" bc="#FFFFFF" bo="132" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#FEFEFE" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#B0E6C1" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#B0E6C1" fo="128" bc="#FFFFFF" bo="115" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#B0E6C1" fo="118" bc="#FFFFFF" bo="106" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#B0E6C1" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#FEFEFE" fo="99" bc="#FFFFFF" bo="89" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#B0E6C1" fo="99" bc="#FFFFFF" bo="89" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#FEFEFE" fo="90" bc="#FFFFFF" bo="81" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#FEFEFE" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#B0E6C1" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#B0E6C1" fo="70" bc="#FFFFFF" bo="63" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#FEFEFE" fo="61" bc="#FFFFFF" bo="55" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#B0E6C1" fo="61" bc="#FFFFFF" bo="55" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#FEFEFE" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#B0E6C1" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#FEFEFE" fo="41" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#B0E6C1" fo="41" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#FEFEFE" fo="32" bc="#FFFFFF" bo="28" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#B0E6C1" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#FEFEFE" fo="13" bc="#FFFFFF" bo="11" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#B0E6C1" fo="13" bc="#FFFFFF" bo="11" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#FEFEFE" fo="3" bc="#FFFFFF" bo="2" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#B0E6C1" fo="3" bc="#FFFFFF" bo="2" ec="#000000" sz="100" et="3"/>
+<pen id="152" i="1" fc="#FEFEFE" fo="1" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="2" ap="0" ah="0" av="0"/>
+<wp id="6" ap="1" ah="50" av="0"/>
+<wp id="3" ap="3" ah="15" av="63"/>
+<wp id="5" ap="4" ah="26" av="50"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="4" ap="7" ah="50" av="100"/>
+<wp id="7" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="1" d="12195" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="718" d="4037" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="818" d="3937" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​The day is finally upon us.​ ​</s><s p="2">​</s></p>
+<p t="4755" d="4571" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="4788" d="4538" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I&#39;ll make sure things go as planned.​ ​</s><s p="2">​
+​</s><s p="5">​ ​You just worry about when to wrap things up.​ ​</s><s p="2">​</s></p>
+<p t="9326" d="2870" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="9360" d="2802" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="4">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12162" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="6">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12196" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="7">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12196" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="6">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12229" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="8">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12262" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="9">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12262" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="8">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12296" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="10">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12329" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="11">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12329" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="10">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12363" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="12">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12396" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="13">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12396" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="12">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12429" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="14">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12463" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="15">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12463" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="14">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12496" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="16">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12529" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="17">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12529" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="16">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12563" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="18">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="18">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12596" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="19">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12596" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="18">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12629" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="20">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="20">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12663" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="21">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12663" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="20">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12696" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="22">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="22">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12730" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="23">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12730" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="22">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12763" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="24">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="24">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12796" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="25">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12796" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="24">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12830" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="26">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="26">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12863" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="27">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12863" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="26">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12896" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="28">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="28">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12930" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="29">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12930" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="28">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="12963" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="30">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="12997" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="31">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="12997" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="30">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="13030" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="32">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="32">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="13063" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="33">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13063" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="32">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="13097" d="33" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="34">​ ​I can&#39;t wait for tomorrow.​ ​</s><s p="2">​
+​</s><s p="34">​ ​Mwahaha...​ ​</s><s p="2">​</s></p>
+<p t="13130" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="35">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13130" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="34">​ ​***​ ​</s><s p="2">​</s></p>
+<p t="13364" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="36">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13430" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="37">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13497" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="38">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13564" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="39">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13630" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="40">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13697" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="41">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13764" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="42">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13831" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="43">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13897" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="44">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="13964" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="45">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14031" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="46">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14098" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="47">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14164" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="48">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14231" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="49">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14298" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="50">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14365" d="218151" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="14765" d="5706" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​???​ ​</s><s p="2">​</s></p>
+<p t="14765" d="3670" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​*inhale* *exhale*​ ​</s><s p="2">​</s></p>
+<p t="18435" d="901" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Okay!​ ​</s><s p="2">​</s></p>
+<p t="19336" d="1135" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hello, everyone!​ ​</s><s p="2">​</s></p>
+<p t="20471" d="8742" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="20537" d="4538" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I&#39;m Harusaki Nodoka, and I&#39;ll be​ ​</s><s p="2">​
+​</s><s p="51">​ ​joining the team as of today!​ ​</s><s p="2">​</s></p>
+<p t="25075" d="4138" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I swear I&#39;ll do my absolute best!​ ​</s><s p="2">​
+​</s><s p="51">​ ​Thank you for having me!​ ​</s><s p="2">​</s></p>
+<p t="29546" d="2736" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="29580" d="2702" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oh, hey, Nodoka-san.​ ​</s><s p="2">​
+​</s><s p="5">​ ​Good to see you.​ ​</s><s p="2">​</s></p>
+<p t="32282" d="3504" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="32316" d="3470" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Oh, Miss A-chan!​ ​</s><s p="2">​
+​</s><s p="51">​ ​I&#39;m so glad to be working with you.​ ​</s><s p="2">​</s></p>
+<p t="35786" d="6506" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="35819" d="3270" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oh my god,​ ​</s><s p="2">​
+​</s><s p="5">​ ​I&#39;ve got my very own junior!​ ​</s><s p="2">​</s></p>
+<p t="39089" d="3203" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Let&#39;s get started right away.​ ​</s><s p="2">​
+​</s><s p="5">​ ​I&#39;ll show you around the office.​ ​</s><s p="2">​</s></p>
+<p t="44294" d="6440" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="45129" d="5605" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This is a place for the talent to relax and recharge.​ ​</s><s p="2">​
+​</s><s p="5">​ ​It blows up often, so stay on your toes.​ ​</s><s p="2">​</s></p>
+<p t="50734" d="4104" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="50768" d="3270" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I see, I see. Wait...​ ​</s><s p="2">​
+​</s><s p="52">​ ​Blows up</s><s p="1">?​ ​</s><s p="2">​</s></p>
+<p t="54038" d="800" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I see, I see. Wait...​ ​</s><s p="2">​
+​</s><s p="53">​ ​Blows up</s><s p="51">?​ ​</s><s p="2">​</s></p>
+<p t="54838" d="10411" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="54872" d="4571" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​The talent expend a lot of energy​ ​</s><s p="2">​
+​</s><s p="5">​ ​going about their daily routine.​ ​</s><s p="2">​</s></p>
+<p t="59443" d="5806" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​That energy builds up in places over time,​ ​</s><s p="2">​
+​</s><s p="5">​ ​and will sometimes go out of control.​ ​</s><s p="2">​</s></p>
+<p t="65249" d="4171" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="65282" d="4138" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I never knew idol energy​ ​</s><s p="2">​
+​</s><s p="51">​ ​was so potent.​ ​</s><s p="2">​</s></p>
+<p t="69420" d="2736" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="69420" d="2736" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I got caught in those explosions​ ​</s><s p="2">​
+​</s><s p="5">​ ​not once, but twice.​ ​</s><s p="2">​</s></p>
+<p t="72156" d="1034" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="72189" d="1001" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Twice?!​ ​</s><s p="2">​</s></p>
+<p t="73190" d="10143" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="73223" d="5973" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​But one can&#39;t handle being hololive staff without having​ ​</s><s p="2">​
+​</s><s p="5">​ ​the kind of sturdy body that can withstand explosions.​ ​</s><s p="2">​</s></p>
+<p t="79196" d="4137" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oh, don&#39;t you worry.​ ​</s><s p="2">​
+​</s><s p="5">​ ​You&#39;ll get used to it soon enough.​ ​</s><s p="2">​</s></p>
+<p t="83333" d="6407" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="83367" d="1568" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I-I understand!​ ​</s><s p="2">​</s></p>
+<p t="84935" d="4805" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I&#39;ll work on my physique so I can prove useful​ ​</s><s p="2">​
+​</s><s p="51">​ ​to you all as soon as possible!​ ​</s><s p="2">​</s></p>
+<p t="91508" d="5706" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="91608" d="5606" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This is the recording studio.​ ​</s><s p="2">​
+​</s><s p="5">​ ​Be careful when you step in here.​ ​</s><s p="2">​</s></p>
+<p t="97214" d="3003" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="97247" d="2970" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Because the mics​ ​</s><s p="2">​
+​</s><s p="51">​ ​will pick up the sound?​ ​</s><s p="2">​</s></p>
+<p t="100217" d="6573" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="100250" d="2269" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​No, </s><s p="1">because armed idols may​ ​</s><s p="2">​
+​</s><s p="1">​ ​attack you out of nowhere.​ ​</s><s p="2">​</s></p>
+<p t="102519" d="4271" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​No, because armed idols may​ ​</s><s p="2">​
+​</s><s p="5">​ ​attack you out of nowhere.​ ​</s><s p="2">​</s></p>
+<p t="106790" d="2536" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="106824" d="2502" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Why are the idols armed?​ ​</s><s p="2">​
+​</s><s p="51">​ ​And what are they doing in the studio?!​ ​</s><s p="2">​</s></p>
+<p t="109326" d="6540" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="109359" d="6507" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​It&#39;s also fraught with all sorts of other dangers, so make​ ​</s><s p="2">​
+​</s><s p="5">​ ​sure you&#39;re fully prepped and geared up before going in.​ ​</s><s p="2">​</s></p>
+<p t="115866" d="3070" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="115866" d="3070" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I&#39;ll buy a complete set of armor​ ​</s><s p="2">​
+​</s><s p="51">​ ​by the end of the week.​ ​</s><s p="2">​</s></p>
+<p t="120737" d="4238" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="121038" d="3937" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Let&#39;s take a break for lunch.​ ​</s><s p="2">​
+​</s><s p="5">​ ​Have this, if you&#39;d like.​ ​</s><s p="2">​</s></p>
+<p t="124975" d="5806" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="125008" d="5773" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Wow, that&#39;s one delicious-looking lunch.​ ​</s><s p="2">​
+​</s><s p="51">​ ​Thank you so much for offering.​ ​</s><s p="2">​</s></p>
+<p t="130781" d="6373" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="130814" d="1535" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​By the way, Nodoka-san.​ ​</s><s p="2">​</s></p>
+<p t="132349" d="4805" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​What do you think is​ ​</s><s p="2">​
+​</s><s p="5">​ ​the top priority for us staff?​ ​</s><s p="2">​</s></p>
+<p t="137154" d="3804" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="137187" d="1669" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Hmm...​ ​</s><s p="2">​</s></p>
+<p t="138856" d="2102" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Looking out for the talent, I guess?​ ​</s><s p="2">​</s></p>
+<p t="140958" d="10377" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="140991" d="4805" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​While that&#39;s certainly important, our top priority​ ​</s><s p="2">​
+​</s><s p="5">​ ​is to prepare for crisis situations.​ ​</s><s p="2">​</s></p>
+<p t="145796" d="5539" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​For example, let&#39;s say somebody​ ​</s><s p="2">​
+​</s><s p="5">​ ​forgot to order lunch for the talent.​ ​</s><s p="2">​</s></p>
+<p t="151335" d="2302" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="151335" d="2302" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Oh no.​ ​</s><s p="2">​
+​</s><s p="51">​ ​What happens then?​ ​</s><s p="2">​</s></p>
+<p t="153637" d="4104" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="153670" d="4071" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Fortunately, hololive has a few talent​ ​</s><s p="2">​
+​</s><s p="5">​ ​set aside as emergency rations.​ ​</s><s p="2">​</s></p>
+<p t="157741" d="801" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="157808" d="734" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​...What?​ ​</s><s p="2">​</s></p>
+<p t="158542" d="7274" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="158575" d="2202" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​We have a lot​ ​</s><s p="2">​
+​</s><s p="5">​ ​of non-humans, you see.​ ​</s><s p="2">​</s></p>
+<p t="160777" d="5039" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​That gives us access to a slew of ingredients.​ ​</s><s p="2">​
+​</s><s p="5">​ ​As a result, we can provide a pretty fancy lunch.​ ​</s><s p="2">​</s></p>
+<p t="165816" d="4604" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="165849" d="4571" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​U-Uh... Please don&#39;t tell me​ ​</s><s p="2">​
+​</s><s p="51">​ ​what I&#39;m eating is...​ ​</s><s p="2">​</s></p>
+<p t="170420" d="7541" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="170454" d="4838" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​No need to be sad. This is how​ ​</s><s p="2">​
+​</s><s p="5">​ ​society functions on the whole.​ ​</s><s p="2">​</s></p>
+<p t="175292" d="2669" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​It&#39;s a dog-eat-dog world out there.​ ​</s><s p="2">​</s></p>
+<p t="177961" d="9510" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="177995" d="5071" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Adulting is insane...​ ​</s><s p="2">​
+​</s><s p="51">​ ​And so are the bonds of a talent agency.​ ​</s><s p="2">​</s></p>
+<p t="183066" d="4405" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​I&#39;ll eat every last bite of this in order​ ​</s><s p="2">​
+​</s><s p="51">​ ​to ensure my survival in society!​ ​</s><s p="2">​</s></p>
+<p t="189373" d="3870" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="189473" d="3770" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Okay, so that&#39;s it for the tour.​ ​</s><s p="2">​
+​</s><s p="5">​ ​What did you think?​ ​</s><s p="2">​</s></p>
+<p t="193243" d="7308" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="193277" d="2969" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Honestly, I&#39;m a little worried...​ ​</s><s p="2">​</s></p>
+<p t="196246" d="4305" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Because there was just so much​ ​</s><s p="2">​
+​</s><s p="51">​ ​I didn&#39;t know or couldn&#39;t understand.​ ​</s><s p="2">​</s></p>
+<p t="200551" d="4904" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="200584" d="4871" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You&#39;re standing at the point of no return.​ ​</s><s p="2">​
+​</s><s p="5">​ ​If you wish to turn back, now is the—​ ​</s><s p="2">​</s></p>
+<p t="205455" d="18486" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="205522" d="901" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​However!​ ​</s><s p="2">​</s></p>
+<p t="206423" d="5672" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​At the same time, everything here​ ​</s><s p="2">​
+​</s><s p="51">​ ​was an exciting new experience!​ ​</s><s p="2">​</s></p>
+<p t="212095" d="5372" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​It really felt to me like a super fun workplace,​ ​</s><s p="2">​
+​</s><s p="51">​ ​one I could see myself really being a part of.​ ​</s><s p="2">​</s></p>
+<p t="217467" d="6474" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​So I&#39;ll do my best here​ ​</s><s p="2">​
+​</s><s p="51">​ ​to help you all out!​ ​</s><s p="2">​</s></p>
+<p t="223941" d="6273" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="223974" d="6240" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Looks like you&#39;ll be fine now.​ ​</s><s p="2">​
+​</s><s p="5">​ ​You&#39;re going to be a great fit.​ ​</s><s p="2">​</s></p>
+<p t="230214" d="1801" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="230280" d="868" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Huh?​ ​</s><s p="2">​</s></p>
+<p t="231682" d="333" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232015" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="54">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232015" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="54">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232082" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="55">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232082" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="55">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232149" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="56">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232149" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="56">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232216" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="57">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232216" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="57">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232282" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="58">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232282" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="58">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232349" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="59">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232349" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="59">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232416" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="60">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232416" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="60">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232482" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="61">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232482" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="61">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232516" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="7">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232549" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="62">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232549" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="62">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232583" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="9">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232616" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="63">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232616" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="63">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232649" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="11">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232683" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="64">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232683" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="64">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232716" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="13">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232749" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="65">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232749" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="65">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232783" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="15">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232816" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="66">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232816" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="66">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232849" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="17">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232883" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="67">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232883" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="67">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232916" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="19">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="232950" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="68">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="232950" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="68">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="232983" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="21">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233016" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="69">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233016" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="69">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233050" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="23">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233083" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="70">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233083" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="70">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233116" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="25">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233150" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="71">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233150" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="71">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233183" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="27">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233217" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="72">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233217" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="72">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233250" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="29">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233283" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="73">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233283" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="73">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233317" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="31">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233350" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="74">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233350" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="74">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233383" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="33">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="233417" d="100" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="75">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="233417" d="100" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="75">​ ​Whoa!​ ​</s><s p="2">​</s></p>
+<p t="233450" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="35">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234051" d="66" wp="2" ws="2" p="76">​April</p>
+<p t="234117" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="77">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234184" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="78">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234251" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="33">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234318" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="79">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234384" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="80">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234451" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="81">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234518" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="82">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234551" d="2269" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="234585" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="83">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234585" d="2235" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​All&#39;s well that ends well!​ ​</s><s p="2">​</s></p>
+<p t="234651" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="84">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234718" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="85">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234785" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="86">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234851" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="87">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234918" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="88">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="234985" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="89">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235052" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="90">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235118" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="91">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235185" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="92">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235252" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="93">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235319" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="94">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235385" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="95">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235452" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="19">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235519" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="96">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235586" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="97">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235652" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="98">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235719" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="99">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235786" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="46">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235852" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="100">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235919" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="101">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="235986" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="102">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236053" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="103">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236119" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="48">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236186" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="104">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236253" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="105">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236320" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="106">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236386" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="107">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236453" d="100" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="108">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236553" d="105539" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="236820" d="2436" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="236853" d="2403" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​W-Wait, you are...​ ​</s><s p="2">​</s></p>
+<p t="239256" d="2269" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="239289" d="2236" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​April Fools&#39;!​ ​</s><s p="2">​</s></p>
+<p t="241525" d="4271" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="241558" d="1735" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Tokino Sora-san?!​ ​</s><s p="2">​</s></p>
+<p t="243293" d="2503" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Wait, what?​ ​</s><s p="2">​
+​</s><s p="51">​ ​April Fools&#39;?!​ ​</s><s p="2">​</s></p>
+<p t="245796" d="3270" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="245829" d="3237" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Yep! It&#39;s April the 1st!​ ​</s><s p="2">​</s></p>
+<p t="249066" d="8909" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="249132" d="5739" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Oh... O-Ohh!​ ​</s><s p="2">​
+​</s><s p="51">​ ​So all that stuff was...​ ​</s><s p="2">​</s></p>
+<p t="254871" d="3104" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Wait, which part?​ ​</s><s p="2">​
+​</s><s p="51">​ ​What was true, and what was false?​ ​</s><s p="2">​</s></p>
+<p t="257975" d="9209" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="258008" d="4137" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Hehe, sorry. You must&#39;ve​ ​</s><s p="2">​
+​</s><s p="4">​ ​been really confused.​ ​</s><s p="2">​</s></p>
+<p t="262145" d="2169" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​But A-chan was totally right.​ ​</s><s p="2">​</s></p>
+<p t="264314" d="2870" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​You&#39;re a really earnest,​ ​</s><s p="2">​
+​</s><s p="4">​ ​sincere person.​ ​</s><s p="2">​</s></p>
+<p t="267184" d="9609" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="267217" d="5672" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Even back when you helped me out with that​ ​</s><s p="2">​
+​</s><s p="5">​ ​other project, I found you to be a super hard worker.​ ​</s><s p="2">​</s></p>
+<p t="272889" d="3904" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​But because of your straightforward nature, I thought​ ​</s><s p="2">​
+​</s><s p="5">​ ​the nerves would get the best of you at first.​ ​</s><s p="2">​</s></p>
+<p t="276793" d="2736" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="276827" d="2702" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​So we wanted to break​ ​</s><s p="2">​
+​</s><s p="4">​ ​the ice a little bit, you know?​ ​</s><s p="2">​</s></p>
+<p t="279529" d="4939" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="279563" d="4905" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I never expected Sora to suggest​ ​</s><s p="2">​
+​</s><s p="5">​ ​playing a prank on you, though.​ ​</s><s p="2">​</s></p>
+<p t="284468" d="6239" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="284534" d="1535" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Hahaha...​ ​</s><s p="2">​</s></p>
+<p t="286069" d="4638" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Nodoka-chan. Allow me to​ ​</s><s p="2">​
+​</s><s p="4">​ ​formally welcome you to hololive.​ ​</s><s p="2">​</s></p>
+<p t="290707" d="3003" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="290741" d="2969" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Thank you! I look forward​ ​</s><s p="2">​
+​</s><s p="51">​ ​to working with you!​ ​</s><s p="2">​</s></p>
+<p t="293710" d="3804" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="293744" d="3770" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​By the way,​ ​</s><s p="2">​
+​</s><s p="5">​ ​I have something for you here.​ ​</s><s p="2">​</s></p>
+<p t="297514" d="20921" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="297547" d="4605" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Wow, that&#39;s such a nice box.​ ​</s><s p="2">​
+​</s><s p="51">​ ​Do you mind if I open it?​ ​</s><s p="2">​</s></p>
+<p t="302152" d="5372" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Could this be​ ​</s><s p="2">​
+​</s><s p="51">​ ​a welcome gift for me?​ ​</s><s p="2">​</s></p>
+<p t="307524" d="1635" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Hype levels rising...​ ​</s><s p="2">​</s></p>
+<p t="310827" d="3604" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Huh? What... is this?​ ​</s><s p="2">​</s></p>
+<p t="314498" d="3937" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​That&#39;s... a lot of documents...​ ​</s><s p="2">​</s></p>
+<p t="318435" d="8442" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="5">​ ​Friend A​ ​</s><s p="2">​</s></p>
+<p t="318468" d="4405" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​A newbie you may be, but you&#39;ve​ ​</s><s p="2">​
+​</s><s p="5">​ ​already gotten your foot past the door.​ ​</s><s p="2">​</s></p>
+<p t="322873" d="4004" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​We&#39;re going to put you​ ​</s><s p="2">​
+​</s><s p="5">​ ​to work right away, Nodoka-san!​ ​</s><s p="2">​</s></p>
+<p t="326877" d="2636" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="4">​ ​Tokino Sora​ ​</s><s p="2">​</s></p>
+<p t="326910" d="2603" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Hang in there, Nodoka-chan.​ ​</s><s p="2">​</s></p>
+<p t="329513" d="12579" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="51">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="329546" d="3504" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Do I have to work​ ​</s><s p="2">​
+​</s><s p="51">​ ​on everything in here?​ ​</s><s p="2">​</s></p>
+<p t="333050" d="5538" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Is this another April Fools&#39; prank?​ ​</s><s p="2">​
+​</s><s p="51">​ ​Uh... I guess not.​ ​</s><s p="2">​</s></p>
+<p t="338588" d="3504" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="51">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342092" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="109">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342092" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="54">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342092" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="54">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="54">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342159" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="110">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342159" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="111">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342159" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="111">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="111">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342225" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="9">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342225" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="112">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342225" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="112">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="112">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342292" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="113">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342292" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="114">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342292" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="114">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="114">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342359" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="48">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342359" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="115">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342359" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="115">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="115">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342426" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="116">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342426" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="117">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342426" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="117">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="117">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342492" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="118">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342492" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="59">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342492" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="59">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="59">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342559" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="119">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342559" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="120">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342559" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="120">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="120">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342626" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="121">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342626" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="122">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342626" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="122">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="122">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342693" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="123">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342693" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="124">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342693" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="124">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="124">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342759" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="125">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342759" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="126">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342759" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="126">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342826" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="127">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342826" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="128">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342826" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="128">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="128">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342893" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="129">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342893" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="130">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342893" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="130">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="130">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="342959" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="21">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="342959" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="131">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="342959" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="131">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="131">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343026" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="92">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343026" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="132">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343026" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="132">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="132">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343093" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="42">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343093" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="133">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343093" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="133">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="133">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343160" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="134">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343160" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="135">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343160" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="135">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="135">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343226" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="136">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343226" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="68">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343226" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="68">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="68">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343293" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="137">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343293" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="138">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343293" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="138">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="138">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343360" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="85">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343360" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="139">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343360" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="139">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="139">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343427" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="140">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343427" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="141">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343427" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="141">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="141">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343493" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="142">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343493" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="143">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343493" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="143">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="143">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343560" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="144">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343560" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="145">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343560" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="145">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="145">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343627" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="146">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343627" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="73">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343627" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="73">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="73">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343694" d="66" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="33">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343694" d="66" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="147">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343694" d="66" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="147">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="147">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343760" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="148">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343760" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="149">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343760" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="149">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="149">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="343827" d="67" wp="2" ws="2"><s p="2">​</s><s>​</s><s p="150">​ ​April​ ​</s><s p="2">​</s></p>
+<p t="343827" d="67" wp="3" ws="2"><s p="2">​</s><s>​</s><s p="151">​ ​Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="343827" d="67" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="151">​ ​As the newest addition to the roster,​ ​</s><s p="2">​
+​</s><s p="151">​ ​I, Harusaki Nodoka, will give it my all!​ ​</s><s p="2">​</s></p>
+<p t="344728" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="36">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="36">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="36">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="36">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="36">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="36">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="36">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="36">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="344795" d="66" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="37">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="37">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="37">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="37">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="37">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="37">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="37">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="37">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="37">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="344861" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="38">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="38">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="38">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="38">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="38">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="38">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="38">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="38">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="38">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="344928" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="39">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="39">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="39">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="39">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="39">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="39">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="39">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="39">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="39">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="344995" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="40">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="40">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="40">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="40">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="40">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="40">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="40">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="40">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="40">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345062" d="66" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="41">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="41">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="41">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="41">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="41">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="41">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="41">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="41">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="41">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345128" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="42">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="42">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="42">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="42">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="42">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="42">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="42">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="42">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="42">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345195" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="43">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="43">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="43">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="43">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="43">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="43">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="43">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="43">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="43">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345262" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="44">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="44">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="44">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="44">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="44">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="44">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="44">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="44">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="44">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345329" d="66" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="45">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="45">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="45">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="45">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="45">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="45">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="45">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="45">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="45">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345395" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="46">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="46">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="46">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="46">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="46">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="46">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="46">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="46">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345462" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="47">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="47">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="47">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="47">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="47">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="47">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="47">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="47">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="47">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345529" d="66" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="48">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="48">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="48">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="48">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="48">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="48">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="48">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="48">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="48">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345595" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="49">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="49">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="49">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="49">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="49">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="49">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="49">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="49">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345662" d="67" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="50">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="50">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="50">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="50">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="50">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="50">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="50">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="50">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="50">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="345729" d="3036" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​I&#39;ll do my very best to support the​ ​</s><s p="2">​
+​</s><s p="3">​ ​talent so they shine ever brighter​ ​</s><s p="2">​
+​</s><s p="3">​ ​on streams, in concerts, and in events,​ ​</s><s p="2">​
+​</s><s p="3">​ ​and provide the fans many more​ ​</s><s p="2">​
+​</s><s p="3">​ ​exciting moments! I know I&#39;m a​ ​</s><s p="2">​
+​</s><s p="3">​ ​complete newbie, but I&#39;ll give it my all​ ​</s><s p="2">​
+​</s><s p="3">​ ​so I can get quickly used to the job​ ​</s><s p="2">​
+​</s><s p="3">​ ​and be able to help in many more ways!​ ​</s><s p="2">​
+​</s><s p="3">​ ​- Harusaki Nodoka​ ​</s><s p="2">​</s></p>
+<p t="348765" d="2503" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Please follow!​ ​</s><s p="2">​
+​</s><s p="3">​ ​Harusaki Nodoka has a Twitter!​ ​</s><s p="2">​
+​</s><s p="3">​ ​@harusakinodoka​ ​</s><s p="2">​
+
+​</s><s p="3">​ ​She&#39;ll tweet about events and merch,​ ​</s><s p="2">​
+​</s><s p="3">​ ​and also streams that catch her eye!​ ​</s><s p="2">​
+​</s><s p="3">​ ​You might even see some special streams​ ​</s><s p="2">​
+​</s><s p="3">​ ​on #春先のどか研修中!​ ​</s><s p="2">​
+​</s><s p="3">​ ​*Schedule tweets will continue​ ​</s><s p="2">​
+​</s><s p="3">​ ​to be posted on Friend A&#39;s account.​ ​</s><s p="2">​</s></p>
+<p t="351268" d="2569" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​&quot;Looking Back on Special Moments!&quot;​ ​</s><s p="2">​
+​</s><s p="3">​ ​On April 9, the official hololive YouTube channel​ ​</s><s p="2">​
+​</s><s p="3">​ ​will be hosting a watchalong​ ​</s><s p="2">​
+​</s><s p="3">​ ​of both 3rd fes concert days,​ ​</s><s p="2">​
+​</s><s p="3">​ ​featuring Friend A and Harusaki Nodoka.​ ​</s><s p="2">​</s></p>
+<p t="4989" d="100" wp="7" ws="3"><s p="2">​</s><s>​</s><s p="152">​ ​​​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

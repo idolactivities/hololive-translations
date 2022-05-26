@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#F9F6B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="4"/>
+<pen id="3" fc="#828C96" fo="0" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="4"/>
+<pen id="4" fc="#F9F6B9" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#828C96" fo="0" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#00B9EB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#FFBE00" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#BE32A5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#C8001E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#00B9EB" fo="254" bc="#FFFFFF" bo="229" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#C8001E" fo="254" bc="#FFFFFF" bo="229" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#BE32A5" fo="254" bc="#FFFFFF" bo="229" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FFBE00" fo="254" bc="#FFFFFF" bo="229" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#00B9EB" fo="248" bc="#FFFFFF" bo="223" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#C8001E" fo="248" bc="#FFFFFF" bo="223" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#BE32A5" fo="248" bc="#FFFFFF" bo="223" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#FFBE00" fo="248" bc="#FFFFFF" bo="223" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#00B9EB" fo="242" bc="#FFFFFF" bo="218" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#C8001E" fo="242" bc="#FFFFFF" bo="218" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#BE32A5" fo="242" bc="#FFFFFF" bo="218" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#FFBE00" fo="242" bc="#FFFFFF" bo="218" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#00B9EB" fo="237" bc="#FFFFFF" bo="213" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#C8001E" fo="237" bc="#FFFFFF" bo="213" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#BE32A5" fo="237" bc="#FFFFFF" bo="213" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#FFBE00" fo="237" bc="#FFFFFF" bo="213" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#00B9EB" fo="231" bc="#FFFFFF" bo="208" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#C8001E" fo="231" bc="#FFFFFF" bo="208" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#BE32A5" fo="231" bc="#FFFFFF" bo="208" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#FFBE00" fo="231" bc="#FFFFFF" bo="208" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#00B9EB" fo="225" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#C8001E" fo="225" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#BE32A5" fo="225" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#FFBE00" fo="225" bc="#FFFFFF" bo="202" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#00B9EB" fo="219" bc="#FFFFFF" bo="197" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#C8001E" fo="219" bc="#FFFFFF" bo="197" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#BE32A5" fo="219" bc="#FFFFFF" bo="197" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#FFBE00" fo="219" bc="#FFFFFF" bo="197" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#00B9EB" fo="213" bc="#FFFFFF" bo="192" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#C8001E" fo="213" bc="#FFFFFF" bo="192" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#BE32A5" fo="213" bc="#FFFFFF" bo="192" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#FFBE00" fo="213" bc="#FFFFFF" bo="192" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#00B9EB" fo="208" bc="#FFFFFF" bo="187" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#C8001E" fo="208" bc="#FFFFFF" bo="187" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#BE32A5" fo="208" bc="#FFFFFF" bo="187" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#FFBE00" fo="208" bc="#FFFFFF" bo="187" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#00B9EB" fo="202" bc="#FFFFFF" bo="182" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#C8001E" fo="202" bc="#FFFFFF" bo="182" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#BE32A5" fo="202" bc="#FFFFFF" bo="182" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#FFBE00" fo="202" bc="#FFFFFF" bo="182" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#00B9EB" fo="196" bc="#FFFFFF" bo="176" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#C8001E" fo="196" bc="#FFFFFF" bo="176" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#BE32A5" fo="196" bc="#FFFFFF" bo="176" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#FFBE00" fo="196" bc="#FFFFFF" bo="176" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#00B9EB" fo="190" bc="#FFFFFF" bo="171" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#C8001E" fo="190" bc="#FFFFFF" bo="171" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#BE32A5" fo="190" bc="#FFFFFF" bo="171" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#FFBE00" fo="190" bc="#FFFFFF" bo="171" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#00B9EB" fo="185" bc="#FFFFFF" bo="166" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#C8001E" fo="185" bc="#FFFFFF" bo="166" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#BE32A5" fo="185" bc="#FFFFFF" bo="166" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#FFBE00" fo="185" bc="#FFFFFF" bo="166" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#00B9EB" fo="179" bc="#FFFFFF" bo="161" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#C8001E" fo="179" bc="#FFFFFF" bo="161" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#BE32A5" fo="179" bc="#FFFFFF" bo="161" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#FFBE00" fo="179" bc="#FFFFFF" bo="161" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#00B9EB" fo="173" bc="#FFFFFF" bo="156" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#C8001E" fo="173" bc="#FFFFFF" bo="156" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#BE32A5" fo="173" bc="#FFFFFF" bo="156" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#FFBE00" fo="173" bc="#FFFFFF" bo="156" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#00B9EB" fo="167" bc="#FFFFFF" bo="150" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#C8001E" fo="167" bc="#FFFFFF" bo="150" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#BE32A5" fo="167" bc="#FFFFFF" bo="150" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#FFBE00" fo="167" bc="#FFFFFF" bo="150" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#00B9EB" fo="161" bc="#FFFFFF" bo="145" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#C8001E" fo="161" bc="#FFFFFF" bo="145" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#BE32A5" fo="161" bc="#FFFFFF" bo="145" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#FFBE00" fo="161" bc="#FFFFFF" bo="145" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#00B9EB" fo="156" bc="#FFFFFF" bo="140" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#C8001E" fo="156" bc="#FFFFFF" bo="140" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#BE32A5" fo="156" bc="#FFFFFF" bo="140" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#FFBE00" fo="156" bc="#FFFFFF" bo="140" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#00B9EB" fo="150" bc="#FFFFFF" bo="135" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#C8001E" fo="150" bc="#FFFFFF" bo="135" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#BE32A5" fo="150" bc="#FFFFFF" bo="135" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#FFBE00" fo="150" bc="#FFFFFF" bo="135" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#00B9EB" fo="144" bc="#FFFFFF" bo="129" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#C8001E" fo="144" bc="#FFFFFF" bo="129" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#BE32A5" fo="144" bc="#FFFFFF" bo="129" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#FFBE00" fo="144" bc="#FFFFFF" bo="129" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#00B9EB" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#C8001E" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#BE32A5" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#FFBE00" fo="138" bc="#FFFFFF" bo="124" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#00B9EB" fo="132" bc="#FFFFFF" bo="119" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#C8001E" fo="132" bc="#FFFFFF" bo="119" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#BE32A5" fo="132" bc="#FFFFFF" bo="119" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#FFBE00" fo="132" bc="#FFFFFF" bo="119" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#00B9EB" fo="127" bc="#FFFFFF" bo="114" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#C8001E" fo="127" bc="#FFFFFF" bo="114" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#BE32A5" fo="127" bc="#FFFFFF" bo="114" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#FFBE00" fo="127" bc="#FFFFFF" bo="114" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#00B9EB" fo="121" bc="#FFFFFF" bo="109" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#C8001E" fo="121" bc="#FFFFFF" bo="109" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#BE32A5" fo="121" bc="#FFFFFF" bo="109" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#FFBE00" fo="121" bc="#FFFFFF" bo="109" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#00B9EB" fo="115" bc="#FFFFFF" bo="103" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#C8001E" fo="115" bc="#FFFFFF" bo="103" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#BE32A5" fo="115" bc="#FFFFFF" bo="103" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#FFBE00" fo="115" bc="#FFFFFF" bo="103" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#00B9EB" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#C8001E" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#BE32A5" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#FFBE00" fo="109" bc="#FFFFFF" bo="98" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#00B9EB" fo="103" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#C8001E" fo="103" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#BE32A5" fo="103" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#FFBE00" fo="103" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#00B9EB" fo="98" bc="#FFFFFF" bo="88" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#C8001E" fo="98" bc="#FFFFFF" bo="88" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#BE32A5" fo="98" bc="#FFFFFF" bo="88" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#FFBE00" fo="98" bc="#FFFFFF" bo="88" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#00B9EB" fo="92" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#C8001E" fo="92" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#BE32A5" fo="92" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#FFBE00" fo="92" bc="#FFFFFF" bo="82" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#00B9EB" fo="86" bc="#FFFFFF" bo="77" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#C8001E" fo="86" bc="#FFFFFF" bo="77" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#BE32A5" fo="86" bc="#FFFFFF" bo="77" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#FFBE00" fo="86" bc="#FFFFFF" bo="77" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#00B9EB" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#C8001E" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#BE32A5" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#FFBE00" fo="80" bc="#FFFFFF" bo="72" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#00B9EB" fo="74" bc="#FFFFFF" bo="66" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#C8001E" fo="74" bc="#FFFFFF" bo="66" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#BE32A5" fo="74" bc="#FFFFFF" bo="66" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#FFBE00" fo="74" bc="#FFFFFF" bo="66" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#00B9EB" fo="69" bc="#FFFFFF" bo="62" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#C8001E" fo="69" bc="#FFFFFF" bo="62" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#BE32A5" fo="69" bc="#FFFFFF" bo="62" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#FFBE00" fo="69" bc="#FFFFFF" bo="62" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#00B9EB" fo="63" bc="#FFFFFF" bo="56" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#C8001E" fo="63" bc="#FFFFFF" bo="56" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#BE32A5" fo="63" bc="#FFFFFF" bo="56" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#FFBE00" fo="63" bc="#FFFFFF" bo="56" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#00B9EB" fo="57" bc="#FFFFFF" bo="51" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#C8001E" fo="57" bc="#FFFFFF" bo="51" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#BE32A5" fo="57" bc="#FFFFFF" bo="51" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#FFBE00" fo="57" bc="#FFFFFF" bo="51" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#00B9EB" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#C8001E" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="152" fc="#BE32A5" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="153" fc="#FFBE00" fo="51" bc="#FFFFFF" bo="46" ec="#000000" sz="100" et="3"/>
+<pen id="154" fc="#00B9EB" fo="45" bc="#FFFFFF" bo="40" ec="#000000" sz="100" et="3"/>
+<pen id="155" fc="#C8001E" fo="45" bc="#FFFFFF" bo="40" ec="#000000" sz="100" et="3"/>
+<pen id="156" fc="#BE32A5" fo="45" bc="#FFFFFF" bo="40" ec="#000000" sz="100" et="3"/>
+<pen id="157" fc="#FFBE00" fo="45" bc="#FFFFFF" bo="40" ec="#000000" sz="100" et="3"/>
+<pen id="158" fc="#00B9EB" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="159" fc="#C8001E" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="160" fc="#BE32A5" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="161" fc="#FFBE00" fo="40" bc="#FFFFFF" bo="36" ec="#000000" sz="100" et="3"/>
+<pen id="162" fc="#00B9EB" fo="34" bc="#FFFFFF" bo="30" ec="#000000" sz="100" et="3"/>
+<pen id="163" fc="#C8001E" fo="34" bc="#FFFFFF" bo="30" ec="#000000" sz="100" et="3"/>
+<pen id="164" fc="#BE32A5" fo="34" bc="#FFFFFF" bo="30" ec="#000000" sz="100" et="3"/>
+<pen id="165" fc="#FFBE00" fo="34" bc="#FFFFFF" bo="30" ec="#000000" sz="100" et="3"/>
+<pen id="166" fc="#00B9EB" fo="28" bc="#FFFFFF" bo="25" ec="#000000" sz="100" et="3"/>
+<pen id="167" fc="#C8001E" fo="28" bc="#FFFFFF" bo="25" ec="#000000" sz="100" et="3"/>
+<pen id="168" fc="#BE32A5" fo="28" bc="#FFFFFF" bo="25" ec="#000000" sz="100" et="3"/>
+<pen id="169" fc="#FFBE00" fo="28" bc="#FFFFFF" bo="25" ec="#000000" sz="100" et="3"/>
+<pen id="170" fc="#00B9EB" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="171" fc="#C8001E" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="172" fc="#BE32A5" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="173" fc="#FFBE00" fo="22" bc="#FFFFFF" bo="19" ec="#000000" sz="100" et="3"/>
+<pen id="174" fc="#00B9EB" fo="16" bc="#FFFFFF" bo="14" ec="#000000" sz="100" et="3"/>
+<pen id="175" fc="#C8001E" fo="16" bc="#FFFFFF" bo="14" ec="#000000" sz="100" et="3"/>
+<pen id="176" fc="#BE32A5" fo="16" bc="#FFFFFF" bo="14" ec="#000000" sz="100" et="3"/>
+<pen id="177" fc="#FFBE00" fo="16" bc="#FFFFFF" bo="14" ec="#000000" sz="100" et="3"/>
+<pen id="178" fc="#00B9EB" fo="11" bc="#FFFFFF" bo="9" ec="#000000" sz="100" et="3"/>
+<pen id="179" fc="#C8001E" fo="11" bc="#FFFFFF" bo="9" ec="#000000" sz="100" et="3"/>
+<pen id="180" fc="#BE32A5" fo="11" bc="#FFFFFF" bo="9" ec="#000000" sz="100" et="3"/>
+<pen id="181" fc="#FFBE00" fo="11" bc="#FFFFFF" bo="9" ec="#000000" sz="100" et="3"/>
+<pen id="182" fc="#00B9EB" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<pen id="183" fc="#C8001E" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<pen id="184" fc="#BE32A5" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<pen id="185" fc="#FFBE00" fo="5" bc="#FFFFFF" bo="4" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="2" ap="1" ah="50" av="0"/>
+<wp id="4" ap="3" ah="0" av="50"/>
+<wp id="5" ap="5" ah="100" av="50"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="3" ap="7" ah="50" av="100"/>
+</head>
+<body>
+<p t="1" d="8439" wp="2" ws="1"><s p="2">​Unveiling </s><s>​</s><s p="3">​</s><s p="2">​Gamers&#39; New Look</s></p>
+<p t="1" d="8439" wp="2" ws="1"><s p="4">​Unveiling </s><s>​</s><s p="5">​</s><s p="4">​Gamers&#39; New Look</s></p>
+<p t="710" d="4380" wp="3" ws="1" p="6">​So, we&#39;re gonna be revealing our new looks today,</p>
+<p t="5090" d="3100" wp="3" ws="1" p="6">​and we&#39;ve got everyone from GAMERS here, but...</p>
+<p t="9800" d="1600" wp="3" ws="1" p="6">​WHAT THE HECK&#39;S THIS?!</p>
+<p t="11400" d="3720" wp="3" ws="1" p="6">​Hey, wha— Uh, staff? Where&#39;s the staff?!</p>
+<p t="15120" d="3280" wp="3" ws="1" p="6">​When did we switch on RTX mode?!</p>
+<p t="18400" d="1430" wp="3" ws="1" p="6">​Excuse me!</p>
+<p t="19830" d="2100" wp="3" ws="1" p="6">​Right! What about the others?!</p>
+<p t="21930" d="1610" wp="3" ws="1" p="7">​Bark-bark! Bark-bark!</p>
+<p t="24060" d="1240" wp="3" ws="1" p="7">​Bow-wow!</p>
+<p t="25300" d="1140" wp="3" ws="1" p="8">​Meooow.</p>
+<p t="26440" d="3370" wp="3" ws="1" p="6">​No... it can&#39;t be! Even you two?</p>
+<p t="29810" d="3270" wp="3" ws="1" p="6">​It can&#39;t be... you both can&#39;t speak?</p>
+<p t="33080" d="2000" wp="2" ws="1" p="7">​(I can talk just fine! Okayu, try talking too!)</p>
+<p t="33080" d="2000" wp="3" ws="1" p="7">​Arf? Woof, woof!</p>
+<p t="35080" d="3670" wp="3" ws="1" p="8">​Meooow. Mew, mew, mew, mew, mew, mew...</p>
+<p t="38750" d="1820" wp="3" ws="1" p="6">​I have no idea what they&#39;re saying!</p>
+<p t="40570" d="1010" wp="3" ws="1" p="6">​Yeah, I&#39;ve got no clue.</p>
+<p t="41580" d="1210" wp="3" ws="1" p="6">​Staff!</p>
+<p t="42790" d="770" wp="3" ws="1" p="9">​Coo-coo!</p>
+<p t="43560" d="930" wp="3" ws="1" p="9">​What&#39;s wrong, milady?</p>
+<p t="44490" d="2340" wp="3" ws="1" p="9">​You don&#39;t seem to be having a foxy day.</p>
+<p t="46830" d="1300" wp="3" ws="1" p="6">​Ah, Mio!</p>
+<p t="48130" d="1460" wp="3" ws="1" p="6">​Wait, who are you?</p>
+<p t="49590" d="2750" wp="3" ws="1" p="9">​Who am I? How could you forget?</p>
+<p t="52340" d="2500" wp="3" ws="1" p="9">​It&#39;s me, M.I.O. Mio!</p>
+<p t="55350" d="3960" wp="3" ws="1" p="9">​Feast your eyes upon my gracious, nimble self!</p>
+<p t="59310" d="2830" wp="3" ws="1" p="9">​I feel like I can do anything! I can even fly!</p>
+<p t="62670" d="2850" wp="3" ws="1" p="6">​Wha— Hol&#39; up! Yer a pigeon!</p>
+<p t="65520" d="2190" wp="3" ws="1" p="6">​You slid right down the food chain!</p>
+<p t="67710" d="1430" wp="3" ws="1" p="9">​Now, now.</p>
+<p t="69140" d="1940" wp="3" ws="1" p="9">​Try being a pigeon sometime.</p>
+<p t="71080" d="920" wp="3" ws="1" p="9">​Fly high.</p>
+<p t="74770" d="1920" wp="3" ws="1" p="6">​OK, starting over from the top,</p>
+<p t="75090" d="4870" wp="2" ws="1"><s p="2">​Unveiling </s><s>​</s><s p="3">​</s><s p="2">​Gamers&#39; New Look</s></p>
+<p t="75090" d="4870" wp="2" ws="1"><s p="4">​Unveiling </s><s>​</s><s p="5">​</s><s p="4">​Gamers&#39; New Look</s></p>
+<p t="76690" d="3060" wp="3" ws="1" p="6">​we&#39;ll be revealing our new looks today!</p>
+<p t="79750" d="2010" wp="3" ws="1" p="6">​Check them out!</p>
+<p t="82630" d="2190" wp="3" ws="1" p="9">​Awooooo!</p>
+<p t="85330" d="2650" wp="3" ws="1" p="6">​Oh! Mio&#39;s back to normal!</p>
+<p t="87980" d="1650" wp="3" ws="1" p="6">​Wait... Back to normal?</p>
+<p t="89630" d="1170" wp="3" ws="1" p="6">​Is this even &quot;normal&quot;?</p>
+<p t="90800" d="1570" wp="3" ws="1" p="9">​Nay.</p>
+<p t="92370" d="3520" wp="3" ws="1" p="9">​I&#39;ve just embraced my wild side, you see?</p>
+<p t="95890" d="3020" wp="3" ws="1" p="6">​By the way, where&#39;s Okayun and Korone?</p>
+<p t="98910" d="3500" wp="3" ws="1" p="9">​The two of them are over there</p>
+<p t="102410" d="1670" wp="3" ws="1" p="9">​embracing their wild side.</p>
+<p t="104080" d="1670" wp="3" ws="1" p="7">​Arf! Arf! Arf! Aaarf!</p>
+<p t="105750" d="970" wp="3" ws="1" p="8">​Meooow.</p>
+<p t="106720" d="2030" wp="3" ws="1" p="8">​Mew, mew, mew, meeew.</p>
+<p t="108750" d="2640" wp="3" ws="1" p="6">​Yup, they&#39;ve completely embraced the call of the wild.</p>
+<p t="111390" d="900" wp="3" ws="1" p="9">​Ahhh!</p>
+<p t="112290" d="4320" wp="3" ws="1" p="9">​I can feel my primal instincts taking over!</p>
+<p t="116610" d="1570" wp="3" ws="1" p="9">​Awoo!</p>
+<p t="118180" d="780" wp="3" ws="1" p="9">​Aw-Aw-Aw-Aw-</p>
+<p t="118960" d="2170" wp="3" ws="1" p="9">​Aw-Awoo!</p>
+<p t="121130" d="2370" wp="3" ws="1" p="7">​Fubuki-chan, embrace your wild side too.</p>
+<p t="123500" d="1900" wp="3" ws="1" p="8">​Speech is silver, silence is gold.</p>
+<p t="125400" d="1720" wp="3" ws="1" p="6">​Whoa, you&#39;re both talking now!</p>
+<p t="127120" d="2730" wp="3" ws="1" p="6">​Fine then, who cares about new looks!</p>
+<p t="129850" d="2200" wp="3" ws="1" p="6">​I&#39;ll embrace my wild side too!</p>
+<p t="132416" d="3670" wp="3" ws="1" p="6">​Kon ko~n! Kon ko~n!</p>
+<p t="132416" d="3670" wp="2" ws="1" p="9">​Awoo! Aw-Awoo!</p>
+<p t="132416" d="3670" wp="4" ws="2" p="8">​Meooow.</p>
+<p t="132416" d="3670" wp="5" ws="3" p="7">​Woof, woof, woof, woof!</p>
+<p t="136086" d="67" wp="3" ws="1" p="10">​Kon ko~n! Kon ko~n!</p>
+<p t="136086" d="67" wp="2" ws="1" p="11">​Awoo! Aw-Awoo!</p>
+<p t="136086" d="67" wp="4" ws="2" p="12">​Meooow.</p>
+<p t="136086" d="67" wp="5" ws="3" p="13">​Woof, woof, woof, woof!</p>
+<p t="136153" d="67" wp="3" ws="1" p="14">​Kon ko~n! Kon ko~n!</p>
+<p t="136153" d="67" wp="2" ws="1" p="15">​Awoo! Aw-Awoo!</p>
+<p t="136153" d="67" wp="4" ws="2" p="16">​Meooow.</p>
+<p t="136153" d="67" wp="5" ws="3" p="17">​Woof, woof, woof, woof!</p>
+<p t="136220" d="66" wp="3" ws="1" p="18">​Kon ko~n! Kon ko~n!</p>
+<p t="136220" d="66" wp="2" ws="1" p="19">​Awoo! Aw-Awoo!</p>
+<p t="136220" d="66" wp="4" ws="2" p="20">​Meooow.</p>
+<p t="136220" d="66" wp="5" ws="3" p="21">​Woof, woof, woof, woof!</p>
+<p t="136286" d="67" wp="3" ws="1" p="22">​Kon ko~n! Kon ko~n!</p>
+<p t="136286" d="67" wp="2" ws="1" p="23">​Awoo! Aw-Awoo!</p>
+<p t="136286" d="67" wp="4" ws="2" p="24">​Meooow.</p>
+<p t="136286" d="67" wp="5" ws="3" p="25">​Woof, woof, woof, woof!</p>
+<p t="136353" d="67" wp="3" ws="1" p="26">​Kon ko~n! Kon ko~n!</p>
+<p t="136353" d="67" wp="2" ws="1" p="27">​Awoo! Aw-Awoo!</p>
+<p t="136353" d="67" wp="4" ws="2" p="28">​Meooow.</p>
+<p t="136353" d="67" wp="5" ws="3" p="29">​Woof, woof, woof, woof!</p>
+<p t="136420" d="67" wp="3" ws="1" p="30">​Kon ko~n! Kon ko~n!</p>
+<p t="136420" d="67" wp="2" ws="1" p="31">​Awoo! Aw-Awoo!</p>
+<p t="136420" d="67" wp="4" ws="2" p="32">​Meooow.</p>
+<p t="136420" d="67" wp="5" ws="3" p="33">​Woof, woof, woof, woof!</p>
+<p t="136487" d="66" wp="3" ws="1" p="34">​Kon ko~n! Kon ko~n!</p>
+<p t="136487" d="66" wp="2" ws="1" p="35">​Awoo! Aw-Awoo!</p>
+<p t="136487" d="66" wp="4" ws="2" p="36">​Meooow.</p>
+<p t="136487" d="66" wp="5" ws="3" p="37">​Woof, woof, woof, woof!</p>
+<p t="136553" d="67" wp="3" ws="1" p="38">​Kon ko~n! Kon ko~n!</p>
+<p t="136553" d="67" wp="2" ws="1" p="39">​Awoo! Aw-Awoo!</p>
+<p t="136553" d="67" wp="4" ws="2" p="40">​Meooow.</p>
+<p t="136553" d="67" wp="5" ws="3" p="41">​Woof, woof, woof, woof!</p>
+<p t="136620" d="67" wp="3" ws="1" p="42">​Kon ko~n! Kon ko~n!</p>
+<p t="136620" d="67" wp="2" ws="1" p="43">​Awoo! Aw-Awoo!</p>
+<p t="136620" d="67" wp="4" ws="2" p="44">​Meooow.</p>
+<p t="136620" d="67" wp="5" ws="3" p="45">​Woof, woof, woof, woof!</p>
+<p t="136687" d="66" wp="3" ws="1" p="46">​Kon ko~n! Kon ko~n!</p>
+<p t="136687" d="66" wp="2" ws="1" p="47">​Awoo! Aw-Awoo!</p>
+<p t="136687" d="66" wp="4" ws="2" p="48">​Meooow.</p>
+<p t="136687" d="66" wp="5" ws="3" p="49">​Woof, woof, woof, woof!</p>
+<p t="136753" d="67" wp="3" ws="1" p="50">​Kon ko~n! Kon ko~n!</p>
+<p t="136753" d="67" wp="2" ws="1" p="51">​Awoo! Aw-Awoo!</p>
+<p t="136753" d="67" wp="4" ws="2" p="52">​Meooow.</p>
+<p t="136753" d="67" wp="5" ws="3" p="53">​Woof, woof, woof, woof!</p>
+<p t="136820" d="67" wp="3" ws="1" p="54">​Kon ko~n! Kon ko~n!</p>
+<p t="136820" d="67" wp="2" ws="1" p="55">​Awoo! Aw-Awoo!</p>
+<p t="136820" d="67" wp="4" ws="2" p="56">​Meooow.</p>
+<p t="136820" d="67" wp="5" ws="3" p="57">​Woof, woof, woof, woof!</p>
+<p t="136887" d="67" wp="3" ws="1" p="58">​Kon ko~n! Kon ko~n!</p>
+<p t="136887" d="67" wp="2" ws="1" p="59">​Awoo! Aw-Awoo!</p>
+<p t="136887" d="67" wp="4" ws="2" p="60">​Meooow.</p>
+<p t="136887" d="67" wp="5" ws="3" p="61">​Woof, woof, woof, woof!</p>
+<p t="136954" d="66" wp="3" ws="1" p="62">​Kon ko~n! Kon ko~n!</p>
+<p t="136954" d="66" wp="2" ws="1" p="63">​Awoo! Aw-Awoo!</p>
+<p t="136954" d="66" wp="4" ws="2" p="64">​Meooow.</p>
+<p t="136954" d="66" wp="5" ws="3" p="65">​Woof, woof, woof, woof!</p>
+<p t="137020" d="67" wp="3" ws="1" p="66">​Kon ko~n! Kon ko~n!</p>
+<p t="137020" d="67" wp="2" ws="1" p="67">​Awoo! Aw-Awoo!</p>
+<p t="137020" d="67" wp="4" ws="2" p="68">​Meooow.</p>
+<p t="137020" d="67" wp="5" ws="3" p="69">​Woof, woof, woof, woof!</p>
+<p t="137087" d="67" wp="3" ws="1" p="70">​Kon ko~n! Kon ko~n!</p>
+<p t="137087" d="67" wp="2" ws="1" p="71">​Awoo! Aw-Awoo!</p>
+<p t="137087" d="67" wp="4" ws="2" p="72">​Meooow.</p>
+<p t="137087" d="67" wp="5" ws="3" p="73">​Woof, woof, woof, woof!</p>
+<p t="137154" d="67" wp="3" ws="1" p="74">​Kon ko~n! Kon ko~n!</p>
+<p t="137154" d="67" wp="2" ws="1" p="75">​Awoo! Aw-Awoo!</p>
+<p t="137154" d="67" wp="4" ws="2" p="76">​Meooow.</p>
+<p t="137154" d="67" wp="5" ws="3" p="77">​Woof, woof, woof, woof!</p>
+<p t="137221" d="66" wp="3" ws="1" p="78">​Kon ko~n! Kon ko~n!</p>
+<p t="137221" d="66" wp="2" ws="1" p="79">​Awoo! Aw-Awoo!</p>
+<p t="137221" d="66" wp="4" ws="2" p="80">​Meooow.</p>
+<p t="137221" d="66" wp="5" ws="3" p="81">​Woof, woof, woof, woof!</p>
+<p t="137287" d="67" wp="3" ws="1" p="82">​Kon ko~n! Kon ko~n!</p>
+<p t="137287" d="67" wp="2" ws="1" p="83">​Awoo! Aw-Awoo!</p>
+<p t="137287" d="67" wp="4" ws="2" p="84">​Meooow.</p>
+<p t="137287" d="67" wp="5" ws="3" p="85">​Woof, woof, woof, woof!</p>
+<p t="137354" d="67" wp="3" ws="1" p="86">​Kon ko~n! Kon ko~n!</p>
+<p t="137354" d="67" wp="2" ws="1" p="87">​Awoo! Aw-Awoo!</p>
+<p t="137354" d="67" wp="4" ws="2" p="88">​Meooow.</p>
+<p t="137354" d="67" wp="5" ws="3" p="89">​Woof, woof, woof, woof!</p>
+<p t="137421" d="67" wp="3" ws="1" p="90">​Kon ko~n! Kon ko~n!</p>
+<p t="137421" d="67" wp="2" ws="1" p="91">​Awoo! Aw-Awoo!</p>
+<p t="137421" d="67" wp="4" ws="2" p="92">​Meooow.</p>
+<p t="137421" d="67" wp="5" ws="3" p="93">​Woof, woof, woof, woof!</p>
+<p t="137488" d="66" wp="3" ws="1" p="94">​Kon ko~n! Kon ko~n!</p>
+<p t="137488" d="66" wp="2" ws="1" p="95">​Awoo! Aw-Awoo!</p>
+<p t="137488" d="66" wp="4" ws="2" p="96">​Meooow.</p>
+<p t="137488" d="66" wp="5" ws="3" p="97">​Woof, woof, woof, woof!</p>
+<p t="137554" d="67" wp="3" ws="1" p="98">​Kon ko~n! Kon ko~n!</p>
+<p t="137554" d="67" wp="2" ws="1" p="99">​Awoo! Aw-Awoo!</p>
+<p t="137554" d="67" wp="4" ws="2" p="100">​Meooow.</p>
+<p t="137554" d="67" wp="5" ws="3" p="101">​Woof, woof, woof, woof!</p>
+<p t="137621" d="67" wp="3" ws="1" p="102">​Kon ko~n! Kon ko~n!</p>
+<p t="137621" d="67" wp="2" ws="1" p="103">​Awoo! Aw-Awoo!</p>
+<p t="137621" d="67" wp="4" ws="2" p="104">​Meooow.</p>
+<p t="137621" d="67" wp="5" ws="3" p="105">​Woof, woof, woof, woof!</p>
+<p t="137688" d="66" wp="3" ws="1" p="106">​Kon ko~n! Kon ko~n!</p>
+<p t="137688" d="66" wp="2" ws="1" p="107">​Awoo! Aw-Awoo!</p>
+<p t="137688" d="66" wp="4" ws="2" p="108">​Meooow.</p>
+<p t="137688" d="66" wp="5" ws="3" p="109">​Woof, woof, woof, woof!</p>
+<p t="137754" d="67" wp="3" ws="1" p="110">​Kon ko~n! Kon ko~n!</p>
+<p t="137754" d="67" wp="2" ws="1" p="111">​Awoo! Aw-Awoo!</p>
+<p t="137754" d="67" wp="4" ws="2" p="112">​Meooow.</p>
+<p t="137754" d="67" wp="5" ws="3" p="113">​Woof, woof, woof, woof!</p>
+<p t="137821" d="67" wp="3" ws="1" p="114">​Kon ko~n! Kon ko~n!</p>
+<p t="137821" d="67" wp="2" ws="1" p="115">​Awoo! Aw-Awoo!</p>
+<p t="137821" d="67" wp="4" ws="2" p="116">​Meooow.</p>
+<p t="137821" d="67" wp="5" ws="3" p="117">​Woof, woof, woof, woof!</p>
+<p t="137888" d="67" wp="3" ws="1" p="118">​Kon ko~n! Kon ko~n!</p>
+<p t="137888" d="67" wp="2" ws="1" p="119">​Awoo! Aw-Awoo!</p>
+<p t="137888" d="67" wp="4" ws="2" p="120">​Meooow.</p>
+<p t="137888" d="67" wp="5" ws="3" p="121">​Woof, woof, woof, woof!</p>
+<p t="137955" d="66" wp="3" ws="1" p="122">​Kon ko~n! Kon ko~n!</p>
+<p t="137955" d="66" wp="2" ws="1" p="123">​Awoo! Aw-Awoo!</p>
+<p t="137955" d="66" wp="4" ws="2" p="124">​Meooow.</p>
+<p t="137955" d="66" wp="5" ws="3" p="125">​Woof, woof, woof, woof!</p>
+<p t="138021" d="67" wp="3" ws="1" p="126">​Kon ko~n! Kon ko~n!</p>
+<p t="138021" d="67" wp="2" ws="1" p="127">​Awoo! Aw-Awoo!</p>
+<p t="138021" d="67" wp="4" ws="2" p="128">​Meooow.</p>
+<p t="138021" d="67" wp="5" ws="3" p="129">​Woof, woof, woof, woof!</p>
+<p t="138088" d="67" wp="3" ws="1" p="130">​Kon ko~n! Kon ko~n!</p>
+<p t="138088" d="67" wp="2" ws="1" p="131">​Awoo! Aw-Awoo!</p>
+<p t="138088" d="67" wp="4" ws="2" p="132">​Meooow.</p>
+<p t="138088" d="67" wp="5" ws="3" p="133">​Woof, woof, woof, woof!</p>
+<p t="138155" d="67" wp="3" ws="1" p="134">​Kon ko~n! Kon ko~n!</p>
+<p t="138155" d="67" wp="2" ws="1" p="135">​Awoo! Aw-Awoo!</p>
+<p t="138155" d="67" wp="4" ws="2" p="136">​Meooow.</p>
+<p t="138155" d="67" wp="5" ws="3" p="137">​Woof, woof, woof, woof!</p>
+<p t="138222" d="66" wp="3" ws="1" p="138">​Kon ko~n! Kon ko~n!</p>
+<p t="138222" d="66" wp="2" ws="1" p="139">​Awoo! Aw-Awoo!</p>
+<p t="138222" d="66" wp="4" ws="2" p="140">​Meooow.</p>
+<p t="138222" d="66" wp="5" ws="3" p="141">​Woof, woof, woof, woof!</p>
+<p t="138288" d="67" wp="3" ws="1" p="142">​Kon ko~n! Kon ko~n!</p>
+<p t="138288" d="67" wp="2" ws="1" p="143">​Awoo! Aw-Awoo!</p>
+<p t="138288" d="67" wp="4" ws="2" p="144">​Meooow.</p>
+<p t="138288" d="67" wp="5" ws="3" p="145">​Woof, woof, woof, woof!</p>
+<p t="138355" d="67" wp="3" ws="1" p="146">​Kon ko~n! Kon ko~n!</p>
+<p t="138355" d="67" wp="2" ws="1" p="147">​Awoo! Aw-Awoo!</p>
+<p t="138355" d="67" wp="4" ws="2" p="148">​Meooow.</p>
+<p t="138355" d="67" wp="5" ws="3" p="149">​Woof, woof, woof, woof!</p>
+<p t="138422" d="67" wp="3" ws="1" p="150">​Kon ko~n! Kon ko~n!</p>
+<p t="138422" d="67" wp="2" ws="1" p="151">​Awoo! Aw-Awoo!</p>
+<p t="138422" d="67" wp="4" ws="2" p="152">​Meooow.</p>
+<p t="138422" d="67" wp="5" ws="3" p="153">​Woof, woof, woof, woof!</p>
+<p t="138489" d="66" wp="3" ws="1" p="154">​Kon ko~n! Kon ko~n!</p>
+<p t="138489" d="66" wp="2" ws="1" p="155">​Awoo! Aw-Awoo!</p>
+<p t="138489" d="66" wp="4" ws="2" p="156">​Meooow.</p>
+<p t="138489" d="66" wp="5" ws="3" p="157">​Woof, woof, woof, woof!</p>
+<p t="138555" d="67" wp="3" ws="1" p="158">​Kon ko~n! Kon ko~n!</p>
+<p t="138555" d="67" wp="2" ws="1" p="159">​Awoo! Aw-Awoo!</p>
+<p t="138555" d="67" wp="4" ws="2" p="160">​Meooow.</p>
+<p t="138555" d="67" wp="5" ws="3" p="161">​Woof, woof, woof, woof!</p>
+<p t="138622" d="67" wp="3" ws="1" p="162">​Kon ko~n! Kon ko~n!</p>
+<p t="138622" d="67" wp="2" ws="1" p="163">​Awoo! Aw-Awoo!</p>
+<p t="138622" d="67" wp="4" ws="2" p="164">​Meooow.</p>
+<p t="138622" d="67" wp="5" ws="3" p="165">​Woof, woof, woof, woof!</p>
+<p t="138689" d="66" wp="3" ws="1" p="166">​Kon ko~n! Kon ko~n!</p>
+<p t="138689" d="66" wp="2" ws="1" p="167">​Awoo! Aw-Awoo!</p>
+<p t="138689" d="66" wp="4" ws="2" p="168">​Meooow.</p>
+<p t="138689" d="66" wp="5" ws="3" p="169">​Woof, woof, woof, woof!</p>
+<p t="138755" d="67" wp="3" ws="1" p="170">​Kon ko~n! Kon ko~n!</p>
+<p t="138755" d="67" wp="2" ws="1" p="171">​Awoo! Aw-Awoo!</p>
+<p t="138755" d="67" wp="4" ws="2" p="172">​Meooow.</p>
+<p t="138755" d="67" wp="5" ws="3" p="173">​Woof, woof, woof, woof!</p>
+<p t="138822" d="67" wp="3" ws="1" p="174">​Kon ko~n! Kon ko~n!</p>
+<p t="138822" d="67" wp="2" ws="1" p="175">​Awoo! Aw-Awoo!</p>
+<p t="138822" d="67" wp="4" ws="2" p="176">​Meooow.</p>
+<p t="138822" d="67" wp="5" ws="3" p="177">​Woof, woof, woof, woof!</p>
+<p t="138889" d="67" wp="3" ws="1" p="178">​Kon ko~n! Kon ko~n!</p>
+<p t="138889" d="67" wp="2" ws="1" p="179">​Awoo! Aw-Awoo!</p>
+<p t="138889" d="67" wp="4" ws="2" p="180">​Meooow.</p>
+<p t="138889" d="67" wp="5" ws="3" p="181">​Woof, woof, woof, woof!</p>
+<p t="138956" d="100" wp="3" ws="1" p="182">​Kon ko~n! Kon ko~n!</p>
+<p t="138956" d="100" wp="2" ws="1" p="183">​Awoo! Aw-Awoo!</p>
+<p t="138956" d="100" wp="4" ws="2" p="184">​Meooow.</p>
+<p t="138956" d="100" wp="5" ws="3" p="185">​Woof, woof, woof, woof!</p>
+</body>
+</timedtext>

@@ -1,164 +1,88 @@
 <?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
-<head>
-<pen id="1" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
-<pen id="2" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="3" fc="#F49205" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="4" fc="#F67AA6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="5" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="6" i="1" fc="#F67AA6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="7" fc="#EE4E87" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="8" fc="#ED7CDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="9" fc="#9958E8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="10" fc="#DB3F46" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="11" fc="#6D8BF7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="12" fc="#EAC31D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="13" i="1" b="1" fc="#ED6334" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
-<pen id="14" b="1" fc="#ED6334" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
-<pen id="15" fc="#ED6334" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="16" fc="#F13C8E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="17" fc="#C2FF5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="18" fc="#9AF708" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="19" fc="#F57ADC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
-<pen id="20" fc="#F57ADC" fo="253" bc="#FFFFFF" bo="228" ec="#000000" sz="100" et="3"/>
-<pen id="21" fc="#F57ADC" fo="241" bc="#FFFFFF" bo="217" ec="#000000" sz="100" et="3"/>
-<pen id="22" fc="#F57ADC" fo="229" bc="#FFFFFF" bo="206" ec="#000000" sz="100" et="3"/>
-<pen id="23" fc="#F57ADC" fo="218" bc="#FFFFFF" bo="196" ec="#000000" sz="100" et="3"/>
-<pen id="24" fc="#F57ADC" fo="206" bc="#FFFFFF" bo="185" ec="#000000" sz="100" et="3"/>
-<pen id="25" fc="#F57ADC" fo="195" bc="#FFFFFF" bo="175" ec="#000000" sz="100" et="3"/>
-<pen id="26" fc="#F57ADC" fo="183" bc="#FFFFFF" bo="165" ec="#000000" sz="100" et="3"/>
-<pen id="27" fc="#F57ADC" fo="171" bc="#FFFFFF" bo="154" ec="#000000" sz="100" et="3"/>
-<pen id="28" fc="#F57ADC" fo="160" bc="#FFFFFF" bo="144" ec="#000000" sz="100" et="3"/>
-<pen id="29" fc="#F57ADC" fo="148" bc="#FFFFFF" bo="133" ec="#000000" sz="100" et="3"/>
-<pen id="30" fc="#F57ADC" fo="137" bc="#FFFFFF" bo="123" ec="#000000" sz="100" et="3"/>
-<pen id="31" fc="#F57ADC" fo="125" bc="#FFFFFF" bo="112" ec="#000000" sz="100" et="3"/>
-<pen id="32" fc="#F57ADC" fo="114" bc="#FFFFFF" bo="102" ec="#000000" sz="100" et="3"/>
-<pen id="33" fc="#F57ADC" fo="102" bc="#FFFFFF" bo="92" ec="#000000" sz="100" et="3"/>
-<pen id="34" fc="#F57ADC" fo="90" bc="#FFFFFF" bo="81" ec="#000000" sz="100" et="3"/>
-<pen id="35" fc="#F57ADC" fo="79" bc="#FFFFFF" bo="71" ec="#000000" sz="100" et="3"/>
-<pen id="36" fc="#F57ADC" fo="67" bc="#FFFFFF" bo="60" ec="#000000" sz="100" et="3"/>
-<pen id="37" fc="#F57ADC" fo="56" bc="#FFFFFF" bo="50" ec="#000000" sz="100" et="3"/>
-<pen id="38" fc="#F57ADC" fo="44" bc="#FFFFFF" bo="39" ec="#000000" sz="100" et="3"/>
-<pen id="39" fc="#F57ADC" fo="32" bc="#FFFFFF" bo="28" ec="#000000" sz="100" et="3"/>
-<pen id="40" fc="#F57ADC" fo="21" bc="#FFFFFF" bo="18" ec="#000000" sz="100" et="3"/>
-<pen id="41" fc="#F57ADC" fo="9" bc="#FFFFFF" bo="8" ec="#000000" sz="100" et="3"/>
-<pen id="42" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
-<pen id="43" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
-<ws id="0"/>
-<ws id="2" ju="0" pd="0" sd="0"/>
-<ws id="3" ju="1" pd="0" sd="0"/>
-<ws id="1" ju="2" pd="0" sd="0"/>
-<wp id="0"/>
-<wp id="12" ap="0" ah="0" av="0"/>
-<wp id="3" ap="1" ah="50" av="0"/>
-<wp id="13" ap="1" ah="50" av="9"/>
-<wp id="14" ap="2" ah="100" av="0"/>
-<wp id="19" ap="4" ah="31" av="70"/>
-<wp id="18" ap="4" ah="34" av="59"/>
-<wp id="15" ap="6" ah="0" av="100"/>
-<wp id="1" ap="7" ah="0" av="0"/>
-<wp id="6" ap="7" ah="14" av="77"/>
-<wp id="5" ap="7" ah="22" av="55"/>
-<wp id="7" ap="7" ah="27" av="91"/>
-<wp id="11" ap="7" ah="32" av="10"/>
-<wp id="2" ap="7" ah="50" av="100"/>
-<wp id="16" ap="7" ah="50" av="71"/>
-<wp id="4" ap="7" ah="53" av="38"/>
-<wp id="10" ap="7" ah="55" av="87"/>
-<wp id="8" ap="7" ah="57" av="48"/>
-<wp id="9" ap="7" ah="66" av="66"/>
-<wp id="20" ap="8" ah="0" av="0"/>
-<wp id="17" ap="8" ah="100" av="100"/>
-</head>
 <body>
-<p t="1630" d="3680" wp="2" ws="1" p="2">Log 005: When the Idols Have Laughing Fits</p>
-<p t="5310" d="4700" wp="2" ws="1" p="3">Natsuilol Matsuri</p>
-<p t="5380" d="4200" wp="3" ws="1" p="3">1st Gen: Natsuiro Matsuri</p>
-<p t="10010" d="2260" wp="2" ws="1" p="3">*drunk laughter*</p>
-<p t="13550" d="3260" wp="2" ws="1" p="3">*drunker laughter*</p>
-<p t="17960" d="3940" wp="2" ws="1" p="3">*even drunker laughter*</p>
-<p t="22350" d="1460" wp="2" ws="1" p="3">Bwahaha!</p>
-<p t="23810" d="740" wp="2" ws="1" p="3">My sides!</p>
-<p t="24650" d="4230" wp="3" ws="1" p="4">Sakura Miko</p>
-<p t="24680" d="600" wp="4" ws="1" p="5">Gwah</p>
-<p t="25280" d="1800" wp="2" ws="1"><s p="4">Sa</s><s>​</s><s p="6">kusa </s><s p="4">Miko</s></p>
-<p t="28180" d="400" wp="2" ws="1" p="4">Sorry.</p>
-<p t="28580" d="1330" wp="2" ws="1" p="4">*laughter*</p>
-<p t="29910" d="1740" wp="5" ws="1" p="5">*desk -1 HP*</p>
-<p t="30210" d="1440" wp="6" ws="1" p="5">*desk -1 HP*</p>
-<p t="30510" d="1140" wp="7" ws="1" p="5">*desk -1 HP*</p>
-<p t="30780" d="870" wp="8" ws="1" p="5">*desk -1 HP*</p>
-<p t="30980" d="670" wp="9" ws="1" p="5">*desk -1 HP*</p>
-<p t="31250" d="400" wp="10" ws="1" p="5">*desk -1 HP*</p>
-<p t="31980" d="630" wp="11" ws="1" p="5">Gwah</p>
-<p t="32610" d="1500" wp="2" ws="1" p="4">*elite laughter*</p>
-<p t="34180" d="4300" wp="12" ws="2" p="7">2nd Gen: Nakiri Ayame</p>
-<p t="34180" d="4300" wp="13" ws="1" p="8">2nd Gen: Minato Aqua</p>
-<p t="34180" d="4300" wp="14" ws="3" p="9">2nd Gen: Murasaki Shion</p>
-<p t="34640" d="980" wp="2" ws="1" p="8">Minato Cackua</p>
-<p t="35620" d="2030" wp="15" ws="2" p="7">Nyukiri Ayame</p>
-<p t="37040" d="430" wp="16" ws="1" p="5">*Desk: Ouch x1*</p>
-<p t="37470" d="380" wp="16" ws="1" p="5">*Desk: Ouch x2*</p>
-<p t="37650" d="2130" wp="17" ws="3" p="9">Murasakek Shion</p>
-<p t="38850" d="530" wp="16" ws="1" p="5">*Desk: Ouch x3*</p>
-<p t="39380" d="400" wp="16" ws="1" p="5">*Desk: Ouch x4*</p>
-<p t="39780" d="2130" wp="2" ws="1" p="2">*All together now!*</p>
-<p t="39780" d="470" wp="16" ws="1" p="5">*Desk: Ouch x5*</p>
-<p t="41230" d="680" wp="16" ws="1" p="5">*Desk: Ouch x6*</p>
-<p t="41910" d="2070" wp="2" ws="1" p="10">Ho-Ho-Houshou Marine</p>
-<p t="41980" d="4130" wp="3" ws="1" p="10">3rd Gen: Houshou Marine</p>
-<p t="43980" d="1900" wp="2" ws="1" p="10">*Aho-ho-hoy*</p>
-<p t="45880" d="2070" wp="2" ws="1" p="10">*Arr arr arr*</p>
-<p t="47950" d="1300" wp="2" ws="1" p="10">*Me hearties*</p>
-<p t="49250" d="2460" wp="3" ws="1" p="11">Tokino Sora</p>
-<p t="49580" d="2130" wp="2" ws="1" p="11">Teeheeno Sora</p>
-<p t="51710" d="4340" wp="2" ws="1" p="11">*bewitching laughter*</p>
-<p t="56050" d="1100" wp="2" ws="1" p="12">*dog laughing*</p>
-<p t="56110" d="4240" wp="3" ws="1" p="12">hololive Gamers: Inugami Korone</p>
-<p t="57310" d="1500" wp="2" ws="1" p="12">*pupper laughing*</p>
-<p t="58860" d="1420" wp="2" ws="1" p="12">*doggo laughing*</p>
-<p t="60490" d="1490" wp="2" ws="1" p="12">*recorder sounds*</p>
-<p t="61980" d="5200" wp="2" ws="1"><s p="13">Kusa</s><s>​</s><s p="14">zako Report</s></p>
-<p t="62080" d="4200" wp="3" ws="1" p="15">4th Gen: Kiryu Coco</p>
-<p t="67180" d="2200" wp="3" ws="1" p="16">2nd Gen: Yuzuki Choco</p>
-<p t="67180" d="4630" wp="2" ws="1" p="16">Lulzuki Choco</p>
-<p t="71810" d="4670" wp="2" ws="1" p="17">Aki LOLenthal</p>
-<p t="71910" d="4300" wp="3" ws="1" p="18">1st Gen: Aki Rosenthal</p>
-<p t="76580" d="1330" wp="2" ws="1" p="17">That&#39;s so funny!</p>
-<p t="77910" d="4140" wp="2" ws="1" p="2">Log 005: Laugh Along with hololive</p>
-<p t="82050" d="1260" wp="14" ws="3" p="5">Extra</p>
-<p t="83310" d="13570" wp="13" ws="1" p="5">Note: She&#39;s using a voice changer</p>
-<p t="83310" d="2570" wp="2" ws="1" p="19">Use the kiss sticker more! Come on...</p>
-<p t="83410" d="4240" wp="3" ws="1" p="19">4th Gen: Himemori Luna</p>
-<p t="87590" d="2950" wp="2" ws="1" p="19">Come on... do it like you always do!</p>
-<p t="90540" d="2160" wp="2" ws="1" p="19">*Baby giggles*</p>
-<p t="94410" d="1100" wp="18" ws="1" p="19">haa...</p>
-<p t="95410" d="1240" wp="19" ws="1" p="19">haa...</p>
-<p t="96880" d="2570" wp="2" ws="1" p="19">I can hear myself here.</p>
-<p t="99450" d="2502" wp="2" ws="1" p="19">I weally can&#39;t deal with this!</p>
-<p t="101952" d="67" wp="2" ws="1" p="20">I weally can&#39;t deal with this!</p>
-<p t="102019" d="67" wp="2" ws="1" p="21">I weally can&#39;t deal with this!</p>
-<p t="102086" d="66" wp="2" ws="1" p="22">I weally can&#39;t deal with this!</p>
-<p t="102152" d="67" wp="2" ws="1" p="23">I weally can&#39;t deal with this!</p>
-<p t="102219" d="67" wp="2" ws="1" p="24">I weally can&#39;t deal with this!</p>
-<p t="102286" d="66" wp="2" ws="1" p="25">I weally can&#39;t deal with this!</p>
-<p t="102352" d="67" wp="2" ws="1" p="26">I weally can&#39;t deal with this!</p>
-<p t="102419" d="67" wp="2" ws="1" p="27">I weally can&#39;t deal with this!</p>
-<p t="102486" d="67" wp="2" ws="1" p="28">I weally can&#39;t deal with this!</p>
-<p t="102553" d="66" wp="2" ws="1" p="29">I weally can&#39;t deal with this!</p>
-<p t="102619" d="67" wp="2" ws="1" p="30">I weally can&#39;t deal with this!</p>
-<p t="102686" d="67" wp="2" ws="1" p="31">I weally can&#39;t deal with this!</p>
-<p t="102753" d="67" wp="2" ws="1" p="32">I weally can&#39;t deal with this!</p>
-<p t="102820" d="66" wp="2" ws="1" p="33">I weally can&#39;t deal with this!</p>
-<p t="102886" d="67" wp="2" ws="1" p="34">I weally can&#39;t deal with this!</p>
-<p t="102953" d="67" wp="2" ws="1" p="35">I weally can&#39;t deal with this!</p>
-<p t="103020" d="67" wp="2" ws="1" p="36">I weally can&#39;t deal with this!</p>
-<p t="103087" d="66" wp="2" ws="1" p="37">I weally can&#39;t deal with this!</p>
-<p t="103153" d="67" wp="2" ws="1" p="38">I weally can&#39;t deal with this!</p>
-<p t="103220" d="67" wp="2" ws="1" p="39">I weally can&#39;t deal with this!</p>
-<p t="103287" d="66" wp="2" ws="1" p="40">I weally can&#39;t deal with this!</p>
-<p t="103353" d="97" wp="2" ws="1" p="41">I weally can&#39;t deal with this!</p>
-<p t="103680" d="10270" wp="2" ws="1" p="2">If anyone caught your attention, come join their streams!</p>
-<p t="5000" d="100" wp="20" ws="3" p="42">​</p>
-<p t="5000" d="100" wp="20" ws="3" p="43">​</p>
+<p t="530" d="3680">Log 005: When the Idols Have Laughing Fits</p>
+<p t="3900" d="100">​</p>
+<p t="3900" d="100">​</p>
+<p t="4210" d="4700">Natsuilol Matsuri</p>
+<p t="4280" d="4200">1st Gen: Natsuiro Matsuri</p>
+<p t="8910" d="2260">*drunk laughter*</p>
+<p t="12450" d="3260">*drunker laughter*</p>
+<p t="16860" d="3940">*even drunker laughter*</p>
+<p t="21250" d="1460">Bwahaha!</p>
+<p t="22710" d="740">My sides!</p>
+<p t="23550" d="4230">Sakura Miko</p>
+<p t="23580" d="600">Gwah</p>
+<p t="24180" d="1800">Sa​kusa Miko</p>
+<p t="27080" d="400">Sorry.</p>
+<p t="27480" d="1330">*laughter*</p>
+<p t="28810" d="1740">*desk -1 HP*</p>
+<p t="29110" d="1440">*desk -1 HP*</p>
+<p t="29410" d="1140">*desk -1 HP*</p>
+<p t="29680" d="870">*desk -1 HP*</p>
+<p t="29880" d="670">*desk -1 HP*</p>
+<p t="30150" d="400">*desk -1 HP*</p>
+<p t="30880" d="630">Gwah</p>
+<p t="31510" d="1500">*elite laughter*</p>
+<p t="33080" d="4300">2nd Gen: Minato Aqua</p>
+<p t="33080" d="4300">2nd Gen: Murasaki Shion</p>
+<p t="33080" d="4300">2nd Gen: Nakiri Ayame</p>
+<p t="33540" d="980">Minato Cackua</p>
+<p t="34520" d="2030">Nyukiri Ayame</p>
+<p t="35940" d="430">*Desk: Ouch x1*</p>
+<p t="36370" d="380">*Desk: Ouch x2*</p>
+<p t="36550" d="2130">Murasakek Shion</p>
+<p t="37750" d="530">*Desk: Ouch x3*</p>
+<p t="38280" d="400">*Desk: Ouch x4*</p>
+<p t="38680" d="2130">*All together now!*</p>
+<p t="38680" d="470">*Desk: Ouch x5*</p>
+<p t="40130" d="680">*Desk: Ouch x6*</p>
+<p t="40810" d="2070">Ho-Ho-Houshou Marine</p>
+<p t="40880" d="4130">3rd Gen: Houshou Marine</p>
+<p t="42880" d="1900">*Aho-ho-hoy*</p>
+<p t="44780" d="2070">*Arr arr arr*</p>
+<p t="46850" d="1300">*Me hearties*</p>
+<p t="48150" d="2460">Tokino Sora</p>
+<p t="48480" d="2130">Teeheeno Sora</p>
+<p t="50610" d="4340">*bewitching laughter*</p>
+<p t="54950" d="1100">*dog laughing*</p>
+<p t="60136" d="2200">2nd Gen: Yuzuki Choco</p>
+<p t="60136" d="4630">Lulzuki Choco</p>
+<p t="64766" d="4670">Aki LOLenthal</p>
+<p t="64866" d="4300">1st Gen: Aki Rosenthal</p>
+<p t="69536" d="1330">That&#39;s so funny!</p>
+<p t="70866" d="4140">Log 005: Laugh Along with hololive</p>
+<p t="75006" d="1260">Extra</p>
+<p t="76266" d="13570">Note: She&#39;s using a voice changer</p>
+<p t="76266" d="2570">Use the kiss sticker more! Come on...</p>
+<p t="76366" d="4240">4th Gen: Himemori Luna</p>
+<p t="80546" d="2950">Come on... do it like you always do!</p>
+<p t="83496" d="2160">*Baby giggles*</p>
+<p t="87366" d="1100">haa...</p>
+<p t="88366" d="1240">haa...</p>
+<p t="89836" d="2570">I can hear myself here.</p>
+<p t="92406" d="2502">I weally can&#39;t deal with this!</p>
+<p t="94908" d="67">I weally can&#39;t deal with this!</p>
+<p t="94975" d="67">I weally can&#39;t deal with this!</p>
+<p t="95042" d="66">I weally can&#39;t deal with this!</p>
+<p t="95108" d="67">I weally can&#39;t deal with this!</p>
+<p t="95175" d="67">I weally can&#39;t deal with this!</p>
+<p t="95242" d="66">I weally can&#39;t deal with this!</p>
+<p t="95308" d="67">I weally can&#39;t deal with this!</p>
+<p t="95375" d="67">I weally can&#39;t deal with this!</p>
+<p t="95442" d="67">I weally can&#39;t deal with this!</p>
+<p t="95509" d="66">I weally can&#39;t deal with this!</p>
+<p t="95575" d="67">I weally can&#39;t deal with this!</p>
+<p t="95642" d="67">I weally can&#39;t deal with this!</p>
+<p t="95709" d="67">I weally can&#39;t deal with this!</p>
+<p t="95776" d="66">I weally can&#39;t deal with this!</p>
+<p t="95842" d="67">I weally can&#39;t deal with this!</p>
+<p t="95909" d="67">I weally can&#39;t deal with this!</p>
+<p t="95976" d="67">I weally can&#39;t deal with this!</p>
+<p t="96043" d="66">I weally can&#39;t deal with this!</p>
+<p t="96109" d="67">I weally can&#39;t deal with this!</p>
+<p t="96176" d="67">I weally can&#39;t deal with this!</p>
+<p t="96243" d="66">I weally can&#39;t deal with this!</p>
+<p t="96309" d="97">I weally can&#39;t deal with this!</p>
+<p t="96636" d="10270">If anyone caught your attention, come join their streams!</p>
 </body>
 </timedtext>

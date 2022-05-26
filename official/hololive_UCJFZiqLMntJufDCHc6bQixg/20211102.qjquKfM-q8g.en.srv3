@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="0"/>
+<pen id="3" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#FF64AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#96FF37" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#A39FDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#FFD700" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#5AFFFC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#F3F514" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#FEFFA0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#F352A4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FFFF9C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#D73547" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#EF26B2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#FBAC57" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#D741CC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#10ABE8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#FEFF18" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#F5FE09" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#FF64AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="346" et="3"/>
+<pen id="22" fc="#FCFF0A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#FCFF09" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#DD00B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#E9006A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#E25905" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" i="1" fc="#A39FDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#EC0068" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#F9EB43" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#FFB0F2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#D6720F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#E90068" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#0FB6F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#F27207" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" i="1" fc="#FEFEFE" fo="1" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="9" ap="0" ah="0" av="0"/>
+<wp id="5" ap="1" ah="50" av="0"/>
+<wp id="32" ap="4" ah="12" av="25"/>
+<wp id="40" ap="4" ah="13" av="28"/>
+<wp id="33" ap="4" ah="14" av="73"/>
+<wp id="25" ap="4" ah="16" av="43"/>
+<wp id="17" ap="4" ah="19" av="66"/>
+<wp id="29" ap="4" ah="19" av="79"/>
+<wp id="23" ap="4" ah="19" av="81"/>
+<wp id="46" ap="4" ah="20" av="47"/>
+<wp id="48" ap="4" ah="22" av="30"/>
+<wp id="43" ap="4" ah="23" av="64"/>
+<wp id="14" ap="4" ah="24" av="71"/>
+<wp id="15" ap="4" ah="29" av="70"/>
+<wp id="10" ap="4" ah="36" av="71"/>
+<wp id="44" ap="4" ah="39" av="69"/>
+<wp id="21" ap="4" ah="40" av="79"/>
+<wp id="28" ap="4" ah="41" av="18"/>
+<wp id="37" ap="4" ah="44" av="9"/>
+<wp id="38" ap="4" ah="50" av="17"/>
+<wp id="31" ap="4" ah="50" av="20"/>
+<wp id="19" ap="4" ah="50" av="50"/>
+<wp id="49" ap="4" ah="51" av="15"/>
+<wp id="18" ap="4" ah="60" av="12"/>
+<wp id="27" ap="4" ah="64" av="14"/>
+<wp id="20" ap="4" ah="64" av="33"/>
+<wp id="16" ap="4" ah="64" av="77"/>
+<wp id="39" ap="4" ah="65" av="9"/>
+<wp id="12" ap="4" ah="67" av="57"/>
+<wp id="24" ap="4" ah="67" av="69"/>
+<wp id="26" ap="4" ah="72" av="40"/>
+<wp id="34" ap="4" ah="72" av="72"/>
+<wp id="41" ap="4" ah="74" av="70"/>
+<wp id="36" ap="4" ah="75" av="14"/>
+<wp id="42" ap="4" ah="77" av="27"/>
+<wp id="30" ap="4" ah="77" av="83"/>
+<wp id="47" ap="4" ah="80" av="21"/>
+<wp id="35" ap="4" ah="84" av="44"/>
+<wp id="45" ap="4" ah="85" av="75"/>
+<wp id="11" ap="5" ah="77" av="18"/>
+<wp id="13" ap="5" ah="77" av="50"/>
+<wp id="22" ap="5" ah="77" av="82"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="6" ap="7" ah="30" av="36"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="50" ap="7" ah="50" av="70"/>
+<wp id="4" ap="7" ah="50" av="80"/>
+<wp id="3" ap="7" ah="50" av="91"/>
+<wp id="7" ap="7" ah="60" av="14"/>
+<wp id="8" ap="7" ah="81" av="36"/>
+<wp id="51" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="184" d="5305" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Disclaimer:​ ​</s><s p="2">​
+​</s><s p="3">​ ​This video has been self-censored​ ​</s><s p="2">​
+​</s><s p="3">​ ​to limit its boundless sexuality.​ ​</s><s p="2">​</s></p>
+<p t="5489" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I&#39;m going to go full tilt now, okay?​ ​</s><s p="2">​</s></p>
+<p t="7491" d="5639" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​There you go, blowing your load again.​ ​</s><s p="2">​</s></p>
+<p t="9660" d="3470" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I blew my load early.​ ​</s><s p="2">​</s></p>
+<p t="11762" d="1368" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Are we not doing phrasing anymore?!​ ​</s><s p="2">​</s></p>
+<p t="13130" d="7975" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Starring:​ ​</s><s p="2">​
+​</s><s p="3">​ ​Aki Rosenthal​ ​</s><s p="2">​
+​</s><s p="3">​ ​Yuzuki Choco​ ​</s><s p="2">​
+​</s><s p="3">​ ​Yozora Mel​ ​</s><s p="2">​</s></p>
+<p t="13130" d="3237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This show is brought to you by Aki Rosenthal...​ ​</s><s p="2">​</s></p>
+<p t="16367" d="1468" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​...Yuzuki Choco...​ ​</s><s p="2">​</s></p>
+<p t="17835" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​...and Yozora Mel.​ ​</s><s p="2">​</s></p>
+<p t="21839" d="2869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hitting the perfect spot​ ​</s><s p="2">​
+​</s><s p="6">​ ​and taking a load off your mind,​ ​</s><s p="2">​</s></p>
+<p t="24708" d="4138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​this is the very first​ ​</s><s p="2">​
+​</s><s p="6">​ ​&quot;Sounds of Rapture Championship&quot;!​ ​</s><s p="2">​</s></p>
+<p t="24775" d="6206" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Sounds of Rapture </s><s p="9">Championship​ ​</s><s p="2">​</s></p>
+<p t="28846" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Yeah!​ ​</s><s p="2">​</s></p>
+<p t="30981" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​I ask you!​ ​</s><s p="2">​</s></p>
+<p t="31949" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Do you like feeling good?​ ​</s><s p="2">​</s></p>
+<p t="34084" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Love it!​ ​</s><s p="2">​</s></p>
+<p t="36854" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Are you game for taking the lead​ ​</s><s p="2">​
+​</s><s p="6">​ ​and doing something that would feel good?​ ​</s><s p="2">​</s></p>
+<p t="40024" d="4104" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Huh? That sounds like [REDACTED], A-sama.​ ​</s><s p="2">​</s></p>
+<p t="42026" d="2102" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​What are you implying with that look?!​ ​</s><s p="2">​</s></p>
+<p t="44728" d="6907" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Are you offering [REDACTED] to me?​ ​</s><s p="2">​</s></p>
+<p t="47064" d="4571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Are you actually looking forward to this? Gosh!​ ​</s><s p="2">​</s></p>
+<p t="49700" d="1935" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Listen! Let&#39;s keep this PG!​ ​</s><s p="2">​</s></p>
+<p t="51635" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​This isn&#39;t members-only content, okay?!​ ​</s><s p="2">​</s></p>
+<p t="54138" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​So, I believe we&#39;ve asked each of you​ ​</s><s p="2">​</s></p>
+<p t="54338" d="6206" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hololive 1st Gen:​ ​</s><s p="2">​
+​</s><s p="11">​ ​Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="54338" d="6206" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hololive 1st Gen:​ ​</s><s p="2">​
+​</s><s p="11">​ ​Yozora Mel​ ​</s><s p="2">​</s></p>
+<p t="54338" d="6206" wp="8" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hololive 2nd Gen:​ ​</s><s p="2">​
+​</s><s p="11">​ ​Yuzuki Choco​ ​</s><s p="2">​</s></p>
+<p t="54338" d="6206" wp="9" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​hololive Staff:​ ​</s><s p="2">​
+​</s><s p="11">​ ​Friend A</s><s p="3">, a.k.a A-chan​ ​</s><s p="2">​</s></p>
+<p t="56273" d="4271" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​to bring whatever you think​ ​</s><s p="2">​
+​</s><s p="6">​ ​will produce pleasant sounds.​ ​</s><s p="2">​</s></p>
+<p t="60744" d="6507" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Rules: </s><s p="3">​Whoever produces </s><s p="13">the most pleasant sounds using​ ​</s><s p="2">​
+​</s><s p="13">​ ​the items at their disposal will be declared the winner​ ​</s><s p="2">​</s></p>
+<p t="64715" d="967" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Okay.​ ​</s><s p="2">​</s></p>
+<p t="64715" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I see, I see.​ ​</s><s p="2">​</s></p>
+<p t="66250" d="1001" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I&#39;m going for the win.​ ​</s><s p="2">​</s></p>
+<p t="67251" d="3336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​As for the judging,​ ​</s><s p="2">​
+​</s><s p="6">​ ​it will be thoroughly deliberated by​ ​</s><s p="2">​</s></p>
+<p t="70587" d="4071" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​the </s><s p="14">International Society of Pleasure Review.​ ​</s><s p="2">​</s></p>
+<p t="74658" d="4138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I have never heard of this society!​ ​</s><s p="2">​</s></p>
+<p t="76927" d="1869" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Where did you even find them?​ ​</s><s p="2">​</s></p>
+<p t="78796" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​If you win, you will be declared the </s><s p="15">​Rapture </s><s p="16">​Queen</s><s p="6">,​ ​</s><s p="2">​</s></p>
+<p t="82399" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​so go all out, but make sure​ ​</s><s p="2">​
+​</s><s p="6">​ ​this doesn&#39;t end up being rated </s><s p="17">​R-18</s><s p="6">.​ ​</s><s p="2">​</s></p>
+<p t="86036" d="5706" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, so R-15 is fair game?​ ​</s><s p="2">​</s></p>
+<p t="87171" d="1101" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​R-15?!​ ​</s><s p="2">​</s></p>
+<p t="88272" d="3470" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Can you please stop trying to​ ​</s><s p="2">​
+​</s><s p="6">​ ​figure out where to draw the line?​ ​</s><s p="2">​</s></p>
+<p t="91942" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="18">​ ​Yuzuki Choco</s><s p="19">&#39;s Sounds of Rapture​ ​</s><s p="2">​</s></p>
+<p t="95846" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​So, what will you be going with?​ ​</s><s p="2">​</s></p>
+<p t="99349" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I&#39;ll be using a pear.​ ​</s><s p="2">​</s></p>
+<p t="100317" d="3937" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sounds of Rapture </s><s p="20">Using a Pear​ ​</s><s p="2">​</s></p>
+<p t="100617" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Oh, a pear? Nice.​ ​</s><s p="2">​</s></p>
+<p t="102286" d="1968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​That does look good.​ ​</s><s p="2">​</s></p>
+<p t="102286" d="1968" wp="11" ws="3"><s p="2">​</s><s>​</s><s p="5">​ ​That looks yummy!​ ​</s><s p="2">​</s></p>
+<p t="104254" d="4338" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Yuzuki Choco&#39;s Pear-Shaped​ ​</s><s p="2">​
+​</s><s p="6">​ ​Sounds of Rapture begin in...​ ​</s><s p="2">​</s></p>
+<p t="108592" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Three...​ ​</s><s p="2">​</s></p>
+<p t="109560" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​two...​ ​</s><s p="2">​</s></p>
+<p t="110294" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​one...​ ​</s><s p="2">​</s></p>
+<p t="111695" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Rub-a-dub-dub...​ ​</s><s p="2">​</s></p>
+<p t="111929" d="14147" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Note: She&#39;s just eating a pear.​ ​</s><s p="2">​</s></p>
+<p t="117468" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Whoa, that sounds really nice.​ ​</s><s p="2">​</s></p>
+<p t="121638" d="2903" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​*slurp*​ ​</s><s p="2">​</s></p>
+<p t="123340" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oh, I hear something​ ​</s><s p="2">​</s></p>
+<p t="125709" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​being sucked out.​ ​</s><s p="2">​</s></p>
+<p t="126410" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​She did suck on it a little.​ ​</s><s p="2">​</s></p>
+<p t="126410" d="1268" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Water content.​ ​</s><s p="2">​</s></p>
+<p t="128612" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​I guess this is one juicy pear.​ ​</s><s p="2">​</s></p>
+<p t="131915" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Yeah.​ ​</s><s p="2">​</s></p>
+<p t="132449" d="4738" wp="11" ws="3"><s p="2">​</s><s>​</s><s p="5">​ ​That&#39;s all it is.​ ​</s><s p="2">​</s></p>
+<p t="133317" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Yeah, yeah!​ ​</s><s p="2">​</s></p>
+<p t="134218" d="700" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Nothing more.​ ​</s><s p="2">​</s></p>
+<p t="134918" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Yeah, nothing more.​ ​</s><s p="2">​</s></p>
+<p t="136086" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Yeah, yeah.​ ​</s><s p="2">​</s></p>
+<p t="137654" d="801" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​*om*​ ​</s><s p="2">​</s></p>
+<p t="139123" d="3436" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​[REDACTED]​ ​</s><s p="2">​</s></p>
+<p t="140757" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​She went in a little harder this time.​ ​</s><s p="2">​</s></p>
+<p t="144294" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Is it good?​ ​</s><s p="2">​</s></p>
+<p t="147397" d="2837" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, very good.​ ​</s><s p="2">​</s></p>
+<p t="149099" d="1135" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Cute!​ ​</s><s p="2">​</s></p>
+<p t="150234" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​I hate to admit it,​ ​</s><s p="2">​
+​</s><s p="6">​ ​but that made my heart skip a beat.​ ​</s><s p="2">​</s></p>
+<p t="151768" d="1202" wp="13" ws="3"><s p="2">​</s><s>​</s><s p="7">​ ​Cute.​ ​</s><s p="2">​</s></p>
+<p t="152970" d="4237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I&#39;m going to go full tilt now, okay?​ ​</s><s p="2">​</s></p>
+<p t="156039" d="1168" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Go for it.​ ​</s><s p="2">​</s></p>
+<p t="157207" d="2002" wp="14" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​*om*​ ​</s><s p="2">​</s></p>
+<p t="158575" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Love that look.​ ​</s><s p="2">​
+​</s><s p="6">​ ​She&#39;s making the perfect expressions.​ ​</s><s p="2">​</s></p>
+<p t="161411" d="2069" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​[REDACTED]​ ​</s><s p="2">​</s></p>
+<p t="163647" d="4838" wp="16" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Mm...​ ​</s><s p="2">​</s></p>
+<p t="164448" d="4037" wp="17" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Mnn!​ ​</s><s p="2">​</s></p>
+<p t="165082" d="3403" wp="18" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Mm...!​ ​</s><s p="2">​</s></p>
+<p t="166016" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You okay over there?​ ​</s><s p="2">​</s></p>
+<p t="167084" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Are you okay?​ ​</s><s p="2">​</s></p>
+<p t="168051" d="434" wp="19" ws="1"><s p="2">​</s><s>​</s><s p="21">​ ​Hnnn!​ ​</s><s p="2">​</s></p>
+<p t="168485" d="4471" wp="19" ws="1"><s p="2">​</s><s>​</s><s p="22">​ ​Fin​ ​</s><s p="2">​</s></p>
+<p t="168785" d="2370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Okay, that&#39;s that!​ ​</s><s p="2">​</s></p>
+<p t="172956" d="5172" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I got a little too [REDACTED].​ ​</s><s p="2">​</s></p>
+<p t="174825" d="2002" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Thank you for that passionate performance.​ ​</s><s p="2">​</s></p>
+<p t="175058" d="3070" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Uh, things got a little hot​ ​</s><s p="2">​
+​</s><s p="5">​ ​under the collar over here too.​ ​</s><s p="2">​</s></p>
+<p t="178128" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​After careful and thorough deliberation,​ ​</s><s p="2">​</s></p>
+<p t="180197" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​the International Society of Pleasure Review​ ​</s><s p="2">​</s></p>
+<p t="184234" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​has awarded you a score of...​ ​</s><s p="2">​</s></p>
+<p t="186837" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​9.6 out of 10!​ ​</s><s p="2">​</s></p>
+<p t="188505" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​What?​ ​</s><s p="2">​</s></p>
+<p t="189206" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Awesome!​ ​</s><s p="2">​</s></p>
+<p t="191275" d="2068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Congratulations!​ ​</s><s p="2">​</s></p>
+<p t="193544" d="2535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​So they enjoyed the [REDACTED], huh?​ ​</s><s p="2">​</s></p>
+<p t="196079" d="3571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aw, I went and nailed it!​ ​</s><s p="2">​
+​</s><s p="4">​ ​A super-high score!​ ​</s><s p="2">​</s></p>
+<p t="199650" d="4571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You missed out on the last 0.4​ ​</s><s p="2">​
+​</s><s p="6">​ ​because they wanted it to keep going.​ ​</s><s p="2">​</s></p>
+<p t="201652" d="7774" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Some of the Judges </s><s p="23">Wanted More​ ​</s><s p="2">​</s></p>
+<p t="204221" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​But our time is limited, so...​ ​</s><s p="2">​</s></p>
+<p t="205322" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, I see!​ ​</s><s p="2">​</s></p>
+<p t="206290" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​So leaving them wanting more is good.​ ​</s><s p="2">​</s></p>
+<p t="206757" d="1168" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​So I could&#39;ve kept going...​ ​</s><s p="2">​</s></p>
+<p t="207925" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kept goin—​ ​</s><s p="2">​</s></p>
+<p t="209426" d="3937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Next up is Mel-san. Are you ready?​ ​</s><s p="2">​</s></p>
+<p t="211495" d="1868" wp="13" ws="3"><s p="2">​</s><s>​</s><s p="7">​ ​Yeah!​ ​</s><s p="2">​</s></p>
+<p t="212095" d="1268" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Ready as ever!​ ​</s><s p="2">​</s></p>
+<p t="213530" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="24">​ ​Yozora Mel</s><s p="19">&#39;s Sounds of Rapture​ ​</s><s p="2">​</s></p>
+<p t="217167" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I brought with me, well...​ ​</s><s p="2">​</s></p>
+<p t="219636" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Some body soap.​ ​</s><s p="2">​</s></p>
+<p t="220904" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Oh, body soap? Great idea!​ ​</s><s p="2">​</s></p>
+<p t="221038" d="2669" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sounds of Rapture </s><s p="20">Using Body Soap​ ​</s><s p="2">​</s></p>
+<p t="223707" d="4705" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Yozora Mel&#39;s Bodaciously Soapy​ ​</s><s p="2">​
+​</s><s p="6">​ ​Sounds of Rapture begin in...​ ​</s><s p="2">​</s></p>
+<p t="228412" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Three...​ ​</s><s p="2">​</s></p>
+<p t="229112" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​two...​ ​</s><s p="2">​</s></p>
+<p t="229780" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​one...​ ​</s><s p="2">​</s></p>
+<p t="231882" d="6239" wp="20" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I sure worked up a sweat.​ ​</s><s p="2">​</s></p>
+<p t="233317" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Ah, she&#39;s taking it from the top.​ ​</s><s p="2">​</s></p>
+<p t="234651" d="3470" wp="21" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I need to wash up.​ ​</s><s p="2">​</s></p>
+<p t="236887" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Wait, what? That sounds good!​ ​</s><s p="2">​</s></p>
+<p t="238422" d="17017" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Note: She&#39;s washing with body soap.​ ​</s><s p="2">​</s></p>
+<p t="238555" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Wh-What&#39;s that sound?​ ​</s><s p="2">​</s></p>
+<p t="242159" d="1501" wp="22" ws="3"><s p="2">​</s><s>​</s><s p="6">​ ​Foam?​ ​</s><s p="2">​</s></p>
+<p t="243393" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Work up a foam...​ ​</s><s p="2">​</s></p>
+<p t="244695" d="1501" wp="13" ws="3"><s p="2">​</s><s>​</s><s p="4">​ ​You can hear it.​ ​</s><s p="2">​</s></p>
+<p t="245662" d="2403" wp="23" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="246063" d="2135" wp="24" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="246496" d="1302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Sure can.​ ​</s><s p="2">​</s></p>
+<p t="246563" d="2403" wp="25" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="246897" d="2369" wp="26" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="247431" d="2402" wp="27" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="247798" d="2402" wp="28" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*foamy*​ ​</s><s p="2">​</s></p>
+<p t="248632" d="1635" wp="29" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*bubble*​ ​</s><s p="2">​</s></p>
+<p t="248632" d="1635" wp="30" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​*bubble*​ ​</s><s p="2">​</s></p>
+<p t="250267" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You know, what POV are we​ ​</s><s p="2">​
+​</s><s p="6">​ ​supposed to take here?​ ​</s><s p="2">​</s></p>
+<p t="253070" d="734" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, right...​ ​</s><s p="2">​</s></p>
+<p t="253804" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​But you know,​ ​</s><s p="2">​
+​</s><s p="6">​ ​You know, what POV are we​ ​</s><s p="2">​
+​</s><s p="6">​ ​supposed to take here?​ ​</s><s p="2">​</s></p>
+<p t="254271" d="6239" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​she&#39;s washing herself...​ ​</s><s p="2">​</s></p>
+<p t="256807" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​in the [REDACTED].​ ​</s><s p="2">​</s></p>
+<p t="261044" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Just think of yourself​ ​</s><s p="2">​
+​</s><s p="5">​ ​as a bathroom wall.​ ​</s><s p="2">​</s></p>
+<p t="262980" d="1768" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Okay, so a fly on the wall.​ ​</s><s p="2">​</s></p>
+<p t="264748" d="3203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​That foam all over you? It&#39;s me.​ ​</s><s p="2">​</s></p>
+<p t="267951" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hello? Why&#39;s she joining in?​ ​</s><s p="2">​</s></p>
+<p t="270654" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​This is you, Choco-sensei?​ ​</s><s p="2">​</s></p>
+<p t="272289" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​It&#39;s all me.​ ​</s><s p="2">​</s></p>
+<p t="273357" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I will take you all in.​ ​</s><s p="2">​</s></p>
+<p t="276460" d="4271" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​You&#39;re so soft... it [REDACTED].​ ​</s><s p="2">​</s></p>
+<p t="278595" d="2136" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​The sounds are getting rhythmical.​ ​</s><s p="2">​</s></p>
+<p t="279129" d="1602" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​They sure are, huh?​ ​</s><s p="2">​</s></p>
+<p t="280731" d="3336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I wanna be enveloped in this scent forever.​ ​</s><s p="2">​</s></p>
+<p t="284268" d="6106" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​That scent? It&#39;s mine.​ ​</s><s p="2">​</s></p>
+<p t="288739" d="1635" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​That&#39;s some talkative foam.​ ​</s><s p="2">​</s></p>
+<p t="290374" d="1534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​But what happens to it in the end?​ ​</s><s p="2">​</s></p>
+<p t="291908" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Good question.​ ​</s><s p="2">​</s></p>
+<p t="292709" d="935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Will it be washed away?​ ​</s><s p="2">​</s></p>
+<p t="293110" d="4337" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Okay, all this washing has​ ​</s><s p="2">​
+​</s><s p="7">​ ​made me sparkling clean.​ ​</s><s p="2">​</s></p>
+<p t="297547" d="4004" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​No, this isn&#39;t enough.​ ​</s><s p="2">​</s></p>
+<p t="300017" d="1534" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Huh? It&#39;s not?​ ​</s><s p="2">​</s></p>
+<p t="301551" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Are you sure you haven&#39;t missed anything down here?​ ​</s><s p="2">​</s></p>
+<p t="304621" d="1869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Oh, I forgot to wash [REDACTED].​ ​</s><s p="2">​</s></p>
+<p t="308058" d="1435" wp="22" ws="3"><s p="2">​</s><s>​</s><s p="6">​ ​Okay, hold up...​ ​</s><s p="2">​</s></p>
+<p t="308992" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Wait, timeout!​ ​</s><s p="2">​</s></p>
+<p t="309493" d="1501" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​No... not so hard!​ ​</s><s p="2">​</s></p>
+<p t="310827" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Okay, that&#39;s that!​ ​</s><s p="2">​</s></p>
+<p t="310994" d="3837" wp="19" ws="1"><s p="2">​</s><s>​</s><s p="22">​ ​Fin​ ​</s><s p="2">​</s></p>
+<p t="314831" d="5272" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I washed up nice and good.​ ​</s><s p="2">​</s></p>
+<p t="316199" d="1435" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Nice and good?​ ​</s><s p="2">​</s></p>
+<p t="317634" d="4071" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You sure, uh, kept going faster​ ​</s><s p="2">​
+​</s><s p="6">​ ​as you went along.​ ​</s><s p="2">​</s></p>
+<p t="321705" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​After careful and thorough deliberation,​ ​</s><s p="2">​</s></p>
+<p t="323240" d="3036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​the International Society of Pleasure Review​ ​</s><s p="2">​
+​</s><s p="6">​ ​has awarded you...​ ​</s><s p="2">​</s></p>
+<p t="326877" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​a score of 9.2 out of 10!​ ​</s><s p="2">​</s></p>
+<p t="328645" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Ooh!​ ​</s><s p="2">​</s></p>
+<p t="331148" d="2903" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You lost points because​ ​</s><s p="2">​
+​</s><s p="6">​ ​they couldn&#39;t figure out where to end it.​ ​</s><s p="2">​</s></p>
+<p t="331348" d="3470" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Couldn&#39;t Figure Out </s><s p="23">Where to Stop​ ​</s><s p="2">​</s></p>
+<p t="334051" d="767" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Honestly,​ ​</s><s p="2">​</s></p>
+<p t="334818" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​even I had no idea where to stop.​ ​</s><s p="2">​</s></p>
+<p t="337888" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Last but not least, Aki-san! Are you ready?​ ​</s><s p="2">​</s></p>
+<p t="340557" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="25">​ ​Will there be a new high score?​ ​</s><s p="2">​
+​</s><s p="26">​ ​Aki Rosenthal</s><s p="19">&#39;s Sounds of Rapture​ ​</s><s p="2">​</s></p>
+<p t="344394" d="4204" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I&#39;m going to go with a combination of things.​ ​</s><s p="2">​</s></p>
+<p t="346997" d="1601" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Oh, a combination?​ ​</s><s p="2">​</s></p>
+<p t="348598" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​G-Give me a bit.​ ​</s><s p="2">​</s></p>
+<p t="349866" d="1135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Take your time.​ ​</s><s p="2">​</s></p>
+<p t="352369" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I hear that rustling!​ ​</s><s p="2">​</s></p>
+<p t="353370" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​As do I.​ ​</s><s p="2">​</s></p>
+<p t="354137" d="3204" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Are you sure you haven&#39;t started already?​ ​</s><s p="2">​</s></p>
+<p t="357341" d="800" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Well?​ ​</s><s p="2">​</s></p>
+<p t="358141" d="1936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​It just happened...​ ​</s><s p="2">​</s></p>
+<p t="360077" d="6273" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​There you go, blowing your load again.​ ​</s><s p="2">​</s></p>
+<p t="362913" d="3437" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I blew my load early.​ ​</s><s p="2">​</s></p>
+<p t="364981" d="1369" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Are we not doing phrasing anymore?!​ ​</s><s p="2">​</s></p>
+<p t="368452" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Now, for what I brought...​ ​</s><s p="2">​</s></p>
+<p t="370220" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Yeah?​ ​</s><s p="2">​</s></p>
+<p t="371988" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Handcuffs!​ ​</s><s p="2">​</s></p>
+<p t="372956" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Handcuffs?!​ ​</s><s p="2">​</s></p>
+<p t="373724" d="10310" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sounds of Rapture </s><s p="20">Using Handcuffs​ ​</s><s p="2">​</s></p>
+<p t="373857" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Handcuffs?!​ ​</s><s p="2">​</s></p>
+<p t="373857" d="2903" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Seriously, handcuffs? Cutting right to the chase?​ ​</s><s p="2">​</s></p>
+<p t="376760" d="3870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​And what will you use in combination with it?​ ​</s><s p="2">​</s></p>
+<p t="379496" d="4538" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Well... all in due time.​ ​</s><s p="2">​</s></p>
+<p t="382265" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Due time?!​ ​</s><s p="2">​</s></p>
+<p t="384034" d="4638" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​AkiRose&#39;s Cuffed Sounds of Rapture begin in...​ ​</s><s p="2">​</s></p>
+<p t="388672" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Three...​ ​</s><s p="2">​</s></p>
+<p t="389373" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​two...​ ​</s><s p="2">​</s></p>
+<p t="390040" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​one...​ ​</s><s p="2">​</s></p>
+<p t="393744" d="900" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​See?​ ​</s><s p="2">​</s></p>
+<p t="395045" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This is what you get...​ ​</s><s p="2">​</s></p>
+<p t="396413" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​for trying to run away all the time!​ ​</s><s p="2">​</s></p>
+<p t="400384" d="4938" wp="31" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I need to keep you under lock and key,​ ​</s><s p="2">​</s></p>
+<p t="400817" d="11745" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Note: She&#39;s putting on handcuffs.​ ​</s><s p="2">​</s></p>
+<p t="403620" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​or you just won&#39;t get it, will you?​ ​</s><s p="2">​</s></p>
+<p t="406022" d="1135" wp="32" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="407157" d="1168" wp="33" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="407357" d="968" wp="34" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="407624" d="701" wp="35" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="407858" d="467" wp="36" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="408125" d="200" wp="37" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*click*​ ​</s><s p="2">​</s></p>
+<p t="408325" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Oh no! We got cuffed!​ ​</s><s p="2">​</s></p>
+<p t="410260" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Not so tight! No! Ahh!​ ​</s><s p="2">​</s></p>
+<p t="412996" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Wait, she&#39;s talking to you two?!​ ​</s><s p="2">​</s></p>
+<p t="415098" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You&#39;re in this?!​ ​</s><s p="2">​</s></p>
+<p t="416166" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I mean, you can&#39;t...​ ​</s><s p="2">​</s></p>
+<p t="417901" d="5105" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​leave Melty Kiss alone for one second,​ ​</s><s p="2">​
+​</s><s p="5">​ ​or they&#39;ll start [REDACTED].​ ​</s><s p="2">​</s></p>
+<p t="421571" d="1435" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​She&#39;s the crazy girlfriend!​ ​</s><s p="2">​</s></p>
+<p t="423807" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You see?​ ​</s><s p="2">​</s></p>
+<p t="424808" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You need to pay more attention to me!​ ​</s><s p="2">​</s></p>
+<p t="427911" d="4705" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Or you aren&#39;t getting out of these.​ ​</s><s p="2">​</s></p>
+<p t="429479" d="3137" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Let&#39;s all [REDACTED] together, then.​ ​</s><s p="2">​</s></p>
+<p t="433717" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I didn&#39;t know you liked being cuffed so much.​ ​</s><s p="2">​</s></p>
+<p t="435786" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​But I know how it is. This always happens.​ ​</s><s p="2">​</s></p>
+<p t="438922" d="3470" wp="38" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You act like you have eyes only for me,​ ​</s><s p="2">​</s></p>
+<p t="440624" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​and then start talking about somebody else.​ ​</s><s p="2">​</s></p>
+<p t="442392" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​So I&#39;m going to seal off your mouth with this.​ ​</s><s p="2">​</s></p>
+<p t="444928" d="4004" wp="39" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​A new challenger!​ ​</s><s p="2">​</s></p>
+<p t="444928" d="4004" wp="40" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="445529" d="3403" wp="41" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="445762" d="1402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Time to shut up.​ ​</s><s p="2">​</s></p>
+<p t="446363" d="2569" wp="42" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="446997" d="1935" wp="43" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="448932" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​No!​ ​</s><s p="2">​</s></p>
+<p t="449766" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​With this...​ ​</s><s p="2">​</s></p>
+<p t="451034" d="6206" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You can&#39;t take anyone else&#39;s name​ ​</s><s p="2">​
+​</s><s p="5">​ ​or think about anyone but me.​ ​</s><s p="2">​</s></p>
+<p t="456473" d="1668" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Uh... Wait, Aki-sama!​ ​</s><s p="2">​</s></p>
+<p t="457240" d="1936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​But then I can&#39;t call out your name either...​ ​</s><s p="2">​</s></p>
+<p t="459176" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Wait, wait, Aki-sama!​ ​</s><s p="2">​</s></p>
+<p t="461411" d="4138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I want to [REDACTED] with you, though!​ ​</s><s p="2">​</s></p>
+<p t="465549" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You&#39;re so needy.​ ​</s><s p="2">​</s></p>
+<p t="467350" d="3571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Fine, I&#39;ll take off the tape... using this.​ ​</s><s p="2">​</s></p>
+<p t="470921" d="3069" wp="44" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*creak*​ ​</s><s p="2">​</s></p>
+<p t="471188" d="967" wp="45" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Nn...​ ​</s><s p="2">​</s></p>
+<p t="472088" d="1902" wp="46" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*creak*​ ​</s><s p="2">​</s></p>
+<p t="472155" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Hmm?!​ ​</s><s p="2">​</s></p>
+<p t="473990" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Is that a box cutter?​ ​</s><s p="2">​</s></p>
+<p t="476092" d="3137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*creeeaaak*​ ​</s><s p="2">​</s></p>
+<p t="477794" d="1435" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​This is dangerous territory!​ ​</s><s p="2">​</s></p>
+<p t="479229" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aki-sama... wait...​ ​</s><s p="2">​</s></p>
+<p t="480330" d="2503" wp="47" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="481431" d="1402" wp="48" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​*fwip*​ ​</s><s p="2">​</s></p>
+<p t="482833" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​[REDACTED]!​ ​</s><s p="2">​</s></p>
+<p t="484935" d="2402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​[REDACTED]...​ ​</s><s p="2">​</s></p>
+<p t="486002" d="2736" wp="49" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Don&#39;t resist!​ ​</s><s p="2">​</s></p>
+<p t="487437" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You&#39;ll get hurt!​ ​</s><s p="2">​</s></p>
+<p t="488738" d="3871" wp="19" ws="1"><s p="2">​</s><s>​</s><s p="22">​ ​Fin​ ​</s><s p="2">​</s></p>
+<p t="492609" d="4605" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You just brought out all these things​ ​</s><s p="2">​
+​</s><s p="6">​ ​like you always carry them around.​ ​</s><s p="2">​</s></p>
+<p t="497214" d="2969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Yeah, that&#39;s why she had them ready.​ ​</s><s p="2">​</s></p>
+<p t="500183" d="3137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I do carry them around, yes.​ ​</s><s p="2">​</s></p>
+<p t="500951" d="2369" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You do? So I was right!​ ​</s><s p="2">​</s></p>
+<p t="502052" d="1268" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Standard loadout.​ ​</s><s p="2">​</s></p>
+<p t="503320" d="2702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I bet she does this all the time.​ ​</s><s p="2">​</s></p>
+<p t="504120" d="1902" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Definitely. She was so used to it!​ ​</s><s p="2">​</s></p>
+<p t="506022" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​After careful and thorough deliberation,​ ​</s><s p="2">​</s></p>
+<p t="506656" d="1135" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Give me a good score.​ ​</s><s p="2">​</s></p>
+<p t="508558" d="2403" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​the International Society of Pleasure Review​ ​</s><s p="2">​
+​</s><s p="6">​ ​has awarded you...​ ​</s><s p="2">​</s></p>
+<p t="510961" d="1535" wp="11" ws="3"><s p="2">​</s><s>​</s><s p="4">​ ​What&#39;s it going to be?​ ​</s><s p="2">​</s></p>
+<p t="513129" d="1736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​10 out of 10!​ ​</s><s p="2">​</s></p>
+<p t="514865" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Congratulations!​ ​</s><s p="2">​</s></p>
+<p t="515899" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​For real?​ ​</s><s p="2">​</s></p>
+<p t="517801" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Actually?​ ​</s><s p="2">​</s></p>
+<p t="519336" d="5138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I knew it. People want to be under lock and key.​ ​</s><s p="2">​</s></p>
+<p t="521771" d="1068" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I see.​ ​</s><s p="2">​</s></p>
+<p t="522839" d="1635" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​So that&#39;s the kink.​ ​</s><s p="2">​</s></p>
+<p t="524474" d="1969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​The fact that you used </s><s p="27">​three </s><s p="6">items​ ​</s><s p="2">​</s></p>
+<p t="524674" d="9476" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Used multiple sounds and noises​ ​</s><s p="2">​
+​</s><s p="3">​ ​to </s><s p="22">create a crescendo of pleasure.​ ​</s><s p="2">​</s></p>
+<p t="526443" d="4404" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​and had the other two​ ​</s><s p="2">​
+​</s><s p="6">​ ​playing their parts to perfection...​ ​</s><s p="2">​</s></p>
+<p t="530847" d="3303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​I think that impressed the judges a lot.​ ​</s><s p="2">​</s></p>
+<p t="534351" d="2169" wp="50" ws="1"><s p="2">​</s><s>​</s><s p="28">​ ​Results​ ​</s><s p="2">​</s></p>
+<p t="536520" d="3803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​So there we have it! Our very first Rapture Queen...​ ​</s><s p="2">​</s></p>
+<p t="540323" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​is AkiRose-san!​ ​</s><s p="2">​</s></p>
+<p t="540524" d="7374" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="29">​ ​Rapture </s><s p="30">Queen​ ​</s><s p="2">​
+​</s><s p="31">​ ​Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="541558" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Congratulations!​ ​</s><s p="2">​</s></p>
+<p t="543360" d="1401" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Congrats!​ ​</s><s p="2">​</s></p>
+<p t="543360" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Congratulations!​ ​</s><s p="2">​</s></p>
+<p t="545929" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Thank you very much.​ ​</s><s p="2">​</s></p>
+<p t="547097" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This...​ ​</s><s p="2">​</s></p>
+<p t="547898" d="5472" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This proves that the world loves **nd**e.​ ​</s><s p="2">​</s></p>
+<p t="551768" d="1602" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​It&#39;s clear now.​ ​</s><s p="2">​</s></p>
+<p t="553370" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​If you enjoyed this video,​ ​</s><s p="2">​</s></p>
+<p t="553570" d="6773" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​If you enjoyed this video, please subscribe to hololive&#39;s​ ​</s><s p="2">​
+​</s><s p="3">​ ​official YouTube channel and smash that like button.​ ​</s><s p="2">​</s></p>
+<p t="555639" d="4170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​please subscribe to hololive&#39;s official YouTube channel and smash that like button.​ ​</s><s p="2">​</s></p>
+<p t="559809" d="3137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​If there&#39;s ever a second edition of​ ​</s><s p="2">​
+​</s><s p="6">​ ​the Sounds of Rapture Championship,​ ​</s><s p="2">​</s></p>
+<p t="562946" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​we hope to see you there again!​ ​</s><s p="2">​</s></p>
+<p t="564948" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bye-bye!​ ​</s><s p="2">​</s></p>
+<p t="566683" d="3370" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="32">​ ​By</s><s p="33">​e-b</s><s p="34">ye!​ ​</s><s p="2">​</s></p>
+<p t="570053" d="9409" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Starring:​ ​</s><s p="2">​
+​</s><s p="3">​ ​Aki Rosenthal​ ​</s><s p="2">​
+​</s><s p="3">​ ​Yuzuki Choco​ ​</s><s p="2">​
+​</s><s p="3">​ ​Yozora Mel​ ​</s><s p="2">​</s></p>
+<p t="570053" d="3237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​This show was brought to you by Aki Rosenthal...​ ​</s><s p="2">​</s></p>
+<p t="573290" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​...Yuzuki Choco...​ ​</s><s p="2">​</s></p>
+<p t="574858" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​...and Yozora Mel!​ ​</s><s p="2">​</s></p>
+<p t="4989" d="100" wp="51" ws="3" p="35">​</p>
+</body>
+</timedtext>
