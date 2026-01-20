@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" b="1" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="2" b="1" fc="#000000" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="3" b="1" fc="#FFB266" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="4" b="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="5" i="1" b="1" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="6" b="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#C8B0FD" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#F795D5" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="9" b="1" fc="#FE0100" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="10" b="1" fc="#F932D3" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="11" b="1" fc="#435FF9" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="12" b="1" fc="#FE0001" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FEF263" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="15" b="1" fc="#CC2F4B" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="16" b="1" fc="#F68E8E" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#CA80F5" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#FAD850" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="19" b="1" fc="#FF0340" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="20" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="21" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="4" ap="1" ah="50" av="0"/>
+<wp id="3" ap="3" ah="14" av="37"/>
+<wp id="5" ap="4" ah="16" av="84"/>
+<wp id="13" ap="4" ah="18" av="34"/>
+<wp id="14" ap="4" ah="18" av="55"/>
+<wp id="15" ap="4" ah="18" av="77"/>
+<wp id="2" ap="4" ah="38" av="75"/>
+<wp id="10" ap="4" ah="44" av="34"/>
+<wp id="11" ap="4" ah="44" av="55"/>
+<wp id="12" ap="4" ah="44" av="77"/>
+<wp id="16" ap="4" ah="48" av="35"/>
+<wp id="9" ap="4" ah="50" av="57"/>
+<wp id="8" ap="4" ah="79" av="89"/>
+<wp id="7" ap="4" ah="84" av="75"/>
+<wp id="6" ap="4" ah="85" av="59"/>
+<wp id="1" ap="7" ah="50" av="100"/>
+<wp id="17" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="80087" d="4104" wp="1" ws="1" p="1">Good morning, everyone!​</p>
+<p t="84191" d="1068" wp="1" ws="1" p="1">Today​</p>
+<p t="85259" d="4071" wp="1" ws="1" p="1">Morning Coco Live started airing​</p>
+<p t="89330" d="3236" wp="1" ws="1" p="1">exactly at 6 AM, didn&#39;t it?​</p>
+<p t="92566" d="3237" wp="1" ws="1" p="1">If you&#39;re planning on sleeping till noon​</p>
+<p t="95803" d="3237" wp="1" ws="1" p="1">just because you have time off this Golden Week...​</p>
+<p t="99040" d="500" wp="1" ws="1"><s p="1">Wake up! ​</s><s>​</s><s p="2">Wake up! Wake up! Wake up!​</s></p>
+<p t="99040" d="500" wp="1" ws="1"><s p="3">Wake up! ​</s><s>​</s><s p="4">Wake up! Wake up! Wake up!​</s></p>
+<p t="99540" d="434" wp="1" ws="1"><s p="1">Wake up! Wake up! ​</s><s>​</s><s p="2">Wake up! Wake up!​</s></p>
+<p t="99540" d="434" wp="1" ws="1"><s p="3">Wake up! Wake up! ​</s><s>​</s><s p="4">Wake up! Wake up!​</s></p>
+<p t="99974" d="467" wp="1" ws="1"><s p="1">Wake up! Wake up! Wake up! ​</s><s>​</s><s p="2">Wake up!​</s></p>
+<p t="99974" d="467" wp="1" ws="1"><s p="3">Wake up! Wake up! Wake up! ​</s><s>​</s><s p="4">Wake up!​</s></p>
+<p t="100441" d="534" wp="1" ws="1" p="1">Wake up! Wake up! Wake up! Wake up!​</p>
+<p t="100975" d="2569" wp="1" ws="1" p="1">Wake up already!​</p>
+<p t="103544" d="1101" wp="1" ws="1" p="1">Oh well.​</p>
+<p t="104645" d="1301" wp="1" ws="1" p="1">Actually,​</p>
+<p t="105946" d="4505" wp="1" ws="1" p="1">I asked you guys on a Twitter poll​</p>
+<p t="110451" d="2636" wp="1" ws="1" p="1">when I should start the show during Golden Week.​</p>
+<p t="113087" d="4338" wp="1" ws="1" p="1">And people who wanted it on the usual time, 6 AM,​</p>
+<p t="117425" d="1368" wp="1" ws="1" p="1">were many,​</p>
+<p t="118793" d="4337" wp="1" ws="1" p="1">therefore the stream starts at 6 AM.​</p>
+<p t="123130" d="2269" wp="1" ws="1" p="1">Of course, the earlier I do it,​</p>
+<p t="125399" d="3671" wp="1" ws="1" p="1">people who come later to watch the archive​</p>
+<p t="129070" d="1901" wp="1" ws="1" p="1">can also view it.​</p>
+<p t="130971" d="1869" wp="1" ws="1" p="1">If I do it too late,​</p>
+<p t="132840" d="2002" wp="1" ws="1" p="1">the people waking up early can&#39;t watch​</p>
+<p t="134842" d="1902" wp="1" ws="1" p="1">and have to go to work or school​</p>
+<p t="136744" d="3136" wp="1" ws="1" p="1">without their Morning Coco fix.​</p>
+<p t="139880" d="3204" wp="1" ws="1" p="1">That&#39;d be absurdly dangerous.​</p>
+<p t="143084" d="1301" wp="1" ws="1" p="1">With that said,​</p>
+<p t="144385" d="3637" wp="1" ws="1" p="1">Morning Coco Live is starting today as well.​</p>
+<p t="148022" d="700" wp="1" ws="1" p="1">Today​</p>
+<p t="148722" d="3736" wp="1" ws="1" p="1">we have a lot of news to go over.​</p>
+<p t="153260" d="734" wp="1" ws="1" p="1">Today—​</p>
+<p t="153994" d="434" wp="1" ws="1" p="1">Ah​</p>
+<p t="154428" d="3704" wp="1" ws="1" p="1">Despite it being Golden Week, the early birds​</p>
+<p t="158132" d="4137" wp="1" ws="1" p="1">rattling above my head are​</p>
+<p t="162269" d="2970" wp="1" ws="1" p="1">today&#39;s viewer-commentators!​</p>
+<p t="165239" d="2201" wp="1" ws="1" p="1">Good morning!​</p>
+<p t="167875" d="1802" wp="1" ws="1" p="1">&quot;good morning&quot;​</p>
+<p t="169677" d="2702" wp="1" ws="1" p="1">I guess many of you are up for work.​</p>
+<p t="172379" d="1569" wp="1" ws="1"><s p="1">But, well, it ​</s><s>​</s><s p="5">is ​</s><s p="1">a holiday.​</s></p>
+<p t="173948" d="1935" wp="1" ws="1" p="1">It&#39;s a holiday, and then again​</p>
+<p t="175883" d="2903" wp="1" ws="1" p="1">there&#39;s the whole global predicament.​</p>
+<p t="178786" d="2636" wp="1" ws="1" p="1">This time is probably—​</p>
+<p t="181422" d="2202" wp="1" ws="1" p="1">Out of all recent years, this period in this year​</p>
+<p t="183624" d="2636" wp="1" ws="1" p="1">has the fewest Japanese working.​</p>
+<p t="186260" d="1735" wp="1" ws="1" p="1">Most likely.​</p>
+<p t="187995" d="2102" wp="1" ws="1" p="1">That&#39;s—​</p>
+<p t="190097" d="2136" wp="1" ws="1" p="1">That seems to not be the case.​</p>
+<p t="192233" d="1501" wp="1" ws="1" p="1">&quot;rattle rattle&quot;​</p>
+<p t="193734" d="2136" wp="1" ws="1" p="1">&quot;i&#39;m going to work&quot;​</p>
+<p t="195870" d="2669" wp="1" ws="1" p="1">&quot;i have work&quot;​</p>
+<p t="198539" d="3971" wp="1" ws="1" p="1">Morning Coco Live will support all of you who&#39;ve got work.​</p>
+<p t="202510" d="2834" wp="1" ws="1" p="1">Anyway, onto today&#39;s news.​</p>
+<p t="206347" d="2435" wp="1" ws="1" p="1">First, allow me to celebrate​</p>
+<p t="208782" d="2870" wp="1" ws="1" p="1">for a moment.​</p>
+<p t="211652" d="6440" wp="1" ws="1" p="1">I got to 330,000 subscribers today!​</p>
+<p t="218092" d="2534" wp="1" ws="1" p="1">Thank you very much!​</p>
+<p t="221729" d="1868" wp="1" ws="1" p="1">Thank you!​</p>
+<p t="223597" d="1535" wp="1" ws="1" p="1">Kiryu Coco can​</p>
+<p t="225132" d="634" wp="1" ws="1" p="1">only​</p>
+<p t="225766" d="1702" wp="1" ws="1" p="1">continue​</p>
+<p t="227468" d="1233" wp="1" ws="1" p="1">Morning Coco Live​</p>
+<p t="229069" d="3270" wp="1" ws="1" p="1">because of your support.​</p>
+<p t="232339" d="2203" wp="1" ws="1" p="1">We&#39;ve now found out that​</p>
+<p t="234542" d="3103" wp="1" ws="1" p="1">there are 330,000 viewers​</p>
+<p t="237645" d="1535" wp="1" ws="1" p="1">giving her their love.​</p>
+<p t="239180" d="4037" wp="1" ws="1" p="1">Thank you so very much!​</p>
+<p t="243217" d="2469" wp="1" ws="1" p="1">I want to thank you,​</p>
+<p t="245686" d="4104" wp="1" ws="1" p="1">my senpai and hololive!​</p>
+<p t="249790" d="1201" wp="1" ws="1" p="1">Uh... Uh...​</p>
+<p t="250991" d="801" wp="1" ws="1" p="1">But​</p>
+<p t="251792" d="3137" wp="1" ws="1" p="1">the following news is actually​</p>
+<p t="254929" d="2602" wp="1" ws="1" p="1">tragic.​</p>
+<p t="257531" d="1133" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="258432" d="62362" wp="2" ws="1" p="6">Demand for YouTube increases, as do the bugs​</p>
+<p t="259700" d="1502" wp="1" ws="1" p="1">YouTube,​</p>
+<p t="261202" d="1034" wp="1" ws="1" p="1">no doubt,​</p>
+<p t="262236" d="4905" wp="1" ws="1" p="1">due to this break and the remote work as well,​</p>
+<p t="267141" d="2936" wp="1" ws="1" p="1">has had a great increase in demand,​</p>
+<p t="270077" d="3904" wp="1" ws="1" p="1">and thanks to that, the number of bugs has also increased.​</p>
+<p t="273981" d="2569" wp="1" ws="1" p="1">Presently, YouTube—​</p>
+<p t="276550" d="2469" wp="1" ws="1" p="1">due to COVID-19,​</p>
+<p t="279019" d="2836" wp="1" ws="1" p="1">that one virus disturbing​</p>
+<p t="281855" d="1836" wp="1" ws="1" p="1">the state of society,​</p>
+<p t="283691" d="3570" wp="1" ws="1" p="1">YouTube employees aren&#39;t attending work,​</p>
+<p t="287261" d="4404" wp="1" ws="1" p="1">so YouTube is in the hands of an AI. You guys, of course,​</p>
+<p t="291665" d="1502" wp="1" ws="1" p="1">have heard this​</p>
+<p t="293167" d="3503" wp="1" ws="1" p="1">already, as I&#39;ve reported on it before.​</p>
+<p t="296670" d="1602" wp="1" ws="1" p="1">And on top of it​</p>
+<p t="298272" d="3837" wp="1" ws="1" p="1">we&#39;re also entering Golden Week now,​</p>
+<p t="302109" d="1768" wp="1" ws="1" p="1">so YouTube&#39;s demand​</p>
+<p t="303877" d="2737" wp="1" ws="1" p="1">is increasing even more,​</p>
+<p t="306614" d="4269" wp="1" ws="1" p="1">as are the bugs on the platform.​</p>
+<p t="311352" d="1334" wp="1" ws="1" p="1">You guys certainly​</p>
+<p t="312686" d="2870" wp="1" ws="1" p="1">are aware of this,​</p>
+<p t="315556" d="2703" wp="1" ws="1" p="1">but were I to say what transpired:​</p>
+<p t="318259" d="2701" wp="1" ws="1" p="1">The other day,​</p>
+<p t="320794" d="24825" wp="2" ws="1" p="6">Ms. Usada Pekora&#39;s MGS4 Stream​</p>
+<p t="321829" d="1701" wp="1" ws="1" p="1">this stream occurred.​</p>
+<p t="323530" d="3771" wp="1" ws="1" p="1">Pekora-paisen&#39;s Metal Gear Solid​</p>
+<p t="327301" d="2169" wp="1" ws="1" p="1">stream, the one you see here.​</p>
+<p t="329470" d="2536" wp="1" ws="1" p="1">This stream here...​</p>
+<p t="332006" d="1701" wp="1" ws="1"><s p="1">was like ​</s><s>​</s><s p="5">that​</s></p>
+<p t="333707" d="3137" wp="1" ws="1" p="1">There are many of you who must know, I believe, but anyway.​</p>
+<p t="336844" d="1701" wp="1" ws="1" p="1">Unbelievable!​</p>
+<p t="338545" d="2303" wp="1" ws="1" p="1">This long stream​</p>
+<p t="340848" d="2369" wp="1" ws="1" p="1">which exhibited the game&#39;s​</p>
+<p t="343217" d="2234" wp="1" ws="1" p="1">fantastic story...​</p>
+<p t="345619" d="21422" wp="2" ws="1" p="6">Taken down with 30 seconds left in the ending​</p>
+<p t="346053" d="1201" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="347254" d="4405" wp="1" ws="1" p="1">With around 30 seconds remaining in the ending!​</p>
+<p t="351659" d="2969" wp="1" ws="1" p="1">A mere 30 seconds to go!​</p>
+<p t="354628" d="2002" wp="1" ws="1" p="1">And it was taken down​</p>
+<p t="356630" d="2036" wp="1" ws="1" p="1">This is...!​</p>
+<p t="358666" d="3103" wp="1" ws="1" p="1">This is undoubtedly...!​</p>
+<p t="361769" d="2235" wp="1" ws="1" p="1">Unforgivable!​</p>
+<p t="364004" d="2136" wp="1" ws="1" p="1">It&#39;s unacceptable!​</p>
+<p t="366140" d="1101" wp="1" ws="1" p="1">This!​</p>
+<p t="367041" d="66800" wp="2" ws="1" p="6">More than 50,000 viewers lost in life​</p>
+<p t="367241" d="2569" wp="1" ws="1" p="1">The more than 50000 viewers​</p>
+<p t="369810" d="4137" wp="1" ws="1" p="1">who had a good time with the gameplay suddenly, due to the takedown,​</p>
+<p t="373947" d="3738" wp="1" ws="1" p="1">lost themselves in life.​</p>
+<p t="377685" d="2669" wp="1" ws="1" p="1">This, of course, was a mistaken takedown.​</p>
+<p t="380354" d="2803" wp="1" ws="1" p="1">Also, of course, the archive​</p>
+<p t="383157" d="2602" wp="1" ws="1" p="1">that disappeared due to the takedown​</p>
+<p t="385759" d="2369" wp="1" ws="1" p="1">is back up now.​</p>
+<p t="388128" d="3803" wp="1" ws="1" p="1">Therefore, a mistaken takedown by YouTube&#39;s AI.​</p>
+<p t="392299" d="1702" wp="1" ws="1" p="1">But let&#39;s say that​</p>
+<p t="394001" d="4805" wp="1" ws="1" p="1">some sensitive content did appear on the screen. If that were the case,​</p>
+<p t="398806" d="2202" wp="1" ws="1" p="1">the archive wouldn&#39;t be back up.​</p>
+<p t="401008" d="3070" wp="1" ws="1" p="1">So there&#39;s no doubt that this was a wrongful takedown.​</p>
+<p t="404078" d="1368" wp="1" ws="1" p="1">Due to this​</p>
+<p t="405446" d="3837" wp="1" ws="1" p="1">wrongful takedown​</p>
+<p t="409283" d="2335" wp="1" ws="1" p="1">the remaining 30 seconds​</p>
+<p t="411618" d="2470" wp="1" ws="1" p="1">of the very emotional ending​</p>
+<p t="414088" d="2469" wp="1" ws="1" p="1">couldn&#39;t be watched with all the viewers.​</p>
+<p t="416557" d="2102" wp="1" ws="1" p="1">This is just too much.​</p>
+<p t="418659" d="2602" wp="1" ws="1" p="1">Just too cruel.​</p>
+<p t="421261" d="768" wp="1" ws="1" p="1">Isn&#39;t it?!​</p>
+<p t="422029" d="3337" wp="1" ws="1" p="1">Since it was taken down, the archive​</p>
+<p t="425366" d="2202" wp="1" ws="1" p="1">doesn&#39;t have the part​</p>
+<p t="427568" d="4404" wp="1" ws="1" p="1">after the takedown, since it was never streamed.​</p>
+<p t="431972" d="2234" wp="1" ws="1" p="1">Inevitably, she...​</p>
+<p t="433841" d="44911" wp="2" ws="1" p="6">&quot;I will never forgive you. I&#39;ll forever resent you.&quot;
+Insults the AI for one and a half minutes.​</p>
+<p t="434541" d="2136" wp="1" ws="1" p="1">Even Ms. P.Kora had to say it:​</p>
+<p t="436677" d="1234" wp="1" ws="1" p="1">&quot;I&#39;ll never forgive you.​</p>
+<p t="437911" d="1135" wp="1" ws="1" p="1">I&#39;ll forever resent you.&quot;​</p>
+<p t="439046" d="2336" wp="1" ws="1" p="1">She insulted the AI​</p>
+<p t="441382" d="2268" wp="1" ws="1" p="1">for an entire​</p>
+<p t="443650" d="2536" wp="1" ws="1" p="1">minute and a half.​</p>
+<p t="446186" d="2870" wp="1" ws="1" p="1">That&#39;s, no doubt...​</p>
+<p t="449056" d="2269" wp="1" ws="1" p="1">Let&#39;s see what everyone has to say:​</p>
+<p t="451325" d="1468" wp="1" ws="1" p="1">&quot;sh*t&quot;​</p>
+<p t="452793" d="1501" wp="1" ws="1" p="1">&quot;she&#39;s right to get mad&quot;​</p>
+<p t="454294" d="1368" wp="1" ws="1" p="1">&quot;lol&quot;​</p>
+<p t="455662" d="1902" wp="1" ws="1" p="1">&quot;can&#39;t blame her&quot;​</p>
+<p t="457564" d="1735" wp="1" ws="1" p="1">&quot;can&#39;t blame her&quot;​</p>
+<p t="459299" d="1168" wp="1" ws="1" p="1">&quot;as expekoted&quot;​</p>
+<p t="460467" d="2236" wp="1" ws="1" p="1">Nobody can blame her on this one, can we now?​</p>
+<p t="462703" d="2903" wp="1" ws="1" p="1">Even P.Kora-paisen​</p>
+<p t="465606" d="2502" wp="1" ws="1" p="1">would scream at something like this.​</p>
+<p t="468108" d="3137" wp="1" ws="1" p="1">This is just... Well, you guys also​</p>
+<p t="471245" d="1968" wp="1" ws="1" p="1">got mad with her about this,​</p>
+<p t="473213" d="2636" wp="1" ws="1" p="1">so I&#39;m sure you knew it.​</p>
+<p t="475849" d="3135" wp="1" ws="1" p="1">This is what Expert C had to say about it:​</p>
+<p t="478752" d="17484" wp="2" ws="1" p="6">There&#39;s a world of things I want to say to this AI.​</p>
+<p t="479720" d="2903" wp="1" ws="1" p="1">There&#39;s a world of things I want to say to this AI.​</p>
+<p t="482623" d="1134" wp="1" ws="1" p="1">Oh well...​</p>
+<p t="483757" d="1568" wp="1" ws="1" p="1">The AI...​</p>
+<p t="485325" d="2870" wp="1" ws="1" p="1">Without a doubt, it... Actually, still about the AI.​</p>
+<p t="488195" d="1635" wp="1" ws="1" p="1">P.Kora-paisen&#39;s stream​</p>
+<p t="489830" d="2302" wp="1" ws="1" p="1">being taken down​</p>
+<p t="492132" d="2936" wp="1" ws="1" p="1">makes me very angry and all,​</p>
+<p t="495068" d="1168" wp="1" ws="1" p="1">but,​</p>
+<p t="496236" d="50884" wp="2" ws="1" p="6">Buffering and bugged streams,
+impossible to stream properly in these conditions​</p>
+<p t="496904" d="1167" wp="1" ws="1" p="1">for a good while,​</p>
+<p t="498071" d="3404" wp="1" ws="1" p="1">I considered it to have been fixed.​</p>
+<p t="501475" d="3036" wp="1" ws="1" p="1">Buffering during streams​</p>
+<p t="504511" d="3203" wp="1" ws="1" p="1">and streams bugging. By stream bugs I mean​</p>
+<p t="507714" d="2737" wp="1" ws="1" p="1">when streams have started or have been scheduled​</p>
+<p t="510451" d="1901" wp="1" ws="1" p="1">and subs don&#39;t get a notification​</p>
+<p t="512352" d="2369" wp="1" ws="1" p="1">and the &quot;LIVE NOW&quot; sign​</p>
+<p t="514721" d="3304" wp="1" ws="1" p="1">doesn&#39;t appear on the subscriptions page.​</p>
+<p t="518025" d="767" wp="1" ws="1" p="1">In short,​</p>
+<p t="518792" d="3537" wp="1" ws="1" p="1">a bug which doesn&#39;t let you​</p>
+<p t="522329" d="2402" wp="1" ws="1" p="1">find streams which are happening right now.​</p>
+<p t="524731" d="3104" wp="1" ws="1" p="1">And buffering is the literal meaning,​</p>
+<p t="527835" d="2068" wp="1" ws="1" p="1">the screen pauses and you can&#39;t watch.​</p>
+<p t="529903" d="2369" wp="1" ws="1" p="1">These conditions have​</p>
+<p t="532272" d="2803" wp="1" ws="1" p="1">spread through the channels​</p>
+<p t="535075" d="1935" wp="1" ws="1" p="1">of many hololive members.​</p>
+<p t="537010" d="2069" wp="1" ws="1" p="1">Thanks to that​</p>
+<p t="539079" d="2668" wp="1" ws="1" p="1">we can&#39;t properly stream.​</p>
+<p t="542382" d="2203" wp="1" ws="1" p="1">Were I to say how terrible this is,​</p>
+<p t="544585" d="2535" wp="1" ws="1" p="1">some viewers have said:​</p>
+<p t="547120" d="51986" wp="2" ws="1" p="6">&quot;Shouldn&#39;t you consider using another platform?&quot;​</p>
+<p t="547888" d="3170" wp="1" ws="1" p="1">&quot;Isn&#39;t it better to move​</p>
+<p t="551058" d="4070" wp="1" ws="1" p="1">to a different platform?&quot;. That&#39;s how​</p>
+<p t="555128" d="2136" wp="1" ws="1" p="1">bad things are.​</p>
+<p t="557264" d="2569" wp="1" ws="1" p="1">This is so sad.​</p>
+<p t="559833" d="2202" wp="1" ws="1" p="1">Let&#39;s see what you guys have to say:​</p>
+<p t="562035" d="1268" wp="1" ws="1" p="1">Uuuh...​</p>
+<p t="563303" d="1135" wp="1" ws="1" p="1">&quot;reasonable&quot;​</p>
+<p t="564438" d="1435" wp="1" ws="1" p="1">&quot;that&#39;s it&quot;​</p>
+<p t="565873" d="1768" wp="1" ws="1" p="1">&quot;it&#39;s a life or death issue&quot;​</p>
+<p t="567641" d="801" wp="1" ws="1" p="1">&quot;yeah yeah&quot;​</p>
+<p t="568442" d="901" wp="1" ws="1" p="1">Gotta admit,​</p>
+<p t="569343" d="4337" wp="1" ws="1" p="1">sometimes it&#39;s too painful to even look at.​</p>
+<p t="573680" d="3504" wp="1" ws="1" p="1">On a 30-minute long stream,​</p>
+<p t="577184" d="3036" wp="1" ws="1" p="1">what I&#39;m saying could only be heard​</p>
+<p t="580220" d="1835" wp="1" ws="1" p="1">during the first ten seconds.​</p>
+<p t="582055" d="3170" wp="1" ws="1" p="1">And stuff like that keeps happening.​</p>
+<p t="585225" d="2069" wp="1" ws="1" p="1">And it gets worse.​</p>
+<p t="587294" d="2803" wp="1" ws="1" p="1">Stream archives on YouTube​</p>
+<p t="590097" d="2569" wp="1" ws="1" p="1">automatically get​</p>
+<p t="592666" d="2169" wp="1" ws="1" p="1">ads put on them.​</p>
+<p t="594835" d="2836" wp="1" ws="1" p="1">But the ad distribution is...​</p>
+<p t="597671" d="1768" wp="1" ws="1" p="1">AI-chan, do you mind?​</p>
+<p t="599106" d="22888" wp="2" ws="1" p="6">Ad Hell: Automatic ad distribution puts
+one ad every three minutes​</p>
+<p t="599439" d="2301" wp="1" ws="1" p="1">Don&#39;t you find this to be a little too awful?​</p>
+<p t="602075" d="568" wp="1" ws="1" p="1">This is the​</p>
+<p t="602643" d="1768" wp="1" ws="1" p="1">automatic ad distribution system.​</p>
+<p t="604411" d="4004" wp="1" ws="1" p="1">An ad every three minutes. This is ad hell.​</p>
+<p t="608415" d="1168" wp="1" ws="1" p="1">This is​</p>
+<p t="609583" d="2836" wp="1" ws="1" p="1">my roughly 6-hour long Resident Evil​</p>
+<p t="612419" d="1969" wp="1" ws="1" p="1">archive, but as you can see,​</p>
+<p t="614388" d="1501" wp="1" ws="1" p="1">this is how it turned out.​</p>
+<p t="615889" d="2136" wp="1" ws="1" p="1">Do you see what I mean?​</p>
+<p t="618025" d="4204" wp="1" ws="1" p="1">Maybe this screen makes it difficult to properly see it.​</p>
+<p t="622229" d="1335" wp="1" ws="1" p="1">This part here.​</p>
+<p t="623564" d="1001" wp="1" ws="1" p="1">These are​</p>
+<p t="624565" d="1334" wp="1" ws="1" p="1">the timestamps,​</p>
+<p t="625899" d="3704" wp="1" ws="1" p="1">these vertical lines are when an ad rolls.​</p>
+<p t="629603" d="1034" wp="1" ws="1" p="1">Who does this?​</p>
+<p t="630637" d="2603" wp="1" ws="1" p="1">Who adds this many?​</p>
+<p t="633240" d="2502" wp="1" ws="1" p="1">An ad every three minutes​</p>
+<p t="635742" d="2870" wp="1" ws="1" p="1">makes the archive so hard to watch that nobody would.​</p>
+<p t="638612" d="968" wp="1" ws="1" p="1">Even if this is​</p>
+<p t="639580" d="2268" wp="1" ws="1" p="1">automatic,​</p>
+<p t="641848" d="2603" wp="1" ws="1" p="1">it&#39;s overdoing it.​</p>
+<p t="644451" d="2035" wp="1" ws="1" p="1">But well, from my end,​</p>
+<p t="646486" d="2870" wp="1" ws="1" p="1">I can grab the vertical lines​</p>
+<p t="649356" d="1802" wp="1" ws="1" p="1">and move them,​</p>
+<p t="651158" d="2869" wp="1" ws="1" p="1">so if I find out that​</p>
+<p t="654027" d="1669" wp="1" ws="1" p="1">the ads are distributed like this,​</p>
+<p t="655696" d="3136" wp="1" ws="1" p="1">I spread them around.​</p>
+<p t="658832" d="1602" wp="1" ws="1" p="1">But either way, with six hours available,​</p>
+<p t="660434" d="2736" wp="1" ws="1" p="1">why does it throw everything only at the start like this?​</p>
+<p t="663170" d="1668" wp="1" ws="1" p="1">Nobody would watch it!​</p>
+<p t="664838" d="3904" wp="1" ws="1" p="1">Even someone who&#39;d go on for six hours would lose it at this!​</p>
+<p t="668742" d="1468" wp="1" ws="1" p="1">If it were me,​</p>
+<p t="670210" d="2903" wp="1" ws="1" p="1">I&#39;d end up with my fist through the screen.​</p>
+<p t="673113" d="4037" wp="1" ws="1" p="1">With that said, since things like this happen​</p>
+<p t="677150" d="3671" wp="1" ws="1" p="1">YouTube really is messed up.​</p>
+<p t="680821" d="3435" wp="1" ws="1" p="1">This is what Expert C had to say about this:​</p>
+<p t="684191" d="38472" wp="2" ws="1" p="6">Considering the effects of COVID-19, we can
+imagine a future where YouTube
+ends its streaming services.​</p>
+<p t="685225" d="3871" wp="1" ws="1" p="1">Considering COVID-19&#39;s effects— Well, that this is a side effect of that is undeniable—​</p>
+<p t="689096" d="3203" wp="1" ws="1" p="1">and what may transpire in the near future,​</p>
+<p t="692299" d="1535" wp="1" ws="1" p="1">YouTube may​</p>
+<p t="693834" d="3570" wp="1" ws="1" p="1">end up temporarily suspending streaming functionality.​</p>
+<p t="697404" d="4037" wp="1" ws="1" p="1">That&#39;s a possible future to consider.​</p>
+<p t="701441" d="901" wp="1" ws="1" p="1">That&#39;s to say,​</p>
+<p t="702342" d="2536" wp="1" ws="1" p="1">we can be assured that the situation created by COVID-19​</p>
+<p t="704878" d="3137" wp="1" ws="1" p="1">will continue to exist for the foreseeable future.​</p>
+<p t="708015" d="2502" wp="1" ws="1" p="1">And YouTube is actually​</p>
+<p t="710517" d="1168" wp="1" ws="1" p="1">a video—​</p>
+<p t="711685" d="3737" wp="1" ws="1" p="1">a video broadcast service. That&#39;s what YouTube is.​</p>
+<p t="715422" d="2669" wp="1" ws="1" p="1">If we&#39;re talking streaming,​</p>
+<p t="718091" d="1535" wp="1" ws="1" p="1">actually,​</p>
+<p t="719626" d="3402" wp="1" ws="1" p="1">outside of Japan, if we&#39;re talking streaming,​</p>
+<p t="722663" d="20018" wp="2" ws="1" p="6">*How streaming is viewed outside of Japan​</p>
+<p t="723697" d="2469" wp="1" ws="1" p="1">we&#39;re on a different platform.​</p>
+<p t="726166" d="1668" wp="1" ws="1" p="1">That&#39;s the place for streams, isn&#39;t it?​</p>
+<p t="727834" d="1802" wp="1" ws="1" p="1">And YouTube is the place for videos, isn&#39;t it?​</p>
+<p t="729636" d="2002" wp="1" ws="1" p="1">That&#39;s how​</p>
+<p t="731638" d="3737" wp="1" ws="1" p="1">the world sees it.​</p>
+<p t="735375" d="1902" wp="1" ws="1" p="1">Therefore...​</p>
+<p t="737277" d="1535" wp="1" ws="1" p="1">Hmm...​</p>
+<p t="738812" d="3836" wp="1" ws="1" p="1">If I were to phrase what I&#39;m trying to say...​</p>
+<p t="742816" d="57690" wp="3" ws="2" p="6">&quot;Coco-san!
+Please stop saying &quot;YouTube a sh*t&quot; out loud!&quot;
+
+
+
+
+&quot;I&#39;ve never said that&quot;​</p>
+<p t="743750" d="1235" wp="1" ws="1" p="1">Oh well...​</p>
+<p t="744985" d="1768" wp="1" ws="1" p="1">I won&#39;t say it, but...​</p>
+<p t="746753" d="1835" wp="1" ws="1" p="1">If I were to put it into words...​</p>
+<p t="748588" d="1936" wp="1" ws="1" p="1">It&#39;s something that I can&#39;t actually voice.​</p>
+<p t="750524" d="2402" wp="1" ws="1" p="1">I&#39;d never say something so awful.​</p>
+<p t="752926" d="901" wp="1" ws="1" p="1">*Coco inhales*​</p>
+<p t="753827" d="2436" wp="1" ws="1" p="1">My manager is saying something,​</p>
+<p t="756263" d="2502" wp="1" ws="1" p="1">but shouldn&#39;t a manager not say such things?​</p>
+<p t="758765" d="2369" wp="1" ws="1" p="1">I won&#39;t say it, though.​</p>
+<p t="761134" d="2636" wp="1" ws="1" p="1">It&#39;s just a little...​</p>
+<p t="763770" d="1835" wp="1" ws="1" p="1">I think it&#39;s about time...​</p>
+<p t="765605" d="1669" wp="1" ws="1" p="1">If we just...​</p>
+<p t="767274" d="4137" wp="1" ws="1" p="1">Consider the effects of COVID-19...​</p>
+<p t="771411" d="1902" wp="1" ws="1" p="1">If we consider it...​</p>
+<p t="773313" d="2870" wp="1" ws="1" p="1">Depending on YouTube right now is...​</p>
+<p t="776183" d="534" wp="1" ws="1" p="1">Y&#39;know?​</p>
+<p t="776717" d="1768" wp="1" ws="1" p="1">YouTube is being...​</p>
+<p t="778485" d="2703" wp="1" ws="1" p="1">YouTube may? You know? Like...​</p>
+<p t="781188" d="3803" wp="1" ws="1" p="1">&quot;It&#39;s putting a strain on us, and since we&#39;re not a streaming company,​</p>
+<p t="784991" d="2236" wp="1" ws="1" p="1">we&#39;ll remove the streaming function for a while.&quot;​</p>
+<p t="787227" d="1635" wp="1" ws="1" p="1">They may do it.​</p>
+<p t="788862" d="1969" wp="1" ws="1" p="1">I don&#39;t think they will,​</p>
+<p t="790831" d="3436" wp="1" ws="1" p="1">but it&#39;s not impossible for them to.​</p>
+<p t="794267" d="1735" wp="1" ws="1" p="1">I won&#39;t say that though.​</p>
+<p t="796002" d="3471" wp="1" ws="1" p="1">I&#39;d never say something like that though.​</p>
+<p t="799473" d="1234" wp="1" ws="1" p="1">Oh, wait a moment!​</p>
+<p t="800707" d="1168" wp="1" ws="1" p="1">I&#39;m gonna get yelled at, won&#39;t I?​</p>
+<p t="801875" d="3403" wp="1" ws="1" p="1">I&#39;m getting yelled at and am out of content.​</p>
+<p t="805278" d="2369" wp="1" ws="1" p="1">I&#39;m already out of news.​</p>
+<p t="807647" d="2603" wp="1" ws="1" p="1">I&#39;ve been on a drought of content recently.​</p>
+<p t="810250" d="1433" wp="1" ws="1" p="1">This means...​</p>
+<p t="812018" d="2301" wp="1" ws="1" p="1">Time for commercials!​</p>
+<p t="815489" d="2734" wp="1" ws="1" p="7">Ah... this is empty...​</p>
+<p t="819059" d="1533" wp="1" ws="1" p="7">This is also empty...​</p>
+<p t="821461" d="2335" wp="1" ws="1" p="8">What&#39;re you doing?​</p>
+<p t="824297" d="3337" wp="1" ws="1" p="7">The Type Kiryu bottles I saved up​</p>
+<p t="827634" d="1902" wp="1" ws="1" p="7">are all empty.​</p>
+<p t="829536" d="2302" wp="1" ws="1" p="7">I wanted to have my fix​</p>
+<p t="831838" d="2002" wp="1" ws="1" p="7">to buff up, but...​</p>
+<p t="833840" d="1268" wp="1" ws="1" p="8">Oh, you&#39;re right.​</p>
+<p t="835108" d="3237" wp="1" ws="1" p="8">All we have are empty bottles, huh?​</p>
+<p t="838345" d="4604" wp="1" ws="1" p="7">I saw Watame chugging on
+these like no tomorrow, so yeah.​</p>
+<p t="842949" d="1535" wp="1" ws="1" p="7">They&#39;re probably,​</p>
+<p t="844484" d="2636" wp="1" ws="1" p="7">they&#39;re probably out of stock.​</p>
+<p t="847120" d="2369" wp="1" ws="1" p="8">Well, it&#39;s gotten hotter lately,​</p>
+<p t="849489" d="3937" wp="1" ws="1" p="8">so a 500mL bottle isn&#39;t enough anymore.​</p>
+<p t="853426" d="3070" wp="1" ws="1" p="7">Man, I have to buy more?​</p>
+<p t="856496" d="3436" wp="1" ws="1" p="7">Going out to buy these is a pain!​</p>
+<p t="860433" d="4271" wp="1" ws="1" p="1">Type Kiryu is a popular product, after all.​</p>
+<p t="864704" d="4238" wp="1" ws="1" p="1">People fight for it in the supermarkets,​</p>
+<p t="868942" d="3103" wp="1" ws="1" p="1">and vending machines that contain it​</p>
+<p t="872045" d="2336" wp="1" ws="1" p="1">are ripped open by addicts,​</p>
+<p t="874381" d="3837" wp="1" ws="1" p="1">and just carrying it around in town​</p>
+<p t="878218" d="3769" wp="1" ws="1" p="1">makes you a target for assault and robbery.​</p>
+<p t="882455" d="1602" wp="1" ws="1" p="7">Chairman!​</p>
+<p t="884057" d="3437" wp="1" ws="1" p="7">I really can&#39;t live without getting my fix!​</p>
+<p t="887494" d="2069" wp="1" ws="1" p="7">Do something about it!​</p>
+<p t="889563" d="4004" wp="1" ws="1" p="8">My throat&#39;s so dry I can&#39;t even talk anymore.​</p>
+<p t="893567" d="3470" wp="1" ws="1" p="8">Please, please give me Type Kiryu...​</p>
+<p t="897037" d="5505" wp="1" ws="1" p="1">I guess it is time to unveil our newest product.​</p>
+<p t="902542" d="4337" wp="1" ws="1" p="1">We should be releasing it
+anytime soon.​</p>
+<p t="907214" d="1668" wp="1" ws="1" p="1">It&#39;s called​</p>
+<p t="908381" d="28327" wp="4" ws="1" p="9">Extra Large! Calorie Burner Type Kiryu 10L!​</p>
+<p t="908882" d="3270" wp="1" ws="1" p="1">Extra Large Type Kiryu​</p>
+<p t="912152" d="3570" wp="1" ws="1" p="1">10 Liter Bottle!​</p>
+<p t="915722" d="1935" wp="1" ws="1" p="7">10 liters?!​</p>
+<p t="917657" d="1535" wp="1" ws="1" p="7">That&#39;s huge!​</p>
+<p t="919192" d="2536" wp="1" ws="1" p="1">We have received concerns​</p>
+<p t="921728" d="2503" wp="1" ws="1" p="1">that the 500mL bottle​</p>
+<p t="924231" d="2035" wp="1" ws="1" p="1">is not enough​</p>
+<p t="924297" d="12411" wp="5" ws="1" p="10">For those who
+&quot;wanted more&quot;,
+this is for you!​</p>
+<p t="926266" d="3036" wp="1" ws="1" p="1">to satisfy our customers.​</p>
+<p t="929302" d="1802" wp="1" ws="1" p="1">Our most loyal fans​</p>
+<p t="931104" d="2836" wp="1" ws="1" p="1">answered our poll, asking for​</p>
+<p t="933940" d="3070" wp="1" ws="1" p="1">a 10L upgrade to our product.​</p>
+<p t="937010" d="1602" wp="1" ws="1" p="7">Wait a minute.​</p>
+<p t="938612" d="2769" wp="1" ws="1" p="7">There&#39;s actually a promo​</p>
+<p t="941381" d="2134" wp="1" ws="1" p="7">for today&#39;s Morning Coco viewers?!​</p>
+<p t="943850" d="934" wp="1" ws="1" p="8">It&#39;s true!​</p>
+<p t="944784" d="1936" wp="1" ws="1" p="8">There&#39;s something on the bottle.​</p>
+<p t="946720" d="2134" wp="1" ws="1" p="8">And it&#39;s cute!​</p>
+<p t="949322" d="1769" wp="1" ws="1" p="1">Yes, exactly!​</p>
+<p t="951091" d="2903" wp="1" ws="1" p="1">For those who wake up​</p>
+<p t="953994" d="1868" wp="1" ws="1" p="1">this early at 6 AM​</p>
+<p t="955862" d="1902" wp="1" ws="1" p="1">despite it being Golden Week,​</p>
+<p t="957764" d="1802" wp="1" ws="1" p="1">we have a limited promo​</p>
+<p t="959566" d="2336" wp="1" ws="1" p="1">to cheer you on.​</p>
+<p t="961501" d="47179" wp="6" ws="1" p="11">Live Offer!
+Comes with merch!​</p>
+<p t="961501" d="47179" wp="5" ws="1" p="10">For those who
+&quot;wanted more&quot;,
+this is for you!​</p>
+<p t="961501" d="47179" wp="4" ws="1" p="9">Extra Large! Calorie Burner Type Kiryu 10L!​</p>
+<p t="961902" d="3870" wp="1" ws="1" p="1">We&#39;ve included a Morning Coco key holder!​</p>
+<p t="965772" d="901" wp="1" ws="1" p="1">You&#39;ll get one​</p>
+<p t="966673" d="3337" wp="1" ws="1" p="1">from over 10 varieties at random!​</p>
+<p t="970010" d="1268" wp="1" ws="1" p="8">Oh wow!​</p>
+<p t="971278" d="4302" wp="1" ws="1" p="8">But something of this size
+is sure to be expensive, right?​</p>
+<p t="975949" d="2402" wp="1" ws="1" p="1">What are you talking about?​</p>
+<p t="978351" d="2202" wp="1" ws="1" p="1">It&#39;s Golden Week!​</p>
+<p t="980553" d="4105" wp="1" ws="1" p="1">We&#39;ve set a very special price​</p>
+<p t="984658" d="4137" wp="1" ws="1" p="1">for everyone&#39;s favorite vacation week!​</p>
+<p t="988795" d="3770" wp="1" ws="1" p="1">For today only, the standard price​</p>
+<p t="992565" d="2636" wp="1" ws="1" p="1">of 5000 yen,​</p>
+<p t="992599" d="16081" wp="7" ws="1" p="6">SRP: 5000 yen​</p>
+<p t="995201" d="1469" wp="1" ws="1" p="1">is marked down​</p>
+<p t="996369" d="12311" wp="8" ws="1" p="12">Promo (delivery incl.): 1000 yen!​</p>
+<p t="996670" d="2902" wp="1" ws="1" p="1">to only 1000 yen!​</p>
+<p t="999572" d="1802" wp="1" ws="1" p="7">I&#39;ll take it!​</p>
+<p t="1001374" d="3003" wp="1" ws="1" p="7">This is a stream-only offer, guys!​</p>
+<p t="1004377" d="2902" wp="1" ws="1" p="7">Subscribe to our channels for more!​</p>
+<p t="1010750" d="634" wp="1" ws="1" p="13">Hey!​</p>
+<p t="1011384" d="1769" wp="1" ws="1" p="13">Burn it all! Burn it all!​</p>
+<p t="1013153" d="1601" wp="1" ws="1" p="13">With Type Kiryu!​</p>
+<p t="1014754" d="1702" wp="1" ws="1" p="13">Burn it all! Burn it all!​</p>
+<p t="1016456" d="1534" wp="1" ws="1" p="13">With Type Kiryu!​</p>
+<p t="1026666" d="2601" wp="9" ws="1" p="6">You don&#39;t have to work out anymore!​</p>
+<p t="1026666" d="2936" wp="1" ws="1" p="14">You don&#39;t have to work out anymore! ​</p>
+<p t="1029602" d="968" wp="1" ws="1" p="14">Burn it all! ​</p>
+<p t="1030003" d="2536" wp="10" ws="1" p="15">Butt UP​</p>
+<p t="1030003" d="2536" wp="11" ws="1" p="15">Boobs UP​</p>
+<p t="1030003" d="2536" wp="12" ws="1" p="15">Strength UP​</p>
+<p t="1030570" d="934" wp="1" ws="1" p="14">All! All! All! ​</p>
+<p t="1031504" d="1634" wp="1" ws="1" p="14">With Type Kiryu! ​</p>
+<p t="1032539" d="1200" wp="13" ws="1" p="15">Butt UP​</p>
+<p t="1032539" d="1200" wp="14" ws="1" p="15">Boobs UP​</p>
+<p t="1032539" d="1200" wp="15" ws="1" p="15">Strength UP​</p>
+<p t="1032605" d="1134" wp="4" ws="1" p="16">Singers: Choco-sensei &amp; Koro-san, Song: Rokuro-san, Video: Oyaji​</p>
+<p t="1039746" d="1969" wp="1" ws="1" p="1">Ahh...​</p>
+<p t="1041715" d="667" wp="1" ws="1" p="1">We―​</p>
+<p t="1042382" d="701" wp="1" ws="1" p="1">We have―​</p>
+<p t="1043083" d="3670" wp="1" ws="1" p="1">We have another product on sale, don&#39;t we?​</p>
+<p t="1046753" d="1368" wp="1" ws="1" p="1">I figured​</p>
+<p t="1048121" d="2636" wp="1" ws="1" p="1">we&#39;ll be getting reports​</p>
+<p t="1050757" d="1935" wp="1" ws="1" p="1">of people asking for more―​</p>
+<p t="1052692" d="3570" wp="1" ws="1" p="1">So we&#39;re having a special Golden Week promo.​</p>
+<p t="1056262" d="4305" wp="1" ws="1" p="1">I didn&#39;t know what more to tack on
+since we&#39;ve given out so much―​</p>
+<p t="1060567" d="2135" wp="1" ws="1" p="1">Oh, seems like we have another hit.​</p>
+<p t="1062702" d="501" wp="1" ws="1" p="1">Ah.​</p>
+<p t="1063203" d="2134" wp="1" ws="1" p="1">Orders are in droves!​</p>
+<p t="1065638" d="3437" wp="1" ws="1" p="1">Wait, who― who&#39;s buying in bulk again?​</p>
+<p t="1069075" d="3871" wp="1" ws="1" p="1">A 10 L bottle weighs 10 kg, you know?​</p>
+<p t="1072946" d="2702" wp="1" ws="1" p="1">So uhh, I think carrying it home​</p>
+<p t="1075648" d="2370" wp="1" ws="1" p="1">would be a bit tough on the back.​</p>
+<p t="1078018" d="934" wp="1" ws="1" p="1">So of course―​</p>
+<p t="1078952" d="2569" wp="1" ws="1" p="1">Ah― Ah, another happy customer.​</p>
+<p t="1081521" d="2336" wp="1" ws="1" p="1">We&#39;ll be delivering it​</p>
+<p t="1083857" d="2502" wp="1" ws="1" p="1">directly to your doorstep.​</p>
+<p t="1086359" d="3504" wp="1" ws="1" p="1">We&#39;ll just keep these sales rolling in.​</p>
+<p t="1089863" d="3036" wp="1" ws="1" p="1">We have another bulk purchase!​</p>
+<p t="1092899" d="2836" wp="1" ws="1" p="1">The orders just keep on flowing in!​</p>
+<p t="1095735" d="1935" wp="1" ws="1" p="1">There we have it.​</p>
+<p t="1097670" d="2770" wp="1" ws="1" p="1">There&#39;s a lot of you getting your fix.​</p>
+<p t="1100440" d="2669" wp="1" ws="1" p="1">What comes to mind
+for calorie-burners though​</p>
+<p t="1103109" d="1268" wp="1" ws="1" p="1">is, uhh,​</p>
+<p t="1104377" d="868" wp="1" ws="1" p="1">definitely​</p>
+<p t="1105245" d="3470" wp="1" ws="1" p="1">that super-macho,
+super-sexy Choco-sensei, right?​</p>
+<p t="1108715" d="2569" wp="1" ws="1" p="1">In any case, let&#39;s move on!​</p>
+<p t="1111284" d="1066" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="1113386" d="2002" wp="1" ws="1" p="1">Right here we have​</p>
+<p t="1115388" d="2503" wp="1" ws="1" p="1">a Bratty Punk report.​</p>
+<p t="1117891" d="4237" wp="1" ws="1" p="1">It seems like the bratty punk did something bad.​</p>
+<p t="1122128" d="3370" wp="1" ws="1" p="1">Let&#39;s take a closer look.​</p>
+<p t="1125231" d="23089" wp="2" ws="1" p="6">Brat Plays Up Bad Language​</p>
+<p t="1125498" d="2937" wp="1" ws="1" p="1">What happened was,​</p>
+<p t="1128435" d="1935" wp="1" ws="1" p="1">during a game​</p>
+<p t="1130370" d="2235" wp="1" ws="1" p="1">of Splatoon yesterday,​</p>
+<p t="1132605" d="768" wp="1" ws="1" p="1">why,​</p>
+<p t="1133373" d="3503" wp="1" ws="1" p="1">the brat continued to act up​</p>
+<p t="1136876" d="3704" wp="1" ws="1" p="1">even after being told off for her language,​</p>
+<p t="1140580" d="4271" wp="1" ws="1" p="1">causing her elders to give up on her.​</p>
+<p t="1144851" d="1468" wp="1" ws="1" p="1">I want everyone​</p>
+<p t="1146319" d="3337" wp="1" ws="1" p="1">to see the actual footage of the event.​</p>
+<p t="1149656" d="1133" wp="1" ws="1" p="17">Ahahaha.​</p>
+<p t="1151825" d="967" wp="1" ws="1" p="7">Kill, kill!​</p>
+<p t="1152792" d="1167" wp="1" ws="1" p="7">Oh, it&#39;s killed.​</p>
+<p t="1154627" d="1202" wp="1" ws="1" p="18">Don&#39;t say &quot;kill&quot;.​</p>
+<p t="1155829" d="1334" wp="1" ws="1" p="7">Kill, kill, killed.​</p>
+<p t="1157163" d="1602" wp="1" ws="1" p="7">I&#39;ve killed three―​</p>
+<p t="1158765" d="867" wp="1" ws="1" p="7">I&#39;ve killed three.​</p>
+<p t="1159632" d="1068" wp="1" ws="1" p="18">Hey, you!​</p>
+<p t="1160700" d="968" wp="1" ws="1" p="7">Triple murder―​</p>
+<p t="1161668" d="1435" wp="1" ws="1" p="7">Kill, kill, kill, kill.​</p>
+<p t="1163103" d="1201" wp="1" ws="1" p="7">Kill! Kill! Kill!​</p>
+<p t="1164304" d="834" wp="1" ws="1" p="7">AAGH!​</p>
+<p t="1165138" d="767" wp="1" ws="1" p="17">Aw, geez.​</p>
+<p t="1165905" d="1901" wp="1" ws="1" p="7">Ahh, didn&#39;t kill them.​</p>
+<p t="1169275" d="568" wp="1" ws="1" p="18">Ah, crap―​</p>
+<p t="1169843" d="2402" wp="1" ws="1" p="7">Ah, wasn&#39;t able to kill that last guy.​</p>
+<p t="1172245" d="1134" wp="1" ws="1" p="18">Nice one.​</p>
+<p t="1173379" d="1736" wp="1" ws="1" p="7">Gotta kill, gotta kill.​</p>
+<p t="1175115" d="1601" wp="1" ws="1" p="7">Definitely gonna kill.​</p>
+<p t="1176716" d="1068" wp="1" ws="1" p="7">Kill, kill, kill!​</p>
+<p t="1177784" d="1266" wp="1" ws="1" p="7">It&#39;s killed, it&#39;s killed.​</p>
+<p t="1182989" d="1168" wp="1" ws="1" p="1">Ah...​</p>
+<p t="1184157" d="1435" wp="1" ws="1" p="1">Is this...​</p>
+<p t="1185592" d="1535" wp="1" ws="1" p="1">Is this proper?​</p>
+<p t="1187127" d="3403" wp="1" ws="1" p="1">This is a brat in her rebellious phase.​</p>
+<p t="1190530" d="4137" wp="1" ws="1" p="1">We should ask our audience for their opinion.​</p>
+<p t="1194667" d="1969" wp="1" ws="1" p="1">What do you all think?​</p>
+<p t="1196636" d="1635" wp="1" ws="1" p="1">&quot;lol&quot;​</p>
+<p t="1198271" d="2269" wp="1" ws="1" p="1">Uhh, &quot;that killing intent&quot;.​</p>
+<p t="1200540" d="1034" wp="1" ws="1" p="1">Ah― Wha― Wai―​</p>
+<p t="1201574" d="2369" wp="1" ws="1" p="1">Another purchase came in.​</p>
+<p t="1203943" d="968" wp="1" ws="1" p="1">Did this―​</p>
+<p t="1204911" d="2269" wp="1" ws="1" p="1">Did this guy already drink all of it?​</p>
+<p t="1207180" d="1668" wp="1" ws="1" p="1">Did you run out?​</p>
+<p t="1208848" d="3537" wp="1" ws="1" p="1">Please don&#39;t ask for refills on stream.​</p>
+<p t="1212385" d="1869" wp="1" ws="1" p="1">That&#39;s freaky.​</p>
+<p t="1214254" d="867" wp="1" ws="1" p="1">Er...​</p>
+<p t="1215121" d="1335" wp="1" ws="1" p="1">&quot;cute little rebel&quot;​</p>
+<p t="1216456" d="1234" wp="1" ws="1" p="1">&quot;guilty&quot;​</p>
+<p t="1217690" d="1635" wp="1" ws="1" p="1">Uhh, &quot;war freak&quot;.​</p>
+<p t="1219325" d="801" wp="1" ws="1" p="1">*deep breaths*​</p>
+<p t="1220126" d="1101" wp="1" ws="1" p="1">This behavior is​</p>
+<p t="1221227" d="3904" wp="1" ws="1"><s p="1">a bit ​</s><s>​</s><s p="5">questionable ​</s><s p="1">for an idol, isn&#39;t it?​</s></p>
+<p t="1225131" d="2669" wp="1" ws="1" p="1">Let&#39;s see what the experts say.​</p>
+<p t="1227800" d="20420" wp="2" ws="1" p="6">&quot;As long as the brat&#39;s having fun, I&#39;m happy.&quot;​</p>
+<p t="1228801" d="2236" wp="1" ws="1" p="1">&quot;As long as the brat&#39;s having fun, I&#39;m happy.&quot;​</p>
+<p t="1231037" d="601" wp="1" ws="1" p="1">Well,​</p>
+<p t="1231638" d="3770" wp="1" ws="1" p="1">the brat having fun is good enough for me!​</p>
+<p t="1235408" d="1935" wp="1" ws="1" p="1">She&#39;s my Invincible Boyfriend, after all.​</p>
+<p t="1237343" d="2236" wp="1" ws="1" p="1">If my boyfriend&#39;s having fun,​</p>
+<p t="1239579" d="1200" wp="1" ws="1" p="1">then I&#39;m happy whatever she does. *wink*​</p>
+<p t="1241648" d="3036" wp="1" ws="1" p="1">With that settled, onto the next report.​</p>
+<p t="1244684" d="2736" wp="1" ws="1" p="1">Regarding last Saturday&#39;s event―​</p>
+<p t="1247420" d="1167" wp="1" ws="1" p="1">Last Saturday&#39;s​</p>
+<p t="1249055" d="1235" wp="1" ws="1" p="1">HoloComi―​</p>
+<p t="1250290" d="2936" wp="1" ws="1" p="1">Did you all participate in HoloComi?​</p>
+<p t="1253226" d="1768" wp="1" ws="1" p="1">It was held on May 2,​</p>
+<p t="1254994" d="1835" wp="1" ws="1" p="1">and the event started at 10 AM.​</p>
+<p t="1256829" d="2570" wp="1" ws="1" p="1">We didn&#39;t have a Comiket booth​</p>
+<p t="1259399" d="2702" wp="1" ws="1" p="1">because of the event&#39;s cancellation,​</p>
+<p t="1262101" d="1068" wp="1" ws="1" p="1">so it&#39;s a bit of a downer.​</p>
+<p t="1263169" d="601" wp="1" ws="1" p="1">But,​</p>
+<p t="1263770" d="3103" wp="1" ws="1" p="1">thanks to, uhh, everyone&#39;s warm​</p>
+<p t="1266873" d="3770" wp="1" ws="1" p="1">and intense support, we managed to​</p>
+<p t="1270643" d="3203" wp="1" ws="1" p="1">set up our own online HoloComi!​</p>
+<p t="1273846" d="2636" wp="1" ws="1" p="1">And for this HoloComi,​</p>
+<p t="1276482" d="1701" wp="1" ws="1" p="1">why,​</p>
+<p t="1277850" d="63297" wp="2" ws="1" p="6">HoloComi Limited Goods! Available Until May 15!​</p>
+<p t="1278818" d="4204" wp="1" ws="1" p="1">we have HoloComi limited goods on sale!​</p>
+<p t="1283022" d="1502" wp="1" ws="1" p="1">Did everyone buy them?​</p>
+<p t="1284524" d="1633" wp="1" ws="1" p="1">Have you all?​</p>
+<p t="1286659" d="2770" wp="1" ws="1" p="1">My personal recommendation is​</p>
+<p t="1289429" d="4271" wp="1" ws="1" p="1">this all-hololive linked acrylic keychain.​</p>
+<p t="1293700" d="3603" wp="1" ws="1" p="1">You can join all the hololive members together​</p>
+<p t="1297303" d="2069" wp="1" ws="1" p="1">with this acrylic keychain set!​</p>
+<p t="1299372" d="4338" wp="1" ws="1" p="1">It&#39;s a bit expensive at 8000 yen,​</p>
+<p t="1303710" d="2502" wp="1" ws="1" p="1">but it has everyone, so―​</p>
+<p t="1306212" d="1168" wp="1" ws="1" p="1">Well―​</p>
+<p t="1307380" d="1501" wp="1" ws="1" p="1">It&#39;s a steal.​</p>
+<p t="1308881" d="1902" wp="1" ws="1" p="1">I would buy it.​</p>
+<p t="1310783" d="4638" wp="1" ws="1" p="1">There&#39;s also the B2-size Gen 4 tapestries.​</p>
+<p t="1315421" d="2570" wp="1" ws="1" p="1">My tapestry is a bit​</p>
+<p t="1317991" d="2035" wp="1" ws="1"><s p="5">sexy​</s><s>​</s><s p="1">, isn&#39;t it?​</s></p>
+<p t="1320026" d="2636" wp="1" ws="1" p="1">I want everyone to take a peek.​</p>
+<p t="1322662" d="2102" wp="1" ws="1" p="1">And of course, we also―​</p>
+<p t="1324764" d="1101" wp="1" ws="1" p="1">we also have―​</p>
+<p t="1325865" d="1101" wp="1" ws="1" p="1">Uhh, we have―​</p>
+<p t="1326966" d="2435" wp="1" ws="1" p="1">We have― Ah, &quot;bought it&quot;.​</p>
+<p t="1329769" d="3303" wp="1" ws="1" p="1">Thanks for telling me you bought it!​</p>
+<p t="1333072" d="1635" wp="1" ws="1" p="1">Anyway, we started​</p>
+<p t="1334707" d="2102" wp="1" ws="1" p="1">HoloComi at 10 AM.​</p>
+<p t="1336809" d="4103" wp="1" ws="1" p="1">At the same time,
+we opened orders at BOOTH, but―​</p>
+<p t="1341147" d="43576" wp="2" ws="1" p="6">BOOTH Access Issues Due To HoloComi​</p>
+<p t="1341881" d="1567" wp="1" ws="1" p="1">What do we have here?​</p>
+<p t="1343883" d="1402" wp="1" ws="1" p="1">We received​</p>
+<p t="1345285" d="2736" wp="1" ws="1" p="1">a report on the 2nd of May​</p>
+<p t="1348021" d="3635" wp="1" ws="1" p="1">stating there is difficulty
+accessing the BOOTH website.​</p>
+<p t="1352292" d="2102" wp="1" ws="1" p="1">This is completely hololive&#39;s fault.​</p>
+<p t="1354394" d="2836" wp="1" ws="1" p="1">Since this is totally hololive&#39;s fault,​</p>
+<p t="1357230" d="1234" wp="1" ws="1" p="1">we are―​</p>
+<p t="1358464" d="568" wp="1" ws="1" p="1">Uhh―​</p>
+<p t="1359032" d="2102" wp="1" ws="1" p="1">The website is​</p>
+<p t="1361134" d="2302" wp="1" ws="1" p="1">really hard to access right now!​</p>
+<p t="1363436" d="1935" wp="1" ws="1" p="1">Since this such a thing happened,​</p>
+<p t="1365371" d="2536" wp="1" ws="1" p="1">we are informing everyone​</p>
+<p t="1367907" d="2703" wp="1" ws="1" p="1">who has yet to buy stuff that​</p>
+<p t="1370610" d="3603" wp="1" ws="1" p="1">they have until the 15th to preorder,​</p>
+<p t="1374213" d="2603" wp="1" ws="1" p="1">so please take your time.​</p>
+<p t="1376816" d="1735" wp="1" ws="1" p="1">Ble― Blea― Blea―​</p>
+<p t="1378551" d="4104" wp="1" ws="1" p="1">Blea― Please puy our merch, okay?​</p>
+<p t="1382655" d="1368" wp="1" ws="1" p="1">Uhh, of course,​</p>
+<p t="1384023" d="1669" wp="1" ws="1" p="1">among all the merch―​</p>
+<p t="1385692" d="3003" wp="1" ws="1" p="1">I have some of my own―​</p>
+<p t="1388695" d="3103" wp="1" ws="1" p="1">some of my own merch within the lineup.​</p>
+<p t="1391798" d="2903" wp="1" ws="1" p="1">I made some Morning Coco key chains​</p>
+<p t="1394701" d="2469" wp="1" ws="1" p="1">to put up for sale!​</p>
+<p t="1397170" d="1701" wp="1" ws="1" p="1">It&#39;s an acrylic 5-key set;​</p>
+<p t="1398871" d="3903" wp="1" ws="1" p="1">you can purchase them individually if you want to.​</p>
+<p t="1403376" d="1401" wp="1" ws="1" p="1">That would be fine...​</p>
+<p t="1404777" d="1033" wp="1" ws="1" p="1">However!​</p>
+<p t="1405311" d="46579" wp="2" ws="1" p="6">Kiryu Forgets To Draw Own Cowlick​</p>
+<p t="1406212" d="3237" wp="1" ws="1" p="1">We have a Pathetic Loser Report.​</p>
+<p t="1409449" d="1468" wp="1" ws="1" p="1">Of all things.​</p>
+<p t="1410917" d="1968" wp="1" ws="1" p="1">Of all things!​</p>
+<p t="1412885" d="3504" wp="1" ws="1" p="1">It&#39;s my cute little cowlick―​</p>
+<p t="1416389" d="2636" wp="1" ws="1" p="1">I forgot to tack on​</p>
+<p t="1419025" d="2536" wp="1" ws="1" p="1">my cute little cowlick!​</p>
+<p t="1421561" d="1134" wp="1" ws="1" p="1">How pathetic!​</p>
+<p t="1422695" d="2603" wp="1" ws="1" p="1">I screwed up big time―​</p>
+<p t="1425298" d="1867" wp="1" ws="1" p="1">*dragon sulk*​</p>
+<p t="1427700" d="2836" wp="1" ws="1" p="1">My cowlick would usually be here.​</p>
+<p t="1430536" d="568" wp="1" ws="1" p="1">Right here.​</p>
+<p t="1431104" d="2435" wp="1" ws="1" p="1">It would be sticking out up here.​</p>
+<p t="1433539" d="2803" wp="1" ws="1" p="1">I really screwed up, huh?​</p>
+<p t="1436342" d="2403" wp="1" ws="1" p="1">This is going down in history.​</p>
+<p t="1438745" d="1234" wp="1" ws="1" p="1">I guess everyone can​</p>
+<p t="1439979" d="2035" wp="1" ws="1" p="1">just tack on the bal― bald―​</p>
+<p t="1442014" d="835" wp="1" ws="1" p="1">Not bald spot―​</p>
+<p t="1442849" d="2602" wp="1" ws="1" p="1">Gro― Draw the cowlick​</p>
+<p t="1445451" d="1902" wp="1" ws="1" p="1">yourselves, everyone.​</p>
+<p t="1447353" d="2136" wp="1" ws="1" p="1">Anyway, now for today&#39;s​</p>
+<p t="1449489" d="1134" wp="1" ws="1" p="1">cowlicked―​</p>
+<p t="1450623" d="3235" wp="1" ws="1" p="1">cow― cow-brained weather report.​</p>
+<p t="1456229" d="2636" wp="1" ws="1" p="1">I wasn&#39;t asking​</p>
+<p t="1458865" d="2167" wp="1" ws="1" p="1">for your daily diary, you know?​</p>
+<p t="1461534" d="2336" wp="1" ws="1" p="1">I mean, I wanna eat sushi too.​</p>
+<p t="1463870" d="2469" wp="1" ws="1" p="1">Watame, Watame, there&#39;s a place―​</p>
+<p t="1466339" d="2669" wp="1" ws="1" p="1">There&#39;s a sushi place
+near my house, wanna come?​</p>
+<p t="1469008" d="1867" wp="1" ws="1" p="1">Come on, let&#39;s go?​</p>
+<p t="1471210" d="1302" wp="1" ws="1" p="1">Thinking about it,​</p>
+<p t="1472512" d="3637" wp="1" ws="1" p="1">restaurant workers are in a pinch right now,​</p>
+<p t="1476149" d="2102" wp="1" ws="1" p="1">so one way to help them​</p>
+<p t="1478251" d="2269" wp="1" ws="1" p="1">is to use our money​</p>
+<p t="1480520" d="2302" wp="1" ws="1" p="1">to buy their food! Let&#39;s go!​</p>
+<p t="1482822" d="1868" wp="1" ws="1" p="1">I&#39;ll be using my Switch money―​</p>
+<p t="1484690" d="668" wp="1" ws="1" p="1">You know,​</p>
+<p t="1485358" d="3170" wp="1" ws="1" p="1">the Super Chats telling me to buy a Switch―​</p>
+<p t="1488528" d="2235" wp="1" ws="1" p="1">I could use those for whatever I want,​</p>
+<p t="1490763" d="2069" wp="1" ws="1" p="1">so let&#39;s go, okay?​</p>
+<p t="1492832" d="2970" wp="1" ws="1" p="1">Everyone wants salmon, I see.​</p>
+<p t="1495802" d="1234" wp="1" ws="1" p="1">Me?​</p>
+<p t="1497036" d="2536" wp="1" ws="1" p="1">I like eggs!​</p>
+<p t="1499572" d="2970" wp="1" ws="1" p="1">Now then, today&#39;s hololive―​</p>
+<p t="1502542" d="1534" wp="1" ws="1" p="1">Erm...​</p>
+<p t="1504076" d="1602" wp="1" ws="1" p="1">Uhh, what was it...​</p>
+<p t="1505678" d="1668" wp="1" ws="1" p="1">*processing*​</p>
+<p t="1507346" d="1469" wp="1" ws="1" p="1">*at 128 kbps*​</p>
+<p t="1508815" d="1668" wp="1" ws="1" p="1">Umm... Password!​</p>
+<p t="1510483" d="3403" wp="1" ws="1" p="1">The ARK server password is &quot;oshushi&quot;.​</p>
+<p t="1513886" d="367" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S-U​</s></p>
+<p t="1513886" d="367" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S-U​</s></p>
+<p t="1514253" d="367" wp="1" ws="1"><s p="1">O-S-​</s><s>​</s><s p="2">U​</s></p>
+<p t="1514253" d="367" wp="1" ws="1"><s p="3">O-S-​</s><s>​</s><s p="4">U​</s></p>
+<p t="1514620" d="801" wp="1" ws="1" p="1">O-S-U​</p>
+<p t="1515421" d="801" wp="1" ws="1" p="1">Ah―​</p>
+<p t="1516222" d="434" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S​</s></p>
+<p t="1516222" d="434" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S​</s></p>
+<p t="1516656" d="433" wp="1" ws="1" p="1">O-S​</p>
+<p t="1517089" d="368" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S...​</s></p>
+<p t="1517089" d="368" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S...​</s></p>
+<p t="1517457" d="700" wp="1" ws="1" p="1">O-S...​</p>
+<p t="1518157" d="567" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S-H-U-S-H-I.​</s></p>
+<p t="1518157" d="567" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S-H-U-S-H-I.​</s></p>
+<p t="1518724" d="401" wp="1" ws="1"><s p="1">O-S-​</s><s>​</s><s p="2">H-U-S-H-I.​</s></p>
+<p t="1518724" d="401" wp="1" ws="1"><s p="3">O-S-​</s><s>​</s><s p="4">H-U-S-H-I.​</s></p>
+<p t="1519125" d="767" wp="1" ws="1"><s p="1">O-S-H-​</s><s>​</s><s p="2">U-S-H-I.​</s></p>
+<p t="1519125" d="767" wp="1" ws="1"><s p="3">O-S-H-​</s><s>​</s><s p="4">U-S-H-I.​</s></p>
+<p t="1519892" d="601" wp="1" ws="1"><s p="1">O-S-H-U-​</s><s>​</s><s p="2">S-H-I.​</s></p>
+<p t="1519892" d="601" wp="1" ws="1"><s p="3">O-S-H-U-​</s><s>​</s><s p="4">S-H-I.​</s></p>
+<p t="1520493" d="567" wp="1" ws="1"><s p="1">O-S-H-U-S-​</s><s>​</s><s p="2">H-I.​</s></p>
+<p t="1520493" d="567" wp="1" ws="1"><s p="3">O-S-H-U-S-​</s><s>​</s><s p="4">H-I.​</s></p>
+<p t="1521060" d="401" wp="1" ws="1"><s p="1">O-S-H-U-S-H-​</s><s>​</s><s p="2">I.​</s></p>
+<p t="1521060" d="401" wp="1" ws="1"><s p="3">O-S-H-U-S-H-​</s><s>​</s><s p="4">I.​</s></p>
+<p t="1521461" d="734" wp="1" ws="1" p="1">O-S-H-U-S-H-I.​</p>
+<p t="1522195" d="267" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S-U​</s></p>
+<p t="1522195" d="267" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S-U​</s></p>
+<p t="1522462" d="367" wp="1" ws="1"><s p="1">O-S-​</s><s>​</s><s p="2">U​</s></p>
+<p t="1522462" d="367" wp="1" ws="1"><s p="3">O-S-​</s><s>​</s><s p="4">U​</s></p>
+<p t="1522829" d="700" wp="1" ws="1" p="1">O-S-U​</p>
+<p t="1523529" d="935" wp="1" ws="1"><s p="1">U... ​</s><s>​</s><s p="2">O-S-H-U​</s></p>
+<p t="1523529" d="935" wp="1" ws="1"><s p="3">U... ​</s><s>​</s><s p="4">O-S-H-U​</s></p>
+<p t="1524464" d="633" wp="1" ws="1"><s p="1">U... O-​</s><s>​</s><s p="2">S-H-U​</s></p>
+<p t="1524464" d="633" wp="1" ws="1"><s p="3">U... O-​</s><s>​</s><s p="4">S-H-U​</s></p>
+<p t="1525097" d="368" wp="1" ws="1"><s p="1">U... O-S-​</s><s>​</s><s p="2">H-U​</s></p>
+<p t="1525097" d="368" wp="1" ws="1"><s p="3">U... O-S-​</s><s>​</s><s p="4">H-U​</s></p>
+<p t="1525465" d="400" wp="1" ws="1"><s p="1">U... O-S-H-​</s><s>​</s><s p="2">U​</s></p>
+<p t="1525465" d="400" wp="1" ws="1"><s p="3">U... O-S-H-​</s><s>​</s><s p="4">U​</s></p>
+<p t="1525865" d="434" wp="1" ws="1" p="1">U... O-S-H-U​</p>
+<p t="1526299" d="400" wp="1" ws="1" p="1">Ah, so―​</p>
+<p t="1526699" d="1235" wp="1" ws="1" p="1">&quot;oshushi&quot;​</p>
+<p t="1527934" d="600" wp="1" ws="1"><s p="1">O-​</s><s>​</s><s p="2">S-H-U-S-H-I!​</s></p>
+<p t="1527934" d="600" wp="1" ws="1"><s p="3">O-​</s><s>​</s><s p="4">S-H-U-S-H-I!​</s></p>
+<p t="1528534" d="234" wp="1" ws="1"><s p="1">O-S-​</s><s>​</s><s p="2">H-U-S-H-I!​</s></p>
+<p t="1528534" d="234" wp="1" ws="1"><s p="3">O-S-​</s><s>​</s><s p="4">H-U-S-H-I!​</s></p>
+<p t="1528768" d="767" wp="1" ws="1"><s p="1">O-S-H-​</s><s>​</s><s p="2">U-S-H-I!​</s></p>
+<p t="1528768" d="767" wp="1" ws="1"><s p="3">O-S-H-​</s><s>​</s><s p="4">U-S-H-I!​</s></p>
+<p t="1529535" d="501" wp="1" ws="1"><s p="1">O-S-H-U-​</s><s>​</s><s p="2">S-H-I!​</s></p>
+<p t="1529535" d="501" wp="1" ws="1"><s p="3">O-S-H-U-​</s><s>​</s><s p="4">S-H-I!​</s></p>
+<p t="1530036" d="233" wp="1" ws="1"><s p="1">O-S-H-U-S-​</s><s>​</s><s p="2">H-I!​</s></p>
+<p t="1530036" d="233" wp="1" ws="1"><s p="3">O-S-H-U-S-​</s><s>​</s><s p="4">H-I!​</s></p>
+<p t="1530269" d="267" wp="1" ws="1"><s p="1">O-S-H-U-S-H-​</s><s>​</s><s p="2">I!​</s></p>
+<p t="1530269" d="267" wp="1" ws="1"><s p="3">O-S-H-U-S-H-​</s><s>​</s><s p="4">I!​</s></p>
+<p t="1530536" d="1068" wp="1" ws="1" p="1">O-S-H-U-S-H-I!​</p>
+<p t="1531604" d="2302" wp="1" ws="1" p="1">I-I can&#39;t say it right...​</p>
+<p t="1533906" d="2436" wp="1" ws="1" p="1">I&#39;m bad at tongue twisters!​</p>
+<p t="1536342" d="1135" wp="1" ws="1" p="1">In any case,​</p>
+<p t="1537477" d="5238" wp="1" ws="1" p="1">thanks for watching today!​</p>
+<p t="1542715" d="4336" wp="1" ws="1" p="1">Have a good morning!​</p>
+<p t="1546819" d="22588" wp="16" ws="1" p="19">I love you doing your best
+even during vacation!​</p>
+<p t="1555595" d="2002" wp="1" ws="1" p="1">To everyone who&#39;ll be working,​</p>
+<p t="1557597" d="1968" wp="1" ws="1" p="1">take care of yourselves!​</p>
+<p t="1559565" d="3070" wp="1" ws="1" p="1">I will be sending​</p>
+<p t="1562635" d="1568" wp="1" ws="1" p="1">my warm love​</p>
+<p t="1564203" d="2002" wp="1" ws="1" p="1">into your minds​</p>
+<p t="1566205" d="1035" wp="1" ws="1" p="1">along with​</p>
+<p t="1567240" d="2934" wp="1" ws="1" p="1">my Morning Coco products!​</p>
+<p t="5000" d="100" wp="17" ws="3" p="20">​​</p>
+<p t="5000" d="100" wp="17" ws="3" p="21">​​</p>
+</body>
+</timedtext>

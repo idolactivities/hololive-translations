@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" b="1" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="2" b="1" fc="#000000" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="3" b="1" fc="#FFB266" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="4" b="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="5" b="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="6" b="1" fc="#FFB0F0" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="7" b="1" fc="#FD5A4B" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="8" b="1" fc="#CA80F5" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="9" b="1" fc="#0AFAF6" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="10" b="1" fc="#C7EFFD" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="11" b="1" fc="#FBF2A3" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="12" i="1" b="1" fc="#FBF2A3" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="13" b="1" fc="#FAD850" fo="254" bc="#000000" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="14" b="1" fc="#FFFC00" fo="254" bc="#FFFFFF" bo="186" ec="#000000" sz="100" et="3"/>
+<pen id="15" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="16" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="6" ap="6" ah="0" av="100"/>
+<wp id="9" ap="7" ah="38" av="71"/>
+<wp id="7" ap="7" ah="38" av="74"/>
+<wp id="2" ap="7" ah="38" av="78"/>
+<wp id="10" ap="7" ah="39" av="71"/>
+<wp id="8" ap="7" ah="39" av="76"/>
+<wp id="4" ap="7" ah="49" av="81"/>
+<wp id="1" ap="7" ah="50" av="100"/>
+<wp id="5" ap="7" ah="50" av="79"/>
+<wp id="3" ap="7" ah="50" av="86"/>
+<wp id="11" ap="7" ah="63" av="30"/>
+<wp id="12" ap="7" ah="63" av="59"/>
+<wp id="13" ap="7" ah="63" av="80"/>
+<wp id="14" ap="7" ah="63" av="97"/>
+<wp id="15" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="14221" d="3804" wp="1" ws="1" p="1">Good morning, everyone!​</p>
+<p t="18025" d="4605" wp="1" ws="1" p="1">A fantastic brand new morning is upon us!​</p>
+<p t="22630" d="2135" wp="1" ws="1" p="1">It&#39;s Wednesday!​</p>
+<p t="24765" d="5506" wp="1" ws="1" p="1">Which means we&#39;re already halfway through the week, aren&#39;t we?​</p>
+<p t="30271" d="5005" wp="1" ws="1" p="1">If we consider a week to be from Monday to Friday,​</p>
+<p t="35276" d="2167" wp="1" ws="1" p="1">we&#39;re right in the middle.​</p>
+<p t="38646" d="1935" wp="1" ws="1" p="1">There&#39;s only another half to go!​</p>
+<p t="40581" d="3337" wp="1" ws="1" p="1">For that reason... You all should...​</p>
+<p t="43918" d="434" wp="1" ws="1"><s p="1">Wake up! ​</s><s>​</s><s p="2">Wake up! Wake up! Wake up!​</s></p>
+<p t="43918" d="434" wp="1" ws="1"><s p="3">Wake up! ​</s><s>​</s><s p="4">Wake up! Wake up! Wake up!​</s></p>
+<p t="44352" d="467" wp="1" ws="1"><s p="1">Wake up! Wake up! ​</s><s>​</s><s p="2">Wake up! Wake up!​</s></p>
+<p t="44352" d="467" wp="1" ws="1"><s p="3">Wake up! Wake up! ​</s><s>​</s><s p="4">Wake up! Wake up!​</s></p>
+<p t="44819" d="433" wp="1" ws="1"><s p="1">Wake up! Wake up! Wake up! ​</s><s>​</s><s p="2">Wake up!​</s></p>
+<p t="44819" d="433" wp="1" ws="1"><s p="3">Wake up! Wake up! Wake up! ​</s><s>​</s><s p="4">Wake up!​</s></p>
+<p t="45252" d="868" wp="1" ws="1" p="1">Wake up! Wake up! Wake up! Wake up!​</p>
+<p t="46120" d="2703" wp="1" ws="1" p="1">If I were Miko-paisen, this would be the part you get slapped.​</p>
+<p t="48823" d="2669" wp="1" ws="1" p="1">Wake! Up! Wake! Up! Wake! Up!​</p>
+<p t="51492" d="1300" wp="1" ws="1" p="1">Wake up!​</p>
+<p t="53127" d="3270" wp="1" ws="1" p="1">How was it? How was it? Did you take the hits?​</p>
+<p t="56397" d="5604" wp="1" ws="1" p="1">Without further ado, let&#39;s take an energetic look at the news!​</p>
+<p t="63237" d="2770" wp="1" ws="1" p="1">Today, as always,​</p>
+<p t="66007" d="3103" wp="1" ws="1" p="1">my live stream restriction​</p>
+<p t="69110" d="3036" wp="1" ws="1" p="1">looms over my head.​</p>
+<p t="72146" d="3035" wp="1" ws="1" p="1">Good morning!​</p>
+<p t="77218" d="3203" wp="1" ws="1" p="1">Well, it&#39;s the usual deal.​</p>
+<p t="80421" d="1868" wp="1" ws="1" p="1">Let&#39;s leave it as &#39;the usual deal&#39;.​</p>
+<p t="82289" d="3471" wp="1" ws="1" p="1">You know, I&#39;d love having some comments here.​</p>
+<p t="85760" d="3637" wp="1" ws="1" p="1">Live streaming is an essential part, isn&#39;t it?​</p>
+<p t="89397" d="5138" wp="1" ws="1" p="1">I&#39;d really prefer to see your comments directly.​</p>
+<p t="94535" d="2601" wp="1" ws="1" p="1">With that said, here is today&#39;s news:​</p>
+<p t="97872" d="934" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="98806" d="5437" wp="1" ws="1" p="1">We have some Extremely Pathetic News today. Here!​</p>
+<p t="104478" d="49450" wp="2" ws="1" p="5">Ms. Shirakami Fubuki
+Oversleeps For The First Time, Misses Collab​</p>
+<p t="105679" d="1634" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="107748" d="2236" wp="1" ws="1" p="1">Ms. Shirakami Fubuki​</p>
+<p t="109984" d="3203" wp="1" ws="1" p="1">For the first time, she oversleeps​</p>
+<p t="113187" d="3070" wp="1" ws="1" p="1">and arrives late to a collab, says our report.​</p>
+<p t="116257" d="3937" wp="1" ws="1" p="1">This is a big fiasco.​</p>
+<p t="120194" d="1068" wp="1" ws="1" p="1">And to top it off,​</p>
+<p t="121262" d="3737" wp="1" ws="1" p="1">the plan was for Marine-paisen, Aqua-paisen,​</p>
+<p t="124999" d="4638" wp="1" ws="1" p="1">Okayu-paisen, and Fubuki-paisen to collab.​</p>
+<p t="129637" d="2935" wp="1" ws="1" p="1">It was supposed to be a four-person collab.​</p>
+<p t="133074" d="2569" wp="1" ws="1" p="1">But it was scheduled​</p>
+<p t="135643" d="3303" wp="1" ws="1" p="1">to happen on Ms. Fubuki&#39;s channel, who overslept.​</p>
+<p t="138946" d="4238" wp="1" ws="1" p="1">So while the other three were awake,
+they were unable to do anything.​</p>
+<p t="143184" d="3003" wp="1" ws="1" p="1">There isn&#39;t much recourse when something like this happens.​</p>
+<p t="146187" d="2435" wp="1" ws="1" p="1">Since they... Since they had no choice,​</p>
+<p t="148622" d="2670" wp="1" ws="1" p="1">they started an emergency stream​</p>
+<p t="151292" d="2636" wp="1" ws="1" p="1">on Aqua-paisen&#39;s channel​</p>
+<p t="153928" d="54119" wp="2" ws="1" p="5">Trio Reduced To Strangers Without Shirakami​</p>
+<p t="153928" d="3270" wp="1" ws="1" p="1">with just the three of them, as you can see.​</p>
+<p t="157198" d="2135" wp="1" ws="1" p="1">However! They were unable
+to keep the conversation going!​</p>
+<p t="159333" d="1500" wp="1" ws="1" p="1">This is...​</p>
+<p t="162269" d="1535" wp="1" ws="1" p="1">tough, isn&#39;t it?​</p>
+<p t="163804" d="3070" wp="1" ws="1" p="1">From what I&#39;ve heard,​</p>
+<p t="166874" d="3971" wp="1" ws="1" p="1">the only connection between these three is Fubuki-paisen.​</p>
+<p t="170845" d="1835" wp="1" ws="1" p="1">In other words, they&#39;re all like​</p>
+<p t="172680" d="4204" wp="1" ws="1" p="1">the friend of a friend,​</p>
+<p t="176884" d="1935" wp="1" ws="1" p="1">according to my sources.​</p>
+<p t="178819" d="1735" wp="1" ws="1" p="1">No way the conversation​</p>
+<p t="180554" d="3604" wp="1" ws="1" p="1">would ever flow there.​</p>
+<p t="184158" d="3804" wp="1" ws="1" p="1">And to top it off, Aqua-paisen,
+delegate for the socially awkward,​</p>
+<p t="187962" d="1768" wp="1" ws="1" p="1">is among them.​</p>
+<p t="189730" d="2269" wp="1" ws="1" p="1">This...​</p>
+<p t="191999" d="3971" wp="1" ws="1" p="1">was a pretty awful situation, or so I&#39;ve heard.​</p>
+<p t="195970" d="3570" wp="1" ws="1" p="1">If you can&#39;t imagine how it could have been​</p>
+<p t="199540" d="3770" wp="1" ws="1" p="1">have a sample of it now.​</p>
+<p t="203310" d="4737" wp="1" ws="1" p="1">Of this terribad atmosphere.​</p>
+<p t="208482" d="2770" wp="1" ws="1" p="6">Sorry for being a bad talker.​</p>
+<p t="211252" d="1833" wp="1" ws="1" p="6">So sorry.​</p>
+<p t="214088" d="967" wp="1" ws="1" p="7">You&#39;re so pure.​</p>
+<p t="215055" d="3037" wp="1" ws="1" p="7">You should never lose the purity of heart
+of wanting to catch rhino beetles.​</p>
+<p t="218092" d="2434" wp="1" ws="1" p="7">If we&#39;re talking battling, it has to be rhino beetles​</p>
+<p t="218092" d="4004" wp="3" ws="1" p="6">There&#39;s also spiders and cicadas and...​</p>
+<p t="222096" d="1400" wp="1" ws="1" p="8">Cicadas...?​</p>
+<p t="226133" d="3704" wp="1" ws="1" p="7">It&#39;s... nice, isn&#39;t it?
+To observe the fleeting life of the cicada.​</p>
+<p t="229837" d="2969" wp="1" ws="1" p="7">See its life... pass.​</p>
+<p t="231872" d="934" wp="3" ws="1" p="6">Sorry.​</p>
+<p t="232806" d="1167" wp="1" ws="1" p="6">Hm? Hm?​</p>
+<p t="234642" d="1600" wp="1" ws="1" p="8">Uuh, well then...​</p>
+<p t="236544" d="1635" wp="1" ws="1" p="8">Well, well...​</p>
+<p t="237044" d="1135" wp="3" ws="1" p="7">...Senpai!​</p>
+<p t="238179" d="1433" wp="1" ws="1" p="7">Senpai, please get in here!​</p>
+<p t="240381" d="1101" wp="1" ws="1" p="7">Senpai!​</p>
+<p t="241482" d="1601" wp="1" ws="1" p="6">Fubuki-chan!​</p>
+<p t="243083" d="2470" wp="1" ws="1" p="6">Save us!​</p>
+<p t="245553" d="1667" wp="3" ws="1" p="6">Save us!​</p>
+<p t="245553" d="3637" wp="1" ws="1" p="8">The Captain is talking about the Cicada&#39;s One-Week Lifespan!​</p>
+<p t="249190" d="2502" wp="1" ws="1" p="7">I&#39;m not!​</p>
+<p t="251692" d="834" wp="1" ws="1" p="7">It hurts...​</p>
+<p t="252526" d="2369" wp="1" ws="1" p="6">♪Born on Monday!♪​</p>
+<p t="254895" d="2601" wp="1" ws="1" p="6">♪Tuesday I something or other♪​</p>
+<p t="257565" d="1366" wp="1" ws="1" p="8">Now that&#39;s nostalgic!​</p>
+<p t="262203" d="1368" wp="1" ws="1" p="1">This is...​</p>
+<p t="263571" d="2669" wp="1" ws="1" p="1">You can tell there&#39;s​</p>
+<p t="266240" d="1902" wp="1" ws="1" p="1">an urgent demand for​</p>
+<p t="268142" d="3570" wp="1" ws="1" p="1">Fubuki-paisen&#39;s presence.​</p>
+<p t="271712" d="1401" wp="1" ws="1" p="1">This atmosphere...​</p>
+<p t="273113" d="3037" wp="1" ws="1" p="1">is quite heavy.​</p>
+<p t="276150" d="4137" wp="1" ws="1" p="1">Captain gives her all into making the conversation last.​</p>
+<p t="280287" d="1835" wp="1" ws="1" p="1">Aqua-paisen&#39;s jokes don&#39;t land.​</p>
+<p t="282122" d="1969" wp="1" ws="1" p="1">Okayu can&#39;t take any more of it.​</p>
+<p t="284091" d="1702" wp="1" ws="1" p="1">Isn&#39;t this...​</p>
+<p t="285793" d="3069" wp="1" ws="1" p="1">quite the rare atmosphere?​</p>
+<p t="288862" d="1102" wp="1" ws="1" p="1">If it were me...​</p>
+<p t="289964" d="3236" wp="1" ws="1" p="1">If I were there, I wouldn&#39;t be able to endure it.​</p>
+<p t="293200" d="2101" wp="1" ws="1" p="1">But watching it from outside...​</p>
+<p t="295869" d="1267" wp="1" ws="1" p="1">is pretty fun, isn&#39;t it?​</p>
+<p t="299273" d="1134" wp="1" ws="1" p="1">But well...​</p>
+<p t="300407" d="701" wp="1" ws="1" p="1">Even so...​</p>
+<p t="301108" d="868" wp="1" ws="1" p="1">However...​</p>
+<p t="301976" d="2102" wp="1" ws="1" p="1">Even if the atmosphere​</p>
+<p t="304078" d="1701" wp="1" ws="1" p="1">got a little worse with time​</p>
+<p t="305779" d="2603" wp="1" ws="1" p="1">The chatty champ did it, as expected of her.​</p>
+<p t="308382" d="59226" wp="2" ws="1" p="5">Captain Uses Unemployment Icebreakers​</p>
+<p t="309183" d="1568" wp="1" ws="1" p="1">Captain Marine, I mean.​</p>
+<p t="310751" d="1768" wp="1" ws="1" p="1">When it got too bad​</p>
+<p t="312519" d="4872" wp="1" ws="1" p="1">Captain Marine pulled out all her unemployment icebreakers​</p>
+<p t="317391" d="1734" wp="1" ws="1" p="1">And while she wore herself out,​</p>
+<p t="319627" d="3303" wp="1" ws="1" p="1">they managed to last until Ms.Fubuki arrived.​</p>
+<p t="322930" d="2936" wp="1" ws="1" p="1">This is... a must-see specifically for Marine-paisen.​</p>
+<p t="325866" d="4437" wp="1" ws="1" p="1">Everyone should go watch her exert herself.​</p>
+<p t="330738" d="734" wp="1" ws="1" p="1">I mean...​</p>
+<p t="331472" d="4636" wp="1" ws="1" p="1">Marine-paisen laid bare her whole past there.​</p>
+<p t="336810" d="1802" wp="1" ws="1" p="1">The unemployment icebreakers,​</p>
+<p t="338612" d="2870" wp="1" ws="1" p="1">once used, are pretty​</p>
+<p t="341482" d="3036" wp="1" ws="1" p="1">hard to use again. That&#39;s how talking about the past is.​</p>
+<p t="344518" d="2703" wp="1" ws="1" p="1">This is... fantastic, isn&#39;t it?​</p>
+<p t="347221" d="2135" wp="1" ws="1" p="1">Gotta hand it to the monster of conversational skills.​</p>
+<p t="349356" d="3771" wp="1" ws="1" p="1">That&#39;s what Marine-paisen is, it shows.​</p>
+<p t="353127" d="4638" wp="1" ws="1" p="1">This wouldn&#39;t have happened had Fubuki-paisen woken up.​</p>
+<p t="357765" d="5138" wp="1" ws="1" p="1">But she woke up halfway through this stream.​</p>
+<p t="362903" d="4705" wp="1" ws="1" p="1">And regarding the scheduled stream...​</p>
+<p t="367608" d="46113" wp="2" ws="1" p="5">Ms. Shirakami Wakes Up
+Scheduled Stream Postponed​</p>
+<p t="368475" d="1135" wp="1" ws="1" p="1">This one.​</p>
+<p t="369610" d="2035" wp="1" ws="1" p="1">It&#39;s postponed.​</p>
+<p t="371645" d="4138" wp="1" ws="1" p="1">The &quot;Absolutely Safe Holo Railway&quot;​</p>
+<p t="375783" d="1935" wp="1" ws="1" p="1">This stream​</p>
+<p t="377718" d="1066" wp="1" ws="1" p="1">was postponed.​</p>
+<p t="379620" d="1635" wp="1" ws="1" p="1">According to my info,​</p>
+<p t="381255" d="3403" wp="1" ws="1" p="1">the new schedule is on the 24th​</p>
+<p t="384658" d="2369" wp="1" ws="1" p="1">at 9pm, it seems!​</p>
+<p t="387027" d="3103" wp="1" ws="1" p="1">Next time, for sure,​</p>
+<p t="390130" d="2069" wp="1" ws="1" p="1">they won&#39;t be letting you go to bed early.​</p>
+<p t="392199" d="2469" wp="1" ws="1" p="1">Get hyped for it!​</p>
+<p t="394668" d="2436" wp="1" ws="1" p="1">With that said...​</p>
+<p t="397104" d="2236" wp="1" ws="1" p="1">Recently...​</p>
+<p t="399340" d="3970" wp="1" ws="1" p="1">Maybe you&#39;ve noticed it...​</p>
+<p t="403310" d="2136" wp="1" ws="1" p="1">These days​</p>
+<p t="405446" d="2435" wp="1" ws="1" p="1">hololive members have​</p>
+<p t="407881" d="2269" wp="1" ws="1" p="1">much too often​</p>
+<p t="410150" d="3571" wp="1" ws="1" p="1">been oversleeping, don&#39;t you think?​</p>
+<p t="413721" d="80447" wp="2" ws="1" p="9">hololive Turns Into ZZZlive​</p>
+<p t="413721" d="1101" wp="1" ws="1" p="1">It&#39;s turned to this.​</p>
+<p t="414822" d="2569" wp="1" ws="1" p="1">Rather than hololive, it&#39;s turning into zzzzlive.​</p>
+<p t="417391" d="3102" wp="1" ws="1" p="1">Don&#39;t you think so too?​</p>
+<p t="420928" d="2869" wp="1" ws="1" p="1">These are just the ones I know.​</p>
+<p t="423797" d="2603" wp="1" ws="1" p="1">There have been more, though.​</p>
+<p t="426400" d="2436" wp="1" ws="1" p="1">They&#39;re really catching those Z&#39;s​</p>
+<p t="428836" d="2469" wp="1" ws="1" p="1">And if they&#39;re catching Z&#39;s...​</p>
+<p t="431305" d="2002" wp="1" ws="1" p="1">It means they&#39;re sleepy.​</p>
+<p t="433307" d="3670" wp="1" ws="1" p="1">Now that people who don&#39;t have to go work...​</p>
+<p t="436977" d="2269" wp="1" ws="1" p="1">go to school, and such,​</p>
+<p t="439246" d="3237" wp="1" ws="1" p="1">are increasing in number,​</p>
+<p t="442483" d="3270" wp="1" ws="1" p="1">the demand for YouTube content​</p>
+<p t="445753" d="3370" wp="1" ws="1" p="1">is also greatly increasing.​</p>
+<p t="449123" d="2168" wp="1" ws="1" p="1">And at times like these​</p>
+<p t="451291" d="2703" wp="1" ws="1" p="1">what people end up seeking​</p>
+<p t="453994" d="4471" wp="1" ws="1" p="1">is entertainment, such as what
+we hololive members provide.​</p>
+<p t="458465" d="2436" wp="1" ws="1" p="1">They seek streams​</p>
+<p t="460901" d="4338" wp="1" ws="1" p="1">in order to cheer up, have some fun, so we, too, end up​</p>
+<p t="465239" d="2903" wp="1" ws="1" p="1">working harder than usual. Well, as for me...​</p>
+<p t="468142" d="3503" wp="1" ws="1" p="1">As you know, even if I want to work hard, I can&#39;t.​</p>
+<p t="471645" d="701" wp="1" ws="1" p="1">Oh well.​</p>
+<p t="472346" d="1935" wp="1" ws="1" p="1">Either way, due to this,​</p>
+<p t="474281" d="4438" wp="1" ws="1" p="1">hololive members may be overdoing it a bit by sleeping less and less.​</p>
+<p t="478719" d="2269" wp="1" ws="1" p="1">For your sake, they may want to do their best.​</p>
+<p t="480988" d="3770" wp="1" ws="1" p="1">Although it&#39;s also possible that their alarm clocks broke.​</p>
+<p t="484758" d="2034" wp="1" ws="1" p="1">Who knows.​</p>
+<p t="487694" d="2670" wp="1" ws="1" p="1">zzzzlive means one thing, though​</p>
+<p t="490364" d="1802" wp="1" ws="1" p="1">and it&#39;s gotta be this!​</p>
+<p t="492166" d="2002" wp="1" ws="1" p="1">According to the experts:​</p>
+<p t="494168" d="63028" wp="2" ws="1" p="5">We need to build the hololive house ASAP​</p>
+<p t="495102" d="2302" wp="1" ws="1" p="1">&quot;We need to build​</p>
+<p t="497404" d="2536" wp="1" ws="1" p="1">the hololive house ASAP.&quot;​</p>
+<p t="499940" d="734" wp="1" ws="1" p="1">Yup.​</p>
+<p t="500674" d="2836" wp="1" ws="1" p="1">A house for us to live in.​</p>
+<p t="503510" d="4872" wp="1" ws="1" p="1">A house where all hololive members live together.​</p>
+<p t="508382" d="3370" wp="1" ws="1" p="1">For those who aren&#39;t aware, here&#39;s an explanation:​</p>
+<p t="511752" d="3570" wp="1" ws="1" p="1">Ms. Kiryu C.Co&#39;s profits from Super Chats​</p>
+<p t="515322" d="3103" wp="1" ws="1" p="1">and from her hololive activities​</p>
+<p t="518425" d="2236" wp="1" ws="1" p="1">are entirely directed to a fund​</p>
+<p t="520661" d="3470" wp="1" ws="1" p="1">dedicated to building the hololive house,​</p>
+<p t="524131" d="2903" wp="1" ws="1" p="1">&quot;a house for hololive members​</p>
+<p t="527034" d="2869" wp="1" ws="1" p="1">to live in together&quot;,​</p>
+<p t="529903" d="1867" wp="1" ws="1" p="1">she has stated.​</p>
+<p t="532639" d="2636" wp="1" ws="1" p="1">If everyone lived together,​</p>
+<p t="535275" d="434" wp="1" ws="1" p="1">&quot;Oh!​</p>
+<p t="535709" d="2970" wp="1" ws="1" p="1">Ms. Fubuki fell asleep! I&#39;ll wake her up!&quot;​</p>
+<p t="538679" d="1935" wp="1" ws="1" p="1">It&#39;d be easily possible for us to do this.​</p>
+<p t="540614" d="1668" wp="1" ws="1" p="1">I&#39;m sure this means​</p>
+<p t="542282" d="2736" wp="1" ws="1" p="1">the house project will hasten.​</p>
+<p t="545018" d="2802" wp="1" ws="1" p="1">We just gotta build it.​</p>
+<p t="548188" d="3470" wp="1" ws="1" p="1">Now, onto the next news report.​</p>
+<p t="551658" d="1368" wp="1" ws="1" p="1">It&#39;s another​</p>
+<p t="553026" d="2802" wp="1" ws="1" p="1">Pathetic News report.​</p>
+<p t="556430" d="766" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="557998" d="1935" wp="1" ws="1" p="1">Look at this loser!​</p>
+<p t="559933" d="4538" wp="1" ws="1" p="1">Ms. Kiryu C.Co&#39;s Ultimate Boyfriend​</p>
+<p t="564471" d="4538" wp="1" ws="1" p="1">Ms. Murasaki Shion, who coined herself as the Ultimate Boyfriend.​</p>
+<p t="569009" d="3937" wp="1" ws="1" p="1">This girl, while a self-proclaimed Ultimate Boyfriend,​</p>
+<p t="572946" d="2536" wp="1" ws="1" p="1">according to news previously reported on​</p>
+<p t="575482" d="3637" wp="1" ws="1" p="1">she&#39;s been exposed for​</p>
+<p t="579119" d="2603" wp="1" ws="1" p="1">spreading love all over, and it&#39;s become evident​</p>
+<p t="581722" d="5071" wp="1" ws="1" p="1">she&#39;s just Ms. Cheeky Brat.​</p>
+<p t="586793" d="1367" wp="1" ws="1" p="1">This happened...​</p>
+<p t="588862" d="4538" wp="1" ws="1" p="1">on April 20th, on this very news program.​</p>
+<p t="593400" d="3403" wp="1" ws="1" p="1">She cheated on me with Marine-paisen.​</p>
+<p t="596803" d="1936" wp="1" ws="1" p="1">Blatantly, openly, clearly!​</p>
+<p t="598739" d="1501" wp="1" ws="1" p="1">And was caught​</p>
+<p t="600240" d="3170" wp="1" ws="1" p="1">red-handed while at it.​</p>
+<p t="603410" d="1235" wp="1" ws="1" p="1">On this report,​</p>
+<p t="604645" d="3803" wp="1" ws="1" p="1">I properly hey hey hey&#39;d her​</p>
+<p t="608448" d="4504" wp="1" ws="1" p="1">and as a response​</p>
+<p t="614588" d="4972" wp="1" ws="1" p="1">Ms. Cheeky Brat left a note​</p>
+<p t="619560" d="1568" wp="1" ws="1" p="1">in the comment section​</p>
+<p t="621128" d="4171" wp="1" ws="1" p="1">of the April 20th video. And would you look at that...​</p>
+<p t="625299" d="84916" wp="2" ws="1" p="5">YouTube AI Flags Murasaki as Spam​</p>
+<p t="626233" d="1368" wp="1" ws="1" p="1">The YouTube AI​</p>
+<p t="627601" d="4071" wp="1" ws="1" p="1">considered it to be spam, says our report.​</p>
+<p t="631672" d="1134" wp="1" ws="1" p="1">Look at it, guys.​</p>
+<p t="632806" d="667" wp="1" ws="1" p="1">This is like...​</p>
+<p t="633473" d="3771" wp="1" ws="1" p="1">something like a moderating screen.​</p>
+<p t="637244" d="3103" wp="1" ws="1" p="1">Here we can watch over our videos—​</p>
+<p t="640347" d="3168" wp="1" ws="1" p="1">The comments left on our videos—​</p>
+<p t="643984" d="2035" wp="1" ws="1" p="1">They&#39;re visible here,​</p>
+<p t="646019" d="3537" wp="1" ws="1" p="1">including ones that might have some risky words in them.​</p>
+<p t="649556" d="901" wp="1" ws="1" p="1">That said,​</p>
+<p t="650457" d="5139" wp="1" ws="1" p="1">in the middle, there are the &quot;held for review&quot; comments.​</p>
+<p t="655596" d="1901" wp="1" ws="1" p="1">And next to that, the ones YouTube itself​</p>
+<p t="657497" d="2436" wp="1" ws="1" p="1">considers to be possible spam.​</p>
+<p t="659933" d="2736" wp="1" ws="1" p="1">These are the &quot;likely spam&quot; comments.​</p>
+<p t="662669" d="3137" wp="1" ws="1" p="1">It marks them as spam autonomously.​</p>
+<p t="665806" d="3703" wp="1" ws="1" p="1">Then we look at these​</p>
+<p t="669509" d="1702" wp="1" ws="1" p="1">and decide if we publish them.​</p>
+<p t="671211" d="1935" wp="1" ws="1" p="1">&quot;Checked, checked, trash, trash.​</p>
+<p t="673146" d="1335" wp="1" ws="1" p="1">This one is an insult,​</p>
+<p t="674481" d="1001" wp="1" ws="1" p="1">into the trash.&quot;​</p>
+<p t="675482" d="2067" wp="1" ws="1" p="1">That&#39;s about how it goes.​</p>
+<p t="677951" d="5039" wp="1" ws="1" p="1">The one categorizing them this way is, of course​</p>
+<p t="682990" d="2469" wp="1" ws="1" p="1">the YouTube AI, however...​</p>
+<p t="685459" d="2467" wp="1" ws="1" p="1">Here we can see Ms. Cheeky Brat&#39;s​</p>
+<p t="688328" d="3003" wp="1" ws="1" p="1">&quot;This Invincible Boyfriend belongs to the Chairman alone♥&quot;​</p>
+<p t="691331" d="3470" wp="1" ws="1" p="1">comment is most likely spam.​</p>
+<p t="694801" d="968" wp="1" ws="1" p="1">Which means...​</p>
+<p t="695769" d="3070" wp="1" ws="1" p="1">that it is being spammed.​</p>
+<p t="698839" d="2402" wp="1" ws="1" p="1">You guys get it?​</p>
+<p t="701241" d="2468" wp="1" ws="1" p="1">You get what we can learn from this?​</p>
+<p t="704244" d="4171" wp="1" ws="1" p="1">It&#39;s exactly what you&#39;re thinking.​</p>
+<p t="708415" d="1800" wp="1" ws="1" p="1">And as for the experts:​</p>
+<p t="711184" d="3270" wp="1" ws="1" p="1">&quot;She&#39;s using the same message to spread her love around.​</p>
+<p t="714454" d="2670" wp="1" ws="1" p="1">Undeniably a cheeky brat.&quot;​</p>
+<p t="717124" d="2802" wp="1" ws="1" p="1">She&#39;s just copying this message​</p>
+<p t="719926" d="2535" wp="1" ws="1" p="1">and pasting it around, isn&#39;t she?​</p>
+<p t="722896" d="1401" wp="1" ws="1" p="1">That&#39;s what it means, doesn&#39;t it?​</p>
+<p t="724297" d="1135" wp="1" ws="1" p="1">That&#39;s why...! That&#39;s why!​</p>
+<p t="725432" d="1368" wp="1" ws="1" p="1">It ends up like this.​</p>
+<p t="726800" d="1835" wp="1" ws="1" p="1">That&#39;s why it&#39;s treated the same as flaming.​</p>
+<p t="728635" d="1268" wp="1" ws="1" p="1">Because you go around pasting,​</p>
+<p t="729903" d="2368" wp="1" ws="1" p="1">&quot;I love you&quot; and &quot;you&#39;re the only one&quot; everywhere.​</p>
+<p t="733607" d="2903" wp="1" ws="1" p="1">This is no longer forgivable.​</p>
+<p t="736510" d="2636" wp="1" ws="1" p="1">Truly nothing but a cheeky brat seductress.​</p>
+<p t="739146" d="3103" wp="1" ws="1" p="1">An alluring, cheeky, sh*tty, sh*tty, sh*tty brat.​</p>
+<p t="742249" d="1902" wp="1" ws="1" p="1">There&#39;s no other way​</p>
+<p t="744151" d="2469" wp="1" ws="1" p="1">for us to put it.​</p>
+<p t="746620" d="3702" wp="1" ws="1" p="1">Ms. Murasaki Shion&#39;s response...​</p>
+<p t="751191" d="1700" wp="1" ws="1" p="1">Ms. Murasaki S.On&#39;s...​</p>
+<p t="753627" d="3303" wp="1" ws="1" p="1">We&#39;ll be waiting for her response.​</p>
+<p t="756930" d="2201" wp="1" ws="1" p="1">Let&#39;s go into commercials now.​</p>
+<p t="759833" d="534" wp="1" ws="1" p="1">Oh, whoops.​</p>
+<p t="760367" d="2402" wp="1" ws="1" p="1">The Congratulations Bot manifested itself​</p>
+<p t="762769" d="1300" wp="1" ws="1" p="1">before the commercials.​</p>
+<p t="764404" d="3570" wp="1" ws="1" p="1">We&#39;ll report on this after the ad break!​</p>
+<p t="767974" d="4705" wp="4" ws="1" p="5">Friends visit
+this cold prison cell...​</p>
+<p t="772679" d="5472" wp="5" ws="1" p="5">It is here where Kiryu Coco
+learns the true warmth of hololive...​</p>
+<p t="778151" d="38671" wp="6" ws="2" p="5">Visitor:
+Shirakami Fubuki (arrested after visit for drug possession)​</p>
+<p t="778752" d="2169" wp="3" ws="1" p="10">Chairman Coco! How are you?​</p>
+<p t="780921" d="2135" wp="3" ws="1" p="10">I know it&#39;s gonna take a while
+before they let you out​</p>
+<p t="783056" d="2403" wp="3" ws="1" p="10">but I really need a new fix of Morning Coco.​</p>
+<p t="785459" d="2335" wp="3" ws="1" p="10">Morning Coco Crackers are great and all​</p>
+<p t="787794" d="2336" wp="3" ws="1" p="10">but I might lose my mind​</p>
+<p t="790130" d="1034" wp="3" ws="1" p="10">if we don&#39;t get a new product―​</p>
+<p t="791164" d="1635" wp="3" ws="1" p="10">Ahh, I can feel it―​</p>
+<p t="792799" d="1769" wp="3" ws="1" p="10">the lack of new Morning Coco in my veins!​</p>
+<p t="794568" d="2202" wp="3" ws="1" p="10">I hope they release you soon,​</p>
+<p t="796770" d="2035" wp="3" ws="1" p="10">so you could start developing more Morning Coco!​</p>
+<p t="798805" d="1602" wp="3" ws="1" p="10">Come to think of it,​</p>
+<p t="800407" d="2602" wp="3" ws="1" p="10">it&#39;s YouTube&#39;s fault
+for putting you in this mess anyway.​</p>
+<p t="803009" d="1969" wp="3" ws="1" p="10">Maybe I should drop a​</p>
+<p t="804978" d="1802" wp="3" ws="1" p="10">&quot;f*ck you&quot; at their doorstep.​</p>
+<p t="806780" d="1868" wp="3" ws="1" p="10">If this keeps up,​</p>
+<p t="808648" d="1267" wp="3" ws="1" p="10">I don&#39;t think I&#39;d last any longer...​</p>
+<p t="810383" d="735" wp="3" ws="1" p="10">Uh, ah!​</p>
+<p t="811118" d="867" wp="3" ws="1" p="10">Oh, I&#39;m sorry!​</p>
+<p t="811985" d="2136" wp="3" ws="1" p="10">I guess visiting hours are up!​</p>
+<p t="814121" d="2067" wp="3" ws="1" p="10">I&#39;ll come again, Chairman!​</p>
+<p t="820093" d="65397" wp="6" ws="2" p="5">Visitors:
+Sakura Miko (in rehab), Tsunomaki Watame​</p>
+<p t="820360" d="1535" wp="3" ws="1" p="11">It&#39;s been a while...​</p>
+<p t="821895" d="900" wp="3" ws="1" p="11">Partner.​</p>
+<p t="823797" d="1600" wp="3" ws="1" p="11">Are you doing okay?​</p>
+<p t="827033" d="1601" wp="3" ws="1" p="11">What happened to you?​</p>
+<p t="829703" d="1200" wp="3" ws="1" p="11">Did they...​</p>
+<p t="831338" d="1768" wp="3" ws="1" p="11">make you sing​</p>
+<p t="833106" d="1534" wp="3" ws="1" p="11">about Morning Coco?​</p>
+<p t="835275" d="934" wp="3" ws="1" p="11">Well...​</p>
+<p t="836209" d="3803" wp="3" ws="1" p="11">I had nothing to do with it
+so I was safe from arrest, but...​</p>
+<p t="841581" d="2002" wp="3" ws="1" p="11">Oh, oh right.​</p>
+<p t="843583" d="2703" wp="3" ws="1" p="11">During the interrogation,​</p>
+<p t="846286" d="1934" wp="3" ws="1" p="11">did they serve katsudon?​</p>
+<p t="849189" d="2169" wp="3" ws="1" p="11">Was it good?​</p>
+<p t="851358" d="1467" wp="3" ws="1" p="11">Where did they buy it?​</p>
+<p t="853460" d="1802" wp="3" ws="1" p="11">I-It was good?​</p>
+<p t="855262" d="1234" wp="3" ws="1" p="11">Wh-Where did the―​</p>
+<p t="856496" d="1534" wp="3" ws="1" p="11">Where did they buy it?​</p>
+<p t="858999" d="1201" wp="3" ws="1" p="11">Come on.​</p>
+<p t="860200" d="834" wp="3" ws="1" p="11">Where did―​</p>
+<p t="861034" d="1568" wp="3" ws="1" p="11">I-I only came he―​</p>
+<p t="862602" d="467" wp="3" ws="1" p="11">Ah, uh,​</p>
+<p t="863069" d="2002" wp="3" ws="1" p="11">I didn&#39;t come here to ask about that―​</p>
+<p t="865071" d="1368" wp="3" ws="1" p="11">Uh, ah―​</p>
+<p t="866439" d="401" wp="3" ws="1" p="11">Oh―​</p>
+<p t="866840" d="2302" wp="3" ws="1"><s p="11">Oh, it&#39;s from ​</s><s>​</s><s p="12">that ​</s><s p="11">store!​</s></p>
+<p t="869142" d="467" wp="3" ws="1" p="11">Ah!​</p>
+<p t="869609" d="1769" wp="3" ws="1" p="11">I haven&#39;t tried it yet!​</p>
+<p t="871378" d="2801" wp="3" ws="1" p="11">I should go check it out...​</p>
+<p t="874614" d="1767" wp="3" ws="1" p="11">Like right now...​</p>
+<p t="876983" d="1836" wp="3" ws="1" p="11">Ah, I&#39;ll, I&#39;ll come again, okay?​</p>
+<p t="878819" d="1101" wp="3" ws="1" p="11">Stay safe​</p>
+<p t="879920" d="1199" wp="3" ws="1" p="11">and take care.​</p>
+<p t="882088" d="2835" wp="3" ws="1" p="11">We&#39;ll be waiting on the other side.​</p>
+<p t="887761" d="3437" wp="3" ws="1" p="13">Coco-chan, all locked up in there!​</p>
+<p t="891198" d="2969" wp="3" ws="1" p="13">Are you alright, you poor thing?​</p>
+<p t="891231" d="56121" wp="6" ws="2" p="5">Visitor:
+Inugami Korone (placed under investigation for finger hoarding)​</p>
+<p t="894167" d="2803" wp="3" ws="1" p="13">This might be a bit inappropriate,​</p>
+<p t="896970" d="1201" wp="3" ws="1" p="13">but can we, uhh,​</p>
+<p t="898171" d="2903" wp="3" ws="1" p="13">play pretend-interrogation?​</p>
+<p t="901074" d="1268" wp="3" ws="1" p="13">Oh, you&#39;re fine with that?​</p>
+<p t="902342" d="1201" wp="3" ws="1" p="13">Thank you!​</p>
+<p t="903543" d="1735" wp="3" ws="1" p="13">I&#39;ll be the police chief, okay?​</p>
+<p t="905278" d="434" wp="3" ws="1" p="13">Let&#39;s go.​</p>
+<p t="905712" d="567" wp="3" ws="1" p="13">*ahem*​</p>
+<p t="906279" d="1268" wp="3" ws="1" p="13">Hold on, hold on.​</p>
+<p t="907547" d="1468" wp="3" ws="1" p="13">Gotta bring this out.​</p>
+<p t="909015" d="901" wp="3" ws="1" p="13">And rotate―​</p>
+<p t="909916" d="2937" wp="3" ws="1" p="13">rotate the kettle―​</p>
+<p t="912853" d="1701" wp="3" ws="1" p="13">counterclockwise―​</p>
+<p t="914554" d="1167" wp="3" ws="1" p="13">Ah yes, yes, yes.​</p>
+<p t="916122" d="1202" wp="3" ws="1" p="13">Okay, let&#39;s go.​</p>
+<p t="917324" d="734" wp="3" ws="1" p="13">Let&#39;s start.​</p>
+<p t="918058" d="1034" wp="3" ws="1" p="13">Oh?​</p>
+<p t="919092" d="3070" wp="3" ws="1" p="13">Aren&#39;t you from that &quot;hololive&quot; group?​</p>
+<p t="922162" d="2102" wp="3" ws="1" p="13">Kiryu Coco, was it?​</p>
+<p t="924264" d="2603" wp="3" ws="1" p="13">Oh my, so you were thrown in here.​</p>
+<p t="926867" d="1835" wp="3" ws="1" p="13">How strange.​</p>
+<p t="928702" d="2634" wp="3" ws="1" p="13">I heard about your livestream restitu―​</p>
+<p t="931938" d="2102" wp="3" ws="1" p="13">livestream restru― stri―​</p>
+<p t="934040" d="1334" wp="3" ws="1" p="13">resta― st―​</p>
+<p t="936076" d="1767" wp="3" ws="1" p="13">*laughing Korone*​</p>
+<p t="938912" d="1702" wp="3" ws="1" p="13">I can&#39;t, this role is too hard!​</p>
+<p t="940614" d="2302" wp="3" ws="1" p="13">Coco-chan, I&#39;ll be going now! Bye-bye!​</p>
+<p t="942916" d="1268" wp="3" ws="1" p="13">Let&#39;s do this again!​</p>
+<p t="944184" d="1900" wp="3" ws="1" p="13">*giggling Korone*​</p>
+<p t="961234" d="59792" wp="7" ws="1" p="14">Congratulations Spambot Analyzed​</p>
+<p t="962068" d="1635" wp="1" ws="1" p="1">Ahh...​</p>
+<p t="963703" d="4038" wp="1" ws="1" p="1">That wasn&#39;t a commerical.
+They just came to visit.​</p>
+<p t="967741" d="3570" wp="1" ws="1" p="1">Everyone was just fooling around,​</p>
+<p t="971311" d="3570" wp="1" ws="1" p="1">and some of them were dragged off by the police...​</p>
+<p t="974881" d="1268" wp="1" ws="1" p="1">Let&#39;s put that aside.​</p>
+<p t="976149" d="1902" wp="1" ws="1" p="1">Onto the next report!​</p>
+<p t="978051" d="534" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="978585" d="2269" wp="1" ws="1" p="1">A report from the viewer-commentators!​</p>
+<p t="980854" d="1768" wp="1" ws="1" p="1">Viewers have observed that​</p>
+<p t="982622" d="2369" wp="1" ws="1" p="1">the Congratulations spambot​</p>
+<p t="984991" d="2369" wp="1" ws="1" p="1">exhibits predictable behavior!​</p>
+<p t="987360" d="1702" wp="1" ws="1" p="1">This is huge!​</p>
+<p t="989062" d="2269" wp="1" ws="1" p="1">The spambot follows a pattern?​</p>
+<p t="991331" d="2803" wp="1" ws="1" p="1">Let&#39;s take a look at the report.​</p>
+<p t="994134" d="834" wp="1" ws="1" p="1">Why,​</p>
+<p t="994968" d="2202" wp="1" ws="1" p="1">it seems that​</p>
+<p t="997170" d="2669" wp="1" ws="1" p="1">these exclamation marks,​</p>
+<p t="999839" d="2937" wp="1" ws="1" p="1">the number of these exclamation marks,​</p>
+<p t="1002776" d="433" wp="1" ws="1" p="1">uh,​</p>
+<p t="1003209" d="2803" wp="1" ws="1" p="1">are determined by the milestones​</p>
+<p t="1006012" d="2269" wp="1" ws="1" p="1">that a person hits​</p>
+<p t="1008281" d="1935" wp="1" ws="1" p="1">once they reach​</p>
+<p t="1010216" d="2401" wp="1" ws="1" p="1">100k subscribers.​</p>
+<p t="1012986" d="2069" wp="1" ws="1" p="1">How does this work?​</p>
+<p t="1015055" d="2135" wp="1" ws="1" p="1">Let&#39;s take a closer look.​</p>
+<p t="1017190" d="1801" wp="1" ws="1" p="1">Let&#39;s examine the cases.​</p>
+<p t="1019626" d="1902" wp="1" ws="1" p="1">Take our first example:​</p>
+<p t="1021528" d="3635" wp="1" ws="1" p="1">Ms. Tokoyami Towa,
+upon reaching 100k subscribers,​</p>
+<p t="1025699" d="1735" wp="1" ws="1" p="1">was given​</p>
+<p t="1027434" d="1468" wp="1" ws="1" p="1">one exclamation mark by the spambot.​</p>
+<p t="1028902" d="3270" wp="1" ws="1" p="1">Could it be one exclamation mark per 100k subscribers?​</p>
+<p t="1032172" d="1500" wp="1" ws="1" p="1">Next example:​</p>
+<p t="1035141" d="3504" wp="1" ws="1" p="1">Ms. Murasaki Shion,
+upon reaching 200k subscribers,​</p>
+<p t="1038645" d="1001" wp="1" ws="1" p="1">was given​</p>
+<p t="1039646" d="1335" wp="1" ws="1" p="1">two, it seems.​</p>
+<p t="1040981" d="1134" wp="1" ws="1" p="1">She was given two.​</p>
+<p t="1042115" d="1468" wp="1" ws="1" p="1">Now then,​</p>
+<p t="1043583" d="1201" wp="1" ws="1" p="1">onto our last example.​</p>
+<p t="1044784" d="601" wp="1" ws="1" p="1">Oh?​</p>
+<p t="1045385" d="1735" wp="1" ws="1" p="1">Ms. Shirakami Fubuki​</p>
+<p t="1047120" d="3003" wp="1" ws="1" p="1">received this amount:​</p>
+<p t="1050123" d="1768" wp="1" ws="1" p="1">One, two, three, four, five.​</p>
+<p t="1051891" d="2303" wp="1" ws="1" p="1">She received five marks,
+and furthermore,​</p>
+<p t="1054194" d="1735" wp="1" ws="1" p="1">count the number​</p>
+<p t="1055929" d="2002" wp="1" ws="1" p="1">of marks she received​</p>
+<p t="1057931" d="4071" wp="1" ws="1" p="1">upon reaching 1M subscribers on bilibili.​</p>
+<p t="1062002" d="2469" wp="1" ws="1" p="1">Uno, dos, tres, cuatro, cinco,
+seis, siete, ocho, nueve, diez!​</p>
+<p t="1064471" d="867" wp="1" ws="1" p="1">*GASP*​</p>
+<p t="1065338" d="1402" wp="1" ws="1" p="1">Ten marks!​</p>
+<p t="1066740" d="3103" wp="1" ws="1" p="1">Did we... did we finally...​</p>
+<p t="1069843" d="1234" wp="1" ws="1" p="1">Did we finally​</p>
+<p t="1071077" d="2536" wp="1" ws="1" p="1">crack the code?​</p>
+<p t="1073613" d="1034" wp="1" ws="1" p="1">Can we say​</p>
+<p t="1074647" d="3070" wp="1" ws="1" p="1">for certain that we&#39;ve found the method​</p>
+<p t="1077717" d="2503" wp="1" ws="1" p="1">to the spambot&#39;s madness?​</p>
+<p t="1080220" d="867" wp="1" ws="1" p="1">Of course,​</p>
+<p t="1081087" d="301" wp="1" ws="1" p="1">well,​</p>
+<p t="1081388" d="2402" wp="1" ws="1" p="1">some people might say​</p>
+<p t="1083790" d="2101" wp="1" ws="1" p="1">&quot;So what?&quot;​</p>
+<p t="1085992" d="22990" wp="8" ws="1" p="5">Counter Bots with Drama Queens​</p>
+<p t="1086626" d="2603" wp="1" ws="1" p="1">What can we do about it?​</p>
+<p t="1089229" d="3670" wp="1" ws="1" p="1">We can counter by acting upset!​</p>
+<p t="1092899" d="734" wp="1" ws="1" p="1">In other words,​</p>
+<p t="1093633" d="1502" wp="1" ws="1" p="1">to put it simply,​</p>
+<p t="1095135" d="667" wp="1" ws="1" p="1">most of us​</p>
+<p t="1095802" d="2269" wp="1" ws="1" p="1">don&#39;t like being pestered​</p>
+<p t="1098071" d="1969" wp="1" ws="1" p="1">by spambots, right?​</p>
+<p t="1100040" d="3403" wp="1" ws="1" p="1">&quot;You keep on treating me the same way...&quot;​</p>
+<p t="1103443" d="1401" wp="1" ws="1" p="1">&quot;Don&#39;t... Don&#39;t...&quot;​</p>
+<p t="1104844" d="1835" wp="1" ws="1" p="1">&quot;Don&#39;t you love me anymore?&quot;​</p>
+<p t="1106679" d="1202" wp="1" ws="1" p="1">We counter the bot​</p>
+<p t="1107881" d="1935" wp="1" ws="1" p="1">with that mindset.​</p>
+<p t="1108982" d="52152" wp="9" ws="1" p="5">&quot;I knew you&#39;d say that!&quot;
+&quot;You always say that!&quot;​</p>
+<p t="1109816" d="1301" wp="1" ws="1" p="1">&quot;You, you,&quot;​</p>
+<p t="1111117" d="1435" wp="1" ws="1" p="1">&quot;You always say that!&quot;​</p>
+<p t="1112552" d="1768" wp="1" ws="1" p="1">&quot;It&#39;s all &#39;Congratulations! Congratulations!&#39;&quot;​</p>
+<p t="1114320" d="1669" wp="1" ws="1" p="1">&quot;&#39;Wow, &#39;grats! Wow, &#39;grats!&#39;&quot;​</p>
+<p t="1115989" d="1334" wp="1" ws="1" p="1">&quot;Like a broken record!&quot;​</p>
+<p t="1117323" d="1736" wp="1" ws="1" p="1">&quot;You&#39;re always like this!&quot;​</p>
+<p t="1119059" d="1501" wp="1" ws="1" p="1">We play it up​</p>
+<p t="1120560" d="2603" wp="1" ws="1" p="1">like in those soap operas.​</p>
+<p t="1123163" d="1534" wp="1" ws="1" p="1">It should work.​</p>
+<p t="1124697" d="2536" wp="1" ws="1" p="1">Well, in my case,​</p>
+<p t="1127233" d="1335" wp="1" ws="1" p="1">I will never​</p>
+<p t="1128568" d="3704" wp="1" ws="1" p="1">ever forgive that spambot YAGOO.​</p>
+<p t="1132272" d="1168" wp="1" ws="1" p="1">I mean,​</p>
+<p t="1133440" d="3637" wp="1" ws="1" p="1">having a spambot for a CEO is unforgivable.​</p>
+<p t="1137077" d="1401" wp="1" ws="1" p="1">We really should,​</p>
+<p t="1138478" d="434" wp="1" ws="1" p="1">uh,​</p>
+<p t="1138912" d="2869" wp="1" ws="1" p="1">get a real human for the job.​</p>
+<p t="1141781" d="668" wp="1" ws="1" p="1">Look at me.​</p>
+<p t="1142449" d="1701" wp="1" ws="1" p="1">This over-reliance on​</p>
+<p t="1144150" d="2536" wp="1" ws="1" p="1">bots and AI set this​</p>
+<p t="1146686" d="2136" wp="1" ws="1" p="1">livestream restriction on me,​</p>
+<p t="1148822" d="2702" wp="1" ws="1" p="1">even though I did nothing wrong.​</p>
+<p t="1151524" d="3170" wp="1" ws="1" p="1">Something&#39;s bound to go haywire
+if we continue to be run by machines.​</p>
+<p t="1154694" d="1068" wp="1" ws="1" p="1">I don&#39;t want that.​</p>
+<p t="1155762" d="1201" wp="1" ws="1" p="1">In any case,​</p>
+<p t="1156963" d="1668" wp="1" ws="1" p="1">there we have it.​</p>
+<p t="1158631" d="2368" wp="1" ws="1" p="1">And now, onto the next report.​</p>
+<p t="1161134" d="13947" wp="8" ws="1" p="5">Online Crane Game​</p>
+<p t="1161801" d="2202" wp="1" ws="1" p="1">What do we have here?​</p>
+<p t="1164003" d="2002" wp="1" ws="1" p="1">We have a Pathetic Report.​</p>
+<p t="1166005" d="2002" wp="1" ws="1" p="1">It concerns yesterday&#39;s​</p>
+<p t="1168007" d="2336" wp="1" ws="1" p="1">online crane game stream.​</p>
+<p t="1170343" d="1869" wp="1" ws="1" p="1">It seems that​</p>
+<p t="1172212" d="2869" wp="1" ws="1" p="1">during Ms. Shirogane Noel&#39;s stream,​</p>
+<p t="1175081" d="18918" wp="10" ws="1" p="5">So Bad, Staff Had To Help Her​</p>
+<p t="1175682" d="3103" wp="1" ws="1" p="1">some of the game&#39;s staff​</p>
+<p t="1178785" d="2536" wp="1" ws="1" p="1">couldn&#39;t stand how bad​</p>
+<p t="1181321" d="2369" wp="1" ws="1" p="1">she was at the game​</p>
+<p t="1183690" d="2636" wp="1" ws="1" p="1">and decided to take matters​</p>
+<p t="1186326" d="2202" wp="1" ws="1" p="1">into their own hands.​</p>
+<p t="1188528" d="2169" wp="1" ws="1" p="1">What did the staff do?​</p>
+<p t="1190697" d="3869" wp="1" ws="1" p="1">Let&#39;s look at this clip to find out.​</p>
+<p t="1196536" d="1535" wp="1" ws="1" p="1">She&#39;s trying to get it.​</p>
+<p t="1198071" d="1501" wp="1" ws="1" p="1">Oh she didn&#39;t.​</p>
+<p t="1199572" d="1167" wp="1" ws="1" p="1">She&#39;s bad at this.​</p>
+<p t="1201841" d="1600" wp="1" ws="1" p="1">Nope, she still can&#39;t.​</p>
+<p t="1203877" d="700" wp="1" ws="1" p="1">Ahh...​</p>
+<p t="1204577" d="499" wp="1" ws="1" p="1">Huh!​</p>
+<p t="1205478" d="599" wp="1" ws="1" p="1">Huh?​</p>
+<p t="1206613" d="433" wp="1" ws="1" p="1">Huh?!​</p>
+<p t="1207046" d="668" wp="1" ws="1" p="1">What was that?!​</p>
+<p t="1207714" d="1668" wp="1" ws="1" p="1">Someone threw―​</p>
+<p t="1209382" d="2269" wp="1" ws="1" p="1">Someone off-screen threw an item!​</p>
+<p t="1211651" d="1502" wp="1" ws="1" p="1">Let&#39;s do a frame-by-frame.​</p>
+<p t="1213153" d="1266" wp="1" ws="1" p="1">Let&#39;s see.​</p>
+<p t="1214821" d="999" wp="1" ws="1" p="1">From here...​</p>
+<p t="1218391" d="499" wp="1" ws="1" p="1">Ah.​</p>
+<p t="1219526" d="1635" wp="1" ws="1" p="1">Someone off-screen​</p>
+<p t="1221161" d="2501" wp="1" ws="1" p="1">threw it in!​</p>
+<p t="1224264" d="1167" wp="1" ws="1" p="1">It seems that​</p>
+<p t="1225431" d="3170" wp="1" ws="1" p="1">since Ms. Noel couldn&#39;t get it,​</p>
+<p t="1228601" d="2403" wp="1" ws="1" p="1">the shop staff blew their top,​</p>
+<p t="1231004" d="1868" wp="1" ws="1" p="1">couldn&#39;t take it anymore,​</p>
+<p t="1232872" d="4271" wp="1" ws="1" p="1">and threw the item in a fit of rage.​</p>
+<p t="1237143" d="4138" wp="1" ws="1" p="1">Thus, Ms. Noel won the prize.​</p>
+<p t="1241281" d="1934" wp="1" ws="1" p="1">This...​</p>
+<p t="1243850" d="1335" wp="1" ws="1" p="1">really is...​</p>
+<p t="1245185" d="2135" wp="1" ws="1" p="1">But it doesn&#39;t end here.​</p>
+<p t="1247320" d="734" wp="1" ws="1" p="1">Why,​</p>
+<p t="1248054" d="3068" wp="1" ws="1" p="1">earlier in the stream,​</p>
+<p t="1250123" d="51450" wp="8" ws="1" p="5">Staff Lend A Helping Hand​</p>
+<p t="1251558" d="2969" wp="1" ws="1" p="1">the staff were already losing their patience.​</p>
+<p t="1254527" d="2870" wp="1" ws="1" p="1">For this game, you pick up balls​</p>
+<p t="1257397" d="2435" wp="1" ws="1" p="1">and drop them into another container.​</p>
+<p t="1259832" d="2503" wp="1" ws="1" p="1">The staff relieved their suffering​</p>
+<p t="1262335" d="2469" wp="1" ws="1" p="1">by dropping a ball directly​</p>
+<p t="1264804" d="2669" wp="1" ws="1" p="1">into the container with a helping hand.​</p>
+<p t="1267473" d="2470" wp="1" ws="1" p="1">This was one of the memorable moments​</p>
+<p t="1269943" d="1668" wp="1" ws="1" p="1">of yesterday&#39;s spectacular stream.​</p>
+<p t="1271611" d="1134" wp="1" ws="1" p="1">You really have​</p>
+<p t="1272745" d="3337" wp="1" ws="1" p="1">to see this for yourself to see how crazy it was.​</p>
+<p t="1276082" d="1835" wp="1" ws="1" p="1">It seems obvious that​</p>
+<p t="1277917" d="2603" wp="1" ws="1" p="1">the staff threw it in out of exasperation.​</p>
+<p t="1280520" d="1068" wp="1" ws="1" p="1">Hmm...​</p>
+<p t="1281588" d="1167" wp="1" ws="1" p="1">But what if,​</p>
+<p t="1282755" d="3037" wp="1" ws="1" p="1">because Noel-paisen​</p>
+<p t="1285792" d="3236" wp="1" ws="1" p="1">wanted to win a present for Flare-paisen,​</p>
+<p t="1289028" d="1101" wp="1" ws="1" p="1">then perhaps​</p>
+<p t="1290129" d="3571" wp="1" ws="1" p="1">the staff member isn&#39;t just some short-tempered coot,​</p>
+<p t="1293700" d="3703" wp="1" ws="1" p="1">but a diehard NoeFlare fan.​</p>
+<p t="1297403" d="1969" wp="1" ws="1" p="1">They might be one, right?​</p>
+<p t="1299372" d="2201" wp="1" ws="1" p="1">And now, for today&#39;s weather!​</p>
+<p t="1302308" d="534" wp="1" ws="1" p="1">Ah―​</p>
+<p t="1302842" d="833" wp="1" ws="1" p="1">W-Wait―​</p>
+<p t="1304077" d="2169" wp="1" ws="1" p="1">This was supposed to be at the end.​</p>
+<p t="1306246" d="1501" wp="1" ws="1" p="1">Now, for today&#39;s weather!​</p>
+<p t="1307747" d="1502" wp="1" ws="1" p="1">Oh my!​</p>
+<p t="1309249" d="2335" wp="1" ws="1" p="1">Happy birthday, Kanatan!​</p>
+<p t="1311584" d="2202" wp="1" ws="1" p="1">Ms. Amane Kanata has​</p>
+<p t="1313786" d="3003" wp="1" ws="1" p="1">a birthday stream today!​</p>
+<p t="1316789" d="668" wp="1" ws="1" p="1">Everyone,​</p>
+<p t="1317457" d="2068" wp="1" ws="1" p="1">please drop by!​</p>
+<p t="1319525" d="2536" wp="1" ws="1" p="1">Now for the server password!​</p>
+<p t="1322061" d="1268" wp="1" ws="1" p="1">&quot;birthday&quot;​</p>
+<p t="1323329" d="2236" wp="1" ws="1" p="1">It&#39;s her birthday, after all!​</p>
+<p t="1325565" d="1468" wp="1" ws="1" p="1">Well then, everyone,​</p>
+<p t="1327033" d="3570" wp="1" ws="1" p="1">have a good morning!​</p>
+<p t="1330603" d="10142" wp="11" ws="1" p="5">It&#39;s mid-week Wednesday!
+Is everyone having fun?
+Everyone paid me a visit, so I&#39;m doing fine!​</p>
+<p t="1330603" d="10142" wp="12" ws="1" p="5">I&#39;m locked up here,
+so I can&#39;t go to Kanatan&#39;s birthday...
+But I&#39;ll celebrate with her once I get out!​</p>
+<p t="1330603" d="10142" wp="13" ws="1" p="5">Time to have fun today, too!
+Watch my Yakuza video, &#39;kay?​</p>
+<p t="1330603" d="10142" wp="14" ws="1" p="5">Your waifu behind bars, Coco​</p>
+<p t="5000" d="100" wp="15" ws="3" p="15">​​</p>
+<p t="5000" d="100" wp="15" ws="3" p="16">​​</p>
+</body>
+</timedtext>

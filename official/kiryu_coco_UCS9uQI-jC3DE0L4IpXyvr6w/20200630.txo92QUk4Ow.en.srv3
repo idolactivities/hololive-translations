@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
+<pen id="2" b="1" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="3" b="1" fc="#000000" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="4" b="1" fc="#FFB266" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="5" b="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<pen id="6" b="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="7" et="3"/>
+<pen id="7" b="1" fc="#FFFC00" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" b="1" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#FEF263" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" i="1" b="1" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#B6CFF8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#FFB266" fo="254" bc="#000000" bo="254" ec="#000000" sz="100" et="3"/>
+<pen id="14" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="15" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="4" ah="30" av="65"/>
+<wp id="8" ap="4" ah="33" av="49"/>
+<wp id="5" ap="4" ah="35" av="75"/>
+<wp id="4" ap="4" ah="35" av="89"/>
+<wp id="6" ap="4" ah="48" av="50"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="7" ap="7" ah="35" av="57"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="9" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="108330" d="4260" wp="2" ws="1" p="2">Good morning, everyone!</p>
+<p t="112590" d="3290" wp="2" ws="1" p="2">It&#39;s morning!</p>
+<p t="115880" d="3200" wp="2" ws="1" p="2">6 AM in the morning in Japan,</p>
+<p t="119080" d="2525" wp="2" ws="1" p="2">everyone who&#39;s not awake has to...</p>
+<p t="121605" d="1068" wp="2" ws="1"><s p="2">Wake up! </s><s>​</s><s p="3">Wake up! Wake up! Wake up!</s></p>
+<p t="121605" d="1068" wp="2" ws="1"><s p="4">Wake up! </s><s>​</s><s p="5">Wake up! Wake up! Wake up!</s></p>
+<p t="122673" d="434" wp="2" ws="1"><s p="2">Wake up! Wake up! </s><s>​</s><s p="3">Wake up! Wake up!</s></p>
+<p t="122673" d="434" wp="2" ws="1"><s p="4">Wake up! Wake up! </s><s>​</s><s p="5">Wake up! Wake up!</s></p>
+<p t="123107" d="467" wp="2" ws="1"><s p="2">Wake up! Wake up! Wake up! </s><s>​</s><s p="3">Wake up!</s></p>
+<p t="123107" d="467" wp="2" ws="1"><s p="4">Wake up! Wake up! Wake up! </s><s>​</s><s p="5">Wake up!</s></p>
+<p t="123574" d="786" wp="2" ws="1" p="2">Wake up! Wake up! Wake up! Wake up!</p>
+<p t="124360" d="2140" wp="2" ws="1" p="2">Wake up, okay?</p>
+<p t="126500" d="2240" wp="2" ws="1" p="2">Good morning!</p>
+<p t="128740" d="1880" wp="2" ws="1" p="2">Everyone&#39;s awake!</p>
+<p t="130620" d="2330" wp="2" ws="1" p="2">Today marks</p>
+<p t="132950" d="2950" wp="2" ws="1" p="2">the end of June,</p>
+<p t="135900" d="4260" wp="2" ws="1" p="2">we&#39;ve entered July now!</p>
+<p t="140160" d="1920" wp="2" ws="1" p="2">Time flies, doesn&#39;t it?!</p>
+<p t="142080" d="3140" wp="2" ws="1" p="2">Half a year has passed since my debut,</p>
+<p t="145220" d="2280" wp="2" ws="1" p="2">and this year is also</p>
+<p t="147500" d="2750" wp="2" ws="1" p="2">halfway through already.</p>
+<p t="150250" d="2280" wp="2" ws="1" p="2">What will we do now?</p>
+<p t="152530" d="3800" wp="2" ws="1" p="2"> This year is almost over.</p>
+<p t="156330" d="2430" wp="2" ws="1" p="2">We have a lot of things</p>
+<p t="158760" d="2860" wp="2" ws="1" p="2">to inform you about,</p>
+<p t="161620" d="2370" wp="2" ws="1" p="2">so let&#39;s have a look.</p>
+<p t="166220" d="1230" wp="2" ws="1" p="2">Today, as usual,</p>
+<p t="167450" d="2430" wp="2" ws="1" p="2">as you can see, there&#39;s a crowd</p>
+<p t="169880" d="1540" wp="2" ws="1" p="2">here above my head</p>
+<p t="171420" d="3880" wp="2" ws="1" p="2">making one hell of a ruckus, right?</p>
+<p t="175300" d="1100" wp="2" ws="1" p="2">This crowd</p>
+<p t="176400" d="3020" wp="2" ws="1" p="2">is someone you know very well:</p>
+<p t="179420" d="4850" wp="2" ws="1" p="2">They&#39;re today&#39;s viewer-commentators!</p>
+<p t="184680" d="1510" wp="2" ws="1" p="2">Y&#39;all awake?</p>
+<p t="186190" d="1490" wp="2" ws="1" p="2">Everyone&#39;s awake.</p>
+<p t="187680" d="710" wp="2" ws="1" p="2">Okay.</p>
+<p t="188390" d="1940" wp="2" ws="1" p="2">With that said, today we</p>
+<p t="190330" d="1460" wp="2" ws="1" p="2">have a lot</p>
+<p t="191790" d="1630" wp="2" ws="1" p="2">of news to cover</p>
+<p t="193420" d="2110" wp="2" ws="1" p="2">so let&#39;s have a look!</p>
+<p t="195530" d="1120" wp="2" ws="1" p="2">Oh my!</p>
+<p t="196650" d="5170" wp="2" ws="1" p="2">Urgent news! We have urgent news!
+Here goes!</p>
+<p t="201980" d="21570" wp="3" ws="1" p="6">My salary is beyond the hundred millions.
+I can afford to dream a little, but I fear the taxes.</p>
+<p t="201980" d="21570" wp="4" ws="1" p="7">Yesterday&#39;s (6/30) Morning Coco Live ver.2.0</p>
+<p t="203050" d="1540" wp="2" ws="1" p="2">Oh my!</p>
+<p t="204590" d="2920" wp="2" ws="1" p="2">In yesterday&#39;s broadcast of</p>
+<p t="207510" d="2780" wp="2" ws="1" p="2">Morning Coco Live,</p>
+<p t="210290" d="760" wp="2" ws="1" p="2">uh,</p>
+<p t="211050" d="2250" wp="2" ws="1" p="2">A comment about June&#39;s,</p>
+<p t="213300" d="660" wp="2" ws="1" p="2">uh,</p>
+<p t="213960" d="4690" wp="2" ws="1" p="2">salary possibly surpassing the
+hundred millions</p>
+<p t="218650" d="3940" wp="2" ws="1" p="2">made on yesterday&#39;s broadcast caused,</p>
+<p t="222590" d="1230" wp="2" ws="1" p="2">oh my,</p>
+<p t="223550" d="35430" wp="5" ws="1" p="8">Discussed across various
+news compilation websites</p>
+<p t="224680" d="1460" wp="2" ws="1" p="2">a trending topic</p>
+<p t="226140" d="1560" wp="2" ws="1" p="2">in various</p>
+<p t="227700" d="3920" wp="2" ws="1" p="2">news compilation websites, apparently.</p>
+<p t="231620" d="2060" wp="2" ws="1" p="2">This is...</p>
+<p t="233680" d="3330" wp="2" ws="1" p="2">It was quite the urgent news.</p>
+<p t="237010" d="1440" wp="2" ws="1" p="2">Many people,</p>
+<p t="238450" d="2690" wp="2" ws="1" p="2">in many places</p>
+<p t="241140" d="2110" wp="2" ws="1" p="2">just had to talk about money.</p>
+<p t="243250" d="3170" wp="2" ws="1" p="2">It&#39;s a topic all of humanity
+wants to talk about.</p>
+<p t="246420" d="2400" wp="2" ws="1" p="2">And at any time. It&#39;s no wonder here.</p>
+<p t="248820" d="3540" wp="2" ws="1" p="2">It makes sense that it would
+cause some buzz.</p>
+<p t="252360" d="2540" wp="2" ws="1" p="2">Money is just that important,
+isn&#39;t it, guys?</p>
+<p t="254900" d="4160" wp="2" ws="1" p="2">In regards to this, Ms. Kiryu Coco said:</p>
+<p t="258980" d="64270" wp="5" ws="1" p="8">&quot;Now everyone knows this profession
+may lead you to your dreams.&quot;</p>
+<p t="259680" d="3770" wp="2" ws="1" p="2">&quot;Now everyone knows this profession
+may lead you to your dreams.&quot;</p>
+<p t="263450" d="3770" wp="2" ws="1" p="2">She seems to be very happy about it.</p>
+<p t="267220" d="3630" wp="2" ws="1" p="2">The VTuber industry</p>
+<p t="270850" d="4030" wp="2" ws="1" p="2">is trifle; it&#39;s an industry
+trifling with dreams,</p>
+<p t="274880" d="4570" wp="2" ws="1" p="2">it&#39;s important to let everyone know that.</p>
+<p t="279450" d="1650" wp="2" ws="1" p="2">If, thanks to this,</p>
+<p t="281100" d="4670" wp="2" ws="1" p="2">more people figure out they
+want to become a VTuber,</p>
+<p t="285770" d="5960" wp="2" ws="1" p="2">and the medium gets even
+more exciting,</p>
+<p t="291730" d="3470" wp="2" ws="1" p="2">It&#39;d be very thrilling,
+don&#39;t you think?</p>
+<p t="295200" d="3710" wp="2" ws="1" p="2"> I have a dream too,
+it&#39;s called the hololive house.</p>
+<p t="298910" d="3570" wp="2" ws="1" p="2">I&#39;m happy to be drawing
+closer to my dream!</p>
+<p t="302480" d="2020" wp="2" ws="1" p="2">Let&#39;s see what you guys think:</p>
+<p t="304990" d="610" wp="2" ws="1" p="2">Uh,</p>
+<p t="305600" d="1450" wp="2" ws="1" p="2">&quot;nice&quot;</p>
+<p t="307050" d="1360" wp="2" ws="1" p="2">&quot;as expecocoted&quot;</p>
+<p t="308410" d="1690" wp="2" ws="1" p="2">&quot;the vtuber dream&quot;</p>
+<p t="310100" d="1090" wp="2" ws="1" p="2">Uh...</p>
+<p t="311190" d="690" wp="2" ws="1" p="2">Eh...</p>
+<p t="311880" d="1770" wp="2" ws="1" p="2">&quot;money matters more than life&quot;</p>
+<p t="313650" d="4900" wp="2" ws="1" p="2">We have a Kaiji character
+in the chat, how scary.</p>
+<p t="318550" d="5240" wp="2" ws="1" p="2">Well, what I hope to come
+out of this is</p>
+<p t="323250" d="69900" wp="5" ws="1" p="8">Aim for the top:
+Become #1 Most Desirable Job</p>
+<p t="323790" d="6420" wp="2" ws="1" p="2">to become the #1 profession
+people want to become.</p>
+<p t="330210" d="4040" wp="2" ws="1" p="2">It does find its way in any ranking,</p>
+<p t="334250" d="6660" wp="2" ws="1" p="2">VTuber and YouTuber are a profession
+people admire, in one way or another.</p>
+<p t="340910" d="2570" wp="2" ws="1" p="2">I, too, y&#39;know, think that</p>
+<p t="343480" d="1970" wp="2" ws="1" p="2">this industry is still</p>
+<p t="345450" d="3710" wp="2" ws="1" p="2">being kindled with excitement
+by everyone&#39;s,</p>
+<p t="349160" d="3170" wp="2" ws="1" p="2">erm, efforts, and thanks to
+that effort,</p>
+<p t="352330" d="1770" wp="2" ws="1" p="2">YouTubers and</p>
+<p t="354100" d="3640" wp="2" ws="1" p="2">VTubers alike are under the spotlight.</p>
+<p t="357740" d="4790" wp="2" ws="1" p="2">It&#39;s all thanks to all of you.
+I&#39;m sure it&#39;s all thanks to you guys.</p>
+<p t="362530" d="2520" wp="2" ws="1" p="2">And, from now on,
+from here on onwards,</p>
+<p t="365050" d="2880" wp="2" ws="1" p="2">the VTubing business will continue</p>
+<p t="367930" d="2520" wp="2" ws="1" p="2">as a trend, as an exciting world.</p>
+<p t="370450" d="4490" wp="2" ws="1" p="2">There&#39;ll always be people thinking
+of becoming VTubers.</p>
+<p t="374940" d="4310" wp="2" ws="1" p="2">We&#39;ll never become shovelware, so
+I&#39;ll humbly ask all of you</p>
+<p t="379250" d="2520" wp="2" ws="1" p="2">to continue here with us.</p>
+<p t="381770" d="2710" wp="2" ws="1" p="2">Uh, with that said, next.</p>
+<p t="384480" d="3910" wp="2" ws="1" p="2">Expert C seems to have something to
+say about this.</p>
+<p t="388390" d="4860" wp="2" ws="1" p="2">VTubing is a job trifle
+with dreams, but...?</p>
+<p t="393150" d="77630" wp="5" ws="1" p="8">If you&#39;re the type that prefers gaming &amp; hobbies over
+social activities such as dating or marrying,
+this is the job for you.</p>
+<p t="394130" d="1170" wp="2" ws="1" p="2">&quot;If you&#39;re the type,</p>
+<p t="395300" d="2010" wp="2" ws="1" p="2">that uh, prefers gaming &amp; hobbies</p>
+<p t="397310" d="4870" wp="2" ws="1" p="2">over social activities such as dating
+or marrying, this is the job for you.&quot;</p>
+<p t="402180" d="3620" wp="2" ws="1" p="2">There are people fit, and
+people who are unfit</p>
+<p t="405800" d="2300" wp="2" ws="1" p="2">for this too, it seems.</p>
+<p t="408100" d="1780" wp="2" ws="1" p="2">Well, we gotta admit...</p>
+<p t="409880" d="3830" wp="2" ws="1" p="2">Anyone who thinks dating
+and getting married,</p>
+<p t="413710" d="1250" wp="2" ws="1" p="2">the so-called,</p>
+<p t="414960" d="2980" wp="2" ws="1" p="2">erm, railroad of life,</p>
+<p t="417940" d="2360" wp="2" ws="1" p="2">as well as the hopes and
+dreams of one&#39;s parents.</p>
+<p t="420300" d="3810" wp="2" ws="1" p="2">If you prioritize the #1 thing parents</p>
+<p t="424110" d="4500" wp="2" ws="1" p="2">want for their children, then
+you&#39;re better off not get into it.</p>
+<p t="428610" d="2840" wp="2" ws="1" p="2">You have zero time for a private life.
+Zero, zilch, nada.</p>
+<p t="431450" d="3900" wp="2" ws="1" p="2">You also end up friendless―</p>
+<p t="435350" d="4270" wp="2" ws="1" p="2">hololive members are friends with
+each other, but every other</p>
+<p t="439620" d="2430" wp="2" ws="1" p="2">friendship ends abruptly.
+Just so ya know.</p>
+<p t="442050" d="4250" wp="2" ws="1" p="2">If your hobbies and games are</p>
+<p t="446300" d="4100" wp="2" ws="1" p="2">more important than what
+people think of you, then</p>
+<p t="450400" d="3750" wp="2" ws="1" p="2">you&#39;re probably cut out
+for this business.</p>
+<p t="454150" d="2580" wp="2" ws="1" p="2">Alright, moving on. Ah!</p>
+<p t="456730" d="1460" wp="2" ws="1" p="2">Oh my, this is...</p>
+<p t="458190" d="4740" wp="2" ws="1" p="2">We have an ARK report to cover!</p>
+<p t="462930" d="4610" wp="2" ws="1" p="2">One after the other, hololive members are</p>
+<p t="467540" d="4910" wp="2" ws="1" p="2">joining the server of the new map,</p>
+<p t="470780" d="22530" wp="5" ws="1" p="8">Roboco-san&#39;s ARK Stream (6/29)</p>
+<p t="472450" d="2000" wp="2" ws="1" p="2">called Crystal Isles.</p>
+<p t="474450" d="3030" wp="2" ws="1" p="2">Roboco-san finally landed into ARK</p>
+<p t="477480" d="4660" wp="2" ws="1" p="2">for the on-going Summer Event.</p>
+<p t="482140" d="3660" wp="2" ws="1" p="2">However, on this stream here,</p>
+<p t="485800" d="3930" wp="2" ws="1" p="2">which she realized on June 29th,</p>
+<p t="489730" d="2810" wp="2" ws="1" p="2">Roboco-san went</p>
+<p t="492540" d="2000" wp="2" ws="1" p="2">after Dodos and―</p>
+<p t="493310" d="27040" wp="5" ws="1" p="8">Tames a Dodo (makes it her ally)</p>
+<p t="494540" d="1410" wp="2" ws="1" p="2">Do you guys know them?</p>
+<p t="495950" d="4070" wp="2" ws="1" p="2">They&#39;re very weak,
+in the world of ARK,</p>
+<p t="500020" d="1660" wp="2" ws="1" p="2">they&#39;re the weakest―</p>
+<p t="501680" d="2570" wp="2" ws="1" p="2">They&#39;re, uh, a small bird.</p>
+<p t="504250" d="4320" wp="2" ws="1" p="2">She wanted to tame it.
+Tame means to make it an ally.</p>
+<p t="508570" d="3480" wp="2" ws="1" p="2">She tamed a dodo, and, in this stream,</p>
+<p t="512050" d="3800" wp="2" ws="1" p="2">made it into her ally, this
+little bird here.</p>
+<p t="515850" d="4450" wp="2" ws="1" p="2">And after she did, you
+won&#39;t believe what transpired!</p>
+<p t="520350" d="65830" wp="5" ws="1" p="8">Ultra addict unintentionally taunts her</p>
+<p t="520350" d="65830" wp="6" ws="1" p="9">First time I&#39;ve ever seen a dodo be tamed.</p>
+<p t="521280" d="3520" wp="2" ws="1" p="2">Choco-sensei, unintentionally,</p>
+<p t="524800" d="5250" wp="2" ws="1" p="2">threw a taunt at Roboco-sensei―
+Not -sensei, at Roboco-san.</p>
+<p t="530050" d="3770" wp="2" ws="1" p="2">Or so we&#39;ve heard! Guys, isn&#39;t this...?</p>
+<p t="533820" d="1920" wp="2" ws="1" p="2">This is a little... hilarious, isn&#39;t it?</p>
+<p t="535740" d="3050" wp="2" ws="1" p="2">Choco-sensei, upon seeing Roboco-san</p>
+<p t="538790" d="3120" wp="2" ws="1" p="2">tame a Dodo, she told Roboco that:</p>
+<p t="541910" d="2310" wp="2" ws="1" p="2">&quot;First time I ever saw a dodo be tamed.&quot;</p>
+<p t="544220" d="1260" wp="2" ws="1" p="2">*dodo*</p>
+<p t="545480" d="2540" wp="2" ws="1" p="2">I mean, yeah,
+they are the weakest animal.</p>
+<p t="548020" d="3920" wp="2" ws="1" p="2">Even if you get one,
+they don&#39;t serve any purpose.</p>
+<p t="551940" d="3000" wp="2" ws="1" p="2">They may heal you, but, still...</p>
+<p t="554940" d="2000" wp="2" ws="1" p="2">Choco-sensei here,</p>
+<p t="556940" d="2960" wp="2" ws="1" p="2">as I&#39;m sure all of you are aware,</p>
+<p t="559900" d="1580" wp="2" ws="1" p="2">is an ultra addict.</p>
+<p t="561480" d="2520" wp="2" ws="1" p="2">She&#39;s famous for
+starting on ARK Aberration</p>
+<p t="564000" d="2400" wp="2" ws="1" p="2">and becoming more of an addict</p>
+<p t="566400" d="5020" wp="2" ws="1" p="2">than anyone could ever expect.</p>
+<p t="571420" d="3030" wp="2" ws="1" p="2">Choco-sensei is pretty... Y&#39;know...</p>
+<p t="574450" d="3630" wp="2" ws="1" p="2">She&#39;s in such a different class,
+so she gets to taunt like this.</p>
+<p t="578080" d="3620" wp="2" ws="1" p="2">Around this time, while Roboco-san</p>
+<p t="581700" d="4600" wp="2" ws="1" p="2">was taming Dodo&#39;s, Choco-sensei had been...</p>
+<p t="586180" d="90500" wp="5" ws="1" p="8">Meanwhile, Choco-sensei was...</p>
+<p t="586880" d="1920" wp="2" ws="1" p="2">*flex*</p>
+<p t="588800" d="3540" wp="2" ws="1" p="2">Aaah...
+This ARK animal is...</p>
+<p t="592340" d="2370" wp="2" ws="1" p="2">This is the strongest creature.</p>
+<p t="594710" d="4250" wp="2" ws="1" p="2">She was playing around with
+Giganotosauruses, it seems.</p>
+<p t="598960" d="3810" wp="2" ws="1" p="2">A whole other level, isn&#39;t she...?</p>
+<p t="602770" d="1940" wp="2" ws="1" p="2">No room for comparison...</p>
+<p t="604710" d="1820" wp="2" ws="1" p="2">She... I gotta say...</p>
+<p t="606530" d="2180" wp="2" ws="1" p="2">It&#39;s gotta be Choco-sensei, am I right?</p>
+<p t="608710" d="2260" wp="2" ws="1" p="2">Let&#39;s see what you guys think:</p>
+<p t="610970" d="630" wp="2" ws="1" p="2">Uh...</p>
+<p t="611600" d="1100" wp="2" ws="1" p="2">&quot;lol&quot;</p>
+<p t="612700" d="720" wp="2" ws="1" p="2">Uh...</p>
+<p t="613420" d="780" wp="2" ws="1" p="2">&quot;one fear&quot;</p>
+<p t="614200" d="1700" wp="2" ws="1" p="2">Uh... &quot;wholesome&quot;.</p>
+<p t="615900" d="5400" wp="2" ws="1" p="2">Kinda wholesome. The one on her side,
+the white-haired one, is Kanatan.</p>
+<p t="621300" d="1720" wp="2" ws="1" p="2">She&#39;s with Kanatan,</p>
+<p t="623020" d="3460" wp="2" ws="1" p="2">they went on a trip to tame
+Giganotosauruses,</p>
+<p t="626480" d="3690" wp="2" ws="1" p="2">the largest dinosaur in ARK.</p>
+<p t="630170" d="5030" wp="2" ws="1" p="2">They streamed it yesterday,
+if you wanna know more, go watch.</p>
+<p t="635200" d="4790" wp="2" ws="1" p="2">Also, if you ask me how strong this
+Giganotosaurus is,</p>
+<p t="639990" d="2380" wp="2" ws="1" p="2">you gotta let them wander.</p>
+<p t="642370" d="2740" wp="2" ws="1" p="2">You need to tame it,
+then set it to</p>
+<p t="645110" d="3370" wp="2" ws="1" p="2">aggressive mode, and let
+them wander the world.</p>
+<p t="648480" d="3540" wp="2" ws="1" p="2">If you do it, every wild...
+every wild dinosaur</p>
+<p t="652020" d="2980" wp="2" ws="1" p="2">will go extinct, and the environment</p>
+<p t="655000" d="1710" wp="2" ws="1" p="2">will change as the</p>
+<p t="656710" d="4770" wp="2" ws="1" p="2">ecosystem has been destroyed.
+That&#39;s what it is known for.</p>
+<p t="661480" d="2570" wp="2" ws="1" p="2">Everyone, watch out for that.</p>
+<p t="664050" d="1450" wp="2" ws="1" p="2">Anyway, let&#39;s move on.</p>
+<p t="667130" d="2920" wp="2" ws="1" p="2">We have a diehard report</p>
+<p t="670050" d="2320" wp="2" ws="1" p="2">to cover? Really? We do!</p>
+<p t="672370" d="4620" wp="2" ws="1" p="2">Just what could it be?
+Let&#39;s have a look!</p>
+<p t="676680" d="32670" wp="5" ws="1" p="7">Unbelievable: Diehard Fan T-shirt being resold!</p>
+<p t="678620" d="2600" wp="2" ws="1" p="2">Gwaaah! No way!</p>
+<p t="681220" d="3690" wp="2" ws="1" p="2">A piece of Kiryu Coco&#39;s
+official merch,</p>
+<p t="684910" d="4310" wp="2" ws="1" p="2">the Diehard Fan T-shirt
+we once sold, this here,</p>
+<p t="689220" d="3800" wp="2" ws="1" p="2">a T-shirt with &quot;Diehard Fan&quot; printed on it.</p>
+<p t="693020" d="5320" wp="2" ws="1" p="2">We found out it was being resold online!</p>
+<p t="698340" d="1460" wp="2" ws="1" p="2">Aaaah!</p>
+<p t="699800" d="4080" wp="2" ws="1" p="2">This is... Come on...
+Reselling...</p>
+<p t="703880" d="5680" wp="2" ws="1" p="2">It&#39;s being resold...
+And you won&#39;t believe its price!</p>
+<p t="709350" d="50730" wp="5" ws="1" p="8">Adding insult to injury:
+A costly total of 25,000 yen</p>
+<p t="710300" d="1710" wp="2" ws="1" p="2">25,000 yen!</p>
+<p t="712010" d="4610" wp="2" ws="1" p="2">It&#39;s fetching an absurdly high price!</p>
+<p t="716620" d="1680" wp="2" ws="1" p="2">This is...</p>
+<p t="718300" d="3400" wp="2" ws="1" p="2">This shirt is presently
+not for sale anymore, indeed.</p>
+<p t="721700" d="3810" wp="2" ws="1" p="2">Nobody was even― Also, the original</p>
+<p t="725510" d="4540" wp="2" ws="1" p="2">price was 2500 yen, it costs
+ten times more now.</p>
+<p t="730050" d="1890" wp="2" ws="1" p="2">It was sold for</p>
+<p t="731940" d="1680" wp="2" ws="1" p="2">2500 yen and</p>
+<p t="733620" d="2350" wp="2" ws="1" p="2">nobody even bought it,</p>
+<p t="735970" d="2800" wp="2" ws="1" p="2">Ms. Kiryu Coco was so embarrassed</p>
+<p t="738770" d="3130" wp="2" ws="1" p="2">that she removed it
+from the product list.</p>
+<p t="741900" d="1980" wp="2" ws="1" p="2">This here is...</p>
+<p t="743880" d="2450" wp="2" ws="1" p="2">Hmm... This isn&#39;t really...</p>
+<p t="746330" d="4590" wp="2" ws="1" p="2">being a diehard fan, don&#39;t you agree?</p>
+<p t="750920" d="2780" wp="2" ws="1" p="2">Hmm... Is this really</p>
+<p t="753700" d="1950" wp="2" ws="1" p="2">what it means to be a diehard fan?</p>
+<p t="755650" d="2460" wp="2" ws="1" p="2">I don&#39;t think this is a proper
+display of love.</p>
+<p t="758110" d="2250" wp="2" ws="1" p="2">For that reason, let&#39;s take a moment and...</p>
+<p t="760930" d="4200" wp="2" ws="1" p="2">Take a good look at this
+and fall for me, alright?</p>
+<p t="767050" d="1140" wp="2" ws="1" p="2">(tru luv)</p>
+<p t="768730" d="1290" wp="2" ws="1" p="2">(true love wink)</p>
+<p t="773450" d="1050" wp="2" ws="1" p="2">You diehard now?</p>
+<p t="774500" d="2700" wp="2" ws="1" p="2">I&#39;m sure this has
+reformed your character.</p>
+<p t="777200" d="2480" wp="2" ws="1" p="2">Now you&#39;re a diehard fan,</p>
+<p t="779680" d="1600" wp="2" ws="1" p="2">I&#39;m sure you are.</p>
+<p t="781280" d="850" wp="2" ws="1" p="2">So, guys,</p>
+<p t="782130" d="1920" wp="2" ws="1" p="2">to me, reselling products is...</p>
+<p t="784050" d="2320" wp="2" ws="1" p="2">a little unacceptable.</p>
+<p t="786370" d="3510" wp="2" ws="1" p="2">That&#39;s what I think,
+but as for</p>
+<p t="789880" d="4230" wp="2" ws="1" p="2">Ms. Kiryu C.Co, here&#39;s her message
+for the resellers:</p>
+<p t="794110" d="1160" wp="2" ws="1" p="2">Oh my!</p>
+<p t="794880" d="53770" wp="5" ws="1" p="8">Crest pins to sell out soon
+Better buy 1000 pieces now</p>
+<p t="795610" d="720" wp="2" ws="1" p="2">Ah!</p>
+<p t="796330" d="1530" wp="2" ws="1" p="2">The crest pin</p>
+<p t="797860" d="2350" wp="2" ws="1" p="2">is about to be sold out, it seems!</p>
+<p t="800210" d="1780" wp="2" ws="1" p="2">Dear resellers,</p>
+<p t="801990" d="4490" wp="2" ws="1" p="2">it seems these Kiryu Clan crest pins that were</p>
+<p t="806480" d="3880" wp="2" ws="1" p="2">put up on sale during my 3D stream</p>
+<p t="810360" d="2530" wp="2" ws="1" p="2">will soon be sold out.</p>
+<p t="812890" d="2250" wp="2" ws="1" p="2">So hear me out, resellers.</p>
+<p t="815140" d="1900" wp="2" ws="1" p="2">It&#39;ll be bad once we run out of stock,</p>
+<p t="817040" d="2220" wp="2" ws="1" p="2">so better buy a thousand of these now!</p>
+<p t="819260" d="1290" wp="2" ws="1" p="2">Yeah.</p>
+<p t="820550" d="1100" wp="2" ws="1" p="2">Go out and</p>
+<p t="821650" d="4250" wp="2" ws="1" p="2">buy a thousand of these while you can.</p>
+<p t="825900" d="1980" wp="2" ws="1" p="2">What do you guys think?</p>
+<p t="827880" d="1520" wp="2" ws="1" p="2">Uh, &quot;lol&quot;.</p>
+<p t="829400" d="1260" wp="2" ws="1" p="2">Ahh...</p>
+<p t="830660" d="1630" wp="2" ws="1" p="2">Uh, &quot;don&#39;t incite them&quot;.</p>
+<p t="832290" d="1560" wp="2" ws="1" p="2">Uhh... Whe...</p>
+<p t="833850" d="1730" wp="2" ws="1" p="2">Uhh... &quot;made to order...&quot;</p>
+<p t="835580" d="1110" wp="2" ws="1" p="2">Huh? Made-to―</p>
+<p t="836690" d="1150" wp="2" ws="1" p="2">Well, well, well, well.</p>
+<p t="837840" d="3220" wp="2" ws="1" p="2">I&#39;m sure they should buy it.</p>
+<p t="841060" d="2060" wp="2" ws="1" p="2">Let&#39;s go to our next report!</p>
+<p t="843120" d="530" wp="2" ws="1" p="2">Ah―!</p>
+<p t="843650" d="1130" wp="2" ws="1" p="2">Oh?</p>
+<p t="844780" d="1760" wp="2" ws="1" p="2">We have a 3D report</p>
+<p t="846540" d="1790" wp="2" ws="1" p="2">on our hands!</p>
+<p t="848330" d="1960" wp="2" ws="1" p="2">It&#39;s a 3D report.</p>
+<p t="848650" d="37960" wp="5" ws="1" p="7">Reaction video to 3D debut!</p>
+<p t="850290" d="3380" wp="2" ws="1" p="2">Why, here is Ms. Kiryu Coco&#39;s―</p>
+<p t="853670" d="4380" wp="2" ws="1" p="2">Here is my 3D debut stream.</p>
+<p t="858050" d="2910" wp="2" ws="1" p="2">An overseas streamer posted</p>
+<p t="860960" d="3170" wp="2" ws="1" p="2">a reaction video about the stream,</p>
+<p t="864130" d="4570" wp="2" ws="1" p="2">and their reactions made
+Ms. Kiryu Coco really happy.</p>
+<p t="868700" d="2340" wp="2" ws="1" p="2">Anyone would be happy with this;</p>
+<p t="871040" d="3350" wp="2" ws="1" p="2">it makes you feel like you&#39;re famous.</p>
+<p t="874390" d="640" wp="2" ws="1" p="2">Right?</p>
+<p t="875030" d="1350" wp="2" ws="1" p="2">Seeing people</p>
+<p t="876380" d="550" wp="2" ws="1" p="2">go</p>
+<p t="876930" d="1430" wp="2" ws="1" p="2">&quot;Oh? Oh! Wow!&quot;</p>
+<p t="878360" d="3940" wp="2" ws="1" p="2">and react with amazement gives me a good feeling.</p>
+<p t="882300" d="2240" wp="2" ws="1" p="2">Let&#39;s watch the video</p>
+<p t="884540" d="1360" wp="2" ws="1" p="2">and see what he said.</p>
+<p t="887130" d="1850" wp="2" ws="1" p="10">What the hell!</p>
+<p t="890540" d="1620" wp="2" ws="1" p="10">I&#39;m gonna tell you this right now.</p>
+<p t="892160" d="770" wp="2" ws="1" p="10">chatroom,</p>
+<p t="892930" d="1110" wp="2" ws="1" p="10">those hips are</p>
+<p t="894040" d="1990" wp="2" ws="1" p="10">100%, like, American,</p>
+<p t="896030" d="980" wp="2" ws="1" p="10">or something like that.</p>
+<p t="897010" d="2130" wp="2" ws="1" p="10">I have not seen one Japanese woman look―</p>
+<p t="899140" d="3440" wp="2" ws="1" p="10">move like that, unless she practiced hella hard.</p>
+<p t="902580" d="1950" wp="2" ws="1"><s p="10">Those are </s><s>​</s><s p="8">not</s><s p="10"> Japanese hips.</s></p>
+<p t="904530" d="1140" wp="2" ws="1" p="8">NO</p>
+<p t="905990" d="630" wp="2" ws="1" p="8">WAY.</p>
+<p t="906620" d="1390" wp="2" ws="1" p="10">She&#39;s got something else.</p>
+<p t="908010" d="2940" wp="2" ws="1" p="10">She&#39;s half-American?
+That&#39;s definitely American right there.</p>
+<p t="910950" d="2120" wp="2" ws="1" p="10">I&#39;m not saying that Japanese women can&#39;t...</p>
+<p t="915210" d="1310" wp="2" ws="1" p="2">This is...!</p>
+<p t="916520" d="1590" wp="2" ws="1" p="2">Guys, this is...!</p>
+<p t="918110" d="2140" wp="2" ws="1" p="2">Why, according to this</p>
+<p t="920250" d="1350" wp="2" ws="1" p="2">overseas streamer&#39;s</p>
+<p t="921600" d="2380" wp="2" ws="1" p="2">ultra video analysis,</p>
+<p t="923780" d="60570" wp="5" ws="1" p="7">Country of origin identified by the hip sway</p>
+<p t="924730" d="3830" wp="2" ws="1" p="2">they have identified my country of origin!</p>
+<p t="928560" d="1100" wp="2" ws="1" p="2">Now, that&#39;s―</p>
+<p t="929660" d="2630" wp="2" ws="1" p="2">They&#39;re really looking outside the box.</p>
+<p t="932290" d="1590" wp="2" ws="1" p="2">They&#39;ve nailed down</p>
+<p t="933880" d="2720" wp="2" ws="1" p="2">that I really came from</p>
+<p t="936600" d="3770" wp="2" ws="1" p="2">Dragon America, it seems.</p>
+<p t="940370" d="3200" wp="2" ws="1" p="2">Let&#39;s see what everyone has to say about this:</p>
+<p t="944100" d="1980" wp="2" ws="1" p="2">&quot;USDA hip&quot;</p>
+<p t="946080" d="1430" wp="2" ws="1" p="2">Uh, &quot;lol&quot;.</p>
+<p t="947510" d="980" wp="2" ws="1" p="2">Ahh―</p>
+<p t="948490" d="1630" wp="2" ws="1" p="2">&quot;simp to the end&quot;</p>
+<p t="950120" d="940" wp="2" ws="1" p="2">SIMP!</p>
+<p t="951060" d="1380" wp="2" ws="1" p="2">*heh, simps*</p>
+<p t="952440" d="780" wp="2" ws="1" p="2">Err―</p>
+<p t="953220" d="1480" wp="2" ws="1" p="2">&quot;big lol&quot;</p>
+<p t="954700" d="1830" wp="2" ws="1" p="2">Uhh, &quot;USDA&quot;.</p>
+<p t="956530" d="2100" wp="2" ws="1" p="2">Uh, &quot;GJ, analyst team&quot;.</p>
+<p t="958630" d="2410" wp="2" ws="1" p="2">It makes it really easy to
+find me out,</p>
+<p t="961040" d="1060" wp="2" ws="1" p="2">this ass, I mean.</p>
+<p t="962100" d="2050" wp="2" ws="1" p="2">My ass gives me away.</p>
+<p t="964150" d="1390" wp="2" ws="1" p="2">It seems that</p>
+<p t="965540" d="3290" wp="2" ws="1" p="2">my origin has been revealed.</p>
+<p t="968830" d="1720" wp="2" ws="1" p="2">Guys, he does...</p>
+<p t="970550" d="1230" wp="2" ws="1" p="2">Aahh...</p>
+<p t="971780" d="1510" wp="2" ws="1" p="2">He does</p>
+<p t="973290" d="2270" wp="2" ws="1" p="2">have a really good eye</p>
+<p t="975560" d="2100" wp="2" ws="1" p="2">for these kinds of things.</p>
+<p t="977660" d="3460" wp="2" ws="1" p="2">I&#39;d love to see these reaction
+videos continue coming.</p>
+<p t="981120" d="3090" wp="2" ws="1" p="2">Let&#39;s ask Expert C for her take on this:</p>
+<p t="984350" d="126400" wp="5" ws="1" p="8">The USDA never takes &#39;no&#39; for an answer.</p>
+<p t="985740" d="1210" wp="2" ws="1" p="2">Here she said,</p>
+<p t="986950" d="3540" wp="2" ws="1" p="2">&quot;The USDA never takes &#39;no&#39; for an answer.&quot;</p>
+<p t="990490" d="2560" wp="2" ws="1" p="2">What did she mean by this?</p>
+<p t="993050" d="1270" wp="2" ws="1" p="2">A bit back,</p>
+<p t="994320" d="2000" wp="2" ws="1" p="2">a bit before the 3D―</p>
+<p t="996320" d="1930" wp="2" ws="1" p="2">A bit before the 3D stream,</p>
+<p t="998250" d="2350" wp="2" ws="1" p="2">at around the time</p>
+<p t="1000600" d="3050" wp="2" ws="1" p="2">they told me I was getting my 3D body,</p>
+<p t="1003650" d="1830" wp="2" ws="1" p="2">I really wanted my hips</p>
+<p t="1005480" d="1000" wp="2" ws="1"><s p="2">to </s><s>​</s><s p="11">really</s></p>
+<p t="1006480" d="3030" wp="2" ws="1" p="2">move like they went in the debut stream.</p>
+<p t="1009510" d="1280" wp="2" ws="1" p="2">Asking like,</p>
+<p t="1010790" d="2020" wp="2" ws="1" p="2">&quot;Can you guys make</p>
+<p t="1012810" d="2410" wp="2" ws="1" p="2">my hips move like Shakira&#39;s?&quot;</p>
+<p t="1015220" d="1360" wp="2" ws="1" p="2">to the staff.</p>
+<p t="1016580" d="2380" wp="2" ws="1" p="2">I had that request</p>
+<p t="1018960" d="2580" wp="2" ws="1" p="2">for hololive&#39;s development team.</p>
+<p t="1021540" d="1510" wp="2" ws="1" p="2">And the result was,</p>
+<p t="1023050" d="2420" wp="2" ws="1" p="2">&quot;We can make them sway like Shakira&#39;s,</p>
+<p t="1025470" d="1520" wp="2" ws="1" p="2">but it won&#39;t be sexy.&quot;</p>
+<p t="1026990" d="1780" wp="2" ws="1" p="2">That&#39;s what they told me</p>
+<p t="1028770" d="2130" wp="2" ws="1" p="2">at around the start of May.</p>
+<p t="1030900" d="2220" wp="2" ws="1" p="2">That&#39;s what they said, but</p>
+<p t="1033120" d="3780" wp="2" ws="1" p="2">Ms. Kiryu Coco would never settle for that.</p>
+<p t="1036900" d="1810" wp="2" ws="1" p="2">&quot;Please make it sexy.&quot;</p>
+<p t="1038710" d="1760" wp="2" ws="1" p="2">&quot;No excuses.&quot;</p>
+<p t="1040470" d="2380" wp="2" ws="1" p="2">&quot;It&#39;s definitely possible to make it sexy.&quot;</p>
+<p t="1042850" d="3520" wp="2" ws="1" p="2">&quot;Do everything you can.&quot;
+I told them all of that.</p>
+<p t="1046370" d="1290" wp="2" ws="1" p="2">And those moves</p>
+<p t="1047660" d="3730" wp="2" ws="1" p="2">were the end result of me bugging them to</p>
+<p t="1051390" d="2030" wp="2" ws="1" p="2">make it sexy.</p>
+<p t="1053900" d="2860" wp="2" ws="1" p="2">By the way, do any of you know Shakira?</p>
+<p t="1056760" d="530" wp="2" ws="1" p="2">Umm,</p>
+<p t="1057290" d="1200" wp="2" ws="1" p="2">her hips go like</p>
+<p t="1058490" d="1100" wp="2" ws="1" p="2">rocking back &#39;n forth.</p>
+<p t="1059590" d="1940" wp="2" ws="1" p="2">She&#39;s, umm, an artist―</p>
+<p t="1061530" d="3800" wp="2" ws="1" p="2">She&#39;s an overseas artist and a really famous person.</p>
+<p t="1065330" d="3280" wp="2" ws="1" p="2">I think a lot of people know her already,</p>
+<p t="1068610" d="1300" wp="2" ws="1" p="2">but Ms. Shakira</p>
+<p t="1069910" d="2150" wp="2" ws="1" p="2">is really known for her hips.</p>
+<p t="1072060" d="1130" wp="2" ws="1" p="2">She really does</p>
+<p t="1073190" d="1740" wp="2" ws="1" p="2">draw that distinct―</p>
+<p t="1074930" d="1610" wp="2" ws="1" p="2">draw that dista―</p>
+<p t="1076540" d="990" wp="2" ws="1" p="2">aaa―</p>
+<p t="1077530" d="410" wp="2" ws="1" p="2">inct―</p>
+<p t="1077940" d="1840" wp="2" ws="1" p="2">distraction for</p>
+<p t="1079780" d="3760" wp="2" ws="1" p="2">shaking her hips.
+I really wanted to recreate that!</p>
+<p t="1083540" d="3030" wp="2" ws="1" p="2">And I&#39;m really happy I managed to do it.</p>
+<p t="1086570" d="1790" wp="2" ws="1" p="2">What do you guys think?</p>
+<p t="1088720" d="950" wp="2" ws="1" p="2">Err...</p>
+<p t="1089670" d="930" wp="2" ws="1" p="2">Erm...</p>
+<p t="1090600" d="1900" wp="2" ws="1" p="2">Umm, distric―</p>
+<p t="1092500" d="2210" wp="2" ws="1" p="2">&quot;so forceful lol&quot;</p>
+<p t="1094710" d="2260" wp="2" ws="1" p="2">&quot;to draw a distinction&quot;</p>
+<p t="1096970" d="1300" wp="2" ws="1" p="2">Distinction.</p>
+<p t="1098270" d="750" wp="2" ws="1" p="2">Distinction.</p>
+<p t="1099020" d="1610" wp="2" ws="1" p="2">What a hard word.</p>
+<p t="1100630" d="1230" wp="2" ws="1" p="2">&quot;good for you&quot;</p>
+<p t="1101860" d="1550" wp="2" ws="1" p="2">&quot;coco&#39;s sexier&quot;</p>
+<p t="1103410" d="730" wp="2" ws="1" p="2">Ahh!</p>
+<p t="1104450" d="1830" wp="2" ws="1" p="2">Thank you so much!</p>
+<p t="1106280" d="2200" wp="2" ws="1" p="2">With all that said, our lesson</p>
+<p t="1108480" d="2590" wp="2" ws="1" p="2">for today is this phrase:</p>
+<p t="1111810" d="2010" wp="2" ws="1" p="2">&quot;DAT ASS&quot;</p>
+<p t="1113820" d="1700" wp="2" ws="1" p="2">This is our phrase of the day.</p>
+<p t="1115520" d="2380" wp="2" ws="1" p="2">The phrase &quot;DAT ASS&quot;―</p>
+<p t="1117900" d="3700" wp="2" ws="1" p="2">If we translate this to Japanese, it is</p>
+<p t="1121600" d="1460" wp="2" ws="1" p="2">(miro yo)
+（見ろ よ）</p>
+<p t="1123060" d="2040" wp="2" ws="1" p="2">anno ketsu!
+あんの ケツ！</p>
+<p t="1125100" d="1420" wp="2" ws="1" p="2">That&#39;s what it is.</p>
+<p t="1126520" d="3160" wp="2" ws="1" p="2">Like whenever you see
+a really good but, you&#39;d let</p>
+<p t="1129680" d="1810" wp="2" ws="1" p="2">&quot;DAT ASS&quot;</p>
+<p t="1131490" d="3750" wp="2" ws="1" p="2">slip up from your mouth every so often, right?</p>
+<p t="1135240" d="3100" wp="2" ws="1" p="2">If we try to break this down, we first have</p>
+<p t="1138340" d="1730" wp="2" ws="1" p="2">the word &quot;dat&quot;.</p>
+<p t="1140070" d="2420" wp="2" ws="1" p="2">&quot;What? What&#39;s &#39;dat&#39;,&quot;</p>
+<p t="1142490" d="2010" wp="2" ws="1" p="2">some of you may ask.</p>
+<p t="1144500" d="1960" wp="2" ws="1" p="2">But it&#39;s actually the English word</p>
+<p t="1147080" d="740" wp="2" ws="1" p="2">&quot;that&quot;.</p>
+<p t="1147820" d="2030" wp="2" ws="1" p="2">In Japanese, &quot;sono&quot; (その).</p>
+<p t="1149850" d="1700" wp="2" ws="1" p="2">It&#39;s a corruption of &quot;that&quot;―</p>
+<p t="1151550" d="370" wp="2" ws="1" p="2">Ouch.</p>
+<p t="1151920" d="1360" wp="2" ws="1" p="2">I snagged my arm.</p>
+<p t="1153280" d="3250" wp="2" ws="1" p="2"> It&#39;s a corruption of the word &quot;that&quot;.</p>
+<p t="1156530" d="2440" wp="2" ws="1" p="2">Of course, we all know &quot;ass&quot; means</p>
+<p t="1158970" d="2040" wp="2" ws="1" p="2">&quot;ketsu&quot; (けつ) in Japanese.</p>
+<p t="1161010" d="2000" wp="2" ws="1" p="2">Without a doubt, &quot;ketsu&quot;.</p>
+<p t="1163010" d="1690" wp="2" ws="1" p="2">Can also be &quot;ketsu&quot; (ケツ).</p>
+<p t="1164700" d="2780" wp="2" ws="1" p="2">&quot;Ass&quot; equals &quot;ketsu&quot;,</p>
+<p t="1167480" d="2420" wp="2" ws="1" p="2">while we have &quot;that&quot; being &quot;ano&quot; (あの).</p>
+<p t="1169900" d="3120" wp="2" ws="1" p="2">Those two words alone would be just fine:</p>
+<p t="1173020" d="1760" wp="2" ws="1" p="2">ano ketsu
+あの ケツ</p>
+<p t="1174780" d="3360" wp="2" ws="1" p="2">And of course, when you let these
+words out of your mouth,</p>
+<p t="1178140" d="1730" wp="2" ws="1" p="2">you&#39;d be talking</p>
+<p t="1179870" d="2160" wp="2" ws="1" p="2">to someone else, so you say</p>
+<p t="1182600" d="1280" wp="2" ws="1" p="2">(miro yo)
+(yo, look at)</p>
+<p t="1183880" d="1800" wp="2" ws="1" p="2">anno ketsu!
+dat ASS!</p>
+<p t="1185680" d="930" wp="2" ws="1" p="2">Another way is:</p>
+<p t="1186610" d="950" wp="2" ws="1" p="2">*gasp*</p>
+<p t="1187560" d="1780" wp="2" ws="1" p="2">&quot;DAT ASS!&quot;</p>
+<p t="1189340" d="1620" wp="2" ws="1" p="2">You can say it like that.</p>
+<p t="1190960" d="2120" wp="2" ws="1" p="2">If you feel like praising the sun</p>
+<p t="1193080" d="2590" wp="2" ws="1" p="2">after seeing a fine ass, please use that.</p>
+<p t="1195670" d="2030" wp="2" ws="1" p="2">So guys, if you find a fine ass,</p>
+<p t="1197700" d="4620" wp="2" ws="1" p="2">like, for example, Ms. Kiryu Coco&#39;s
+extremely fine and plump ass,</p>
+<p t="1202320" d="2420" wp="2" ws="1" p="2">just say, &quot;Ah... Dat ASS!&quot;</p>
+<p t="1204740" d="2790" wp="2" ws="1" p="2">just so everyone around you</p>
+<p t="1207530" d="1590" wp="2" ws="1" p="2">can appreciate as well.</p>
+<p t="1209120" d="1360" wp="2" ws="1" p="2">Also, do note</p>
+<p t="1210480" d="3630" wp="2" ws="1" p="2">that this is not sexual harassment.</p>
+<p t="1214110" d="1250" wp="2" ws="1" p="2">The reason is that</p>
+<p t="1215360" d="1680" wp="2" ws="1" p="2">in Dragon America,</p>
+<p t="1217040" d="2780" wp="2" ws="1" p="2">having a well-shaped ass</p>
+<p t="1219820" d="1960" wp="2" ws="1" p="2">is definitely―</p>
+<p t="1221780" d="2370" wp="2" ws="1" p="2">umm, absolutely a―</p>
+<p t="1224150" d="2950" wp="2" ws="1" p="2">Uh, how do I put this―
+A good indicator of</p>
+<p t="1227100" d="2330" wp="2" ws="1" p="2">a fine woman, or so they say.</p>
+<p t="1229430" d="2860" wp="2" ws="1" p="2">It&#39;d make me happy if people said that about me,</p>
+<p t="1232290" d="1780" wp="2" ws="1" p="2">but calling your co-workers</p>
+<p t="1234070" d="2520" wp="2" ws="1" p="2">with &quot;dat ass&quot; is gonna be trouble,</p>
+<p t="1236590" d="1180" wp="2" ws="1" p="2">so y&#39;all should</p>
+<p t="1237770" d="2920" wp="2" ws="1" p="2">consider the TPO - Time, Place and Occasion - and</p>
+<p t="1240690" d="1930" wp="2" ws="1" p="2">use it appropriately.</p>
+<p t="1242620" d="2010" wp="2" ws="1" p="2">What do you guys have to say?</p>
+<p t="1244630" d="2010" wp="2" ws="1" p="2">Uhh, &quot;words of praise&quot;.</p>
+<p t="1246640" d="1570" wp="2" ws="1" p="2">Ahh, &quot;words of praise&quot;.</p>
+<p t="1248210" d="1650" wp="2" ws="1" p="2">&quot;DAT GRASS&quot;</p>
+<p t="1249860" d="2220" wp="2" ws="1" p="2">Uhh, &quot;why not use &#39;that&#39;, though?&quot;</p>
+<p t="1252080" d="1560" wp="2" ws="1" p="2">The reason for that lies</p>
+<p t="1253640" d="2130" wp="2" ws="1" p="2">in this &quot;anno ketsu&quot;―</p>
+<p t="1255770" d="1750" wp="2" ws="1" p="2">Why did we use &quot;anno&quot; (あんの)</p>
+<p t="1257520" d="2390" wp="2" ws="1" p="2">instead of &quot;ano&quot; (あの) for this?</p>
+<p t="1259910" d="1600" wp="2" ws="1" p="2">It&#39;s the same spirit.</p>
+<p t="1261510" d="1470" wp="2" ws="1" p="2">It&#39;s all in the emphasis.</p>
+<p t="1262980" d="1780" wp="2" ws="1" p="2">Instead of just &quot;ano ketsu&quot;,</p>
+<p t="1264760" d="2110" wp="2" ws="1" p="2">you&#39;d say &quot;ANNO KETSU&quot;.</p>
+<p t="1266870" d="2300" wp="2" ws="1" p="2">It sounds better, right?</p>
+<p t="1269170" d="2470" wp="2" ws="1" p="2">Like Ms. Wada Akiko doesn&#39;t sing</p>
+<p t="1271640" d="1750" wp="2" ws="1"><s p="11">ano </s><s>​</s><s p="2">koro wa― ha!
+​</s><s p="11">あの </s><s p="2">ころ は― はッ！</s></p>
+<p t="1273390" d="1060" wp="2" ws="1" p="2">but instead she goes</p>
+<p t="1274450" d="1720" wp="2" ws="1"><s p="11">anno </s><s>​</s><s p="2">koro wa― ha!
+​</s><s p="11">あんの </s><s p="2">ころ は― はッ！</s></p>
+<p t="1276170" d="2330" wp="2" ws="1" p="2">It definitely sounds stronger that way.</p>
+<p t="1278500" d="2190" wp="2" ws="1" p="2">That&#39;s the difference between the two.</p>
+<p t="1280690" d="1970" wp="2" ws="1" p="2">Anyway, let&#39;s move on.</p>
+<p t="1282660" d="540" wp="2" ws="1" p="2">Ahh...</p>
+<p t="1283200" d="810" wp="2" ws="1" p="2">Ah!</p>
+<p t="1284010" d="2120" wp="2" ws="1" p="2">Guys, it seems we have</p>
+<p t="1286130" d="2760" wp="2" ws="1" p="2">an announcement to air.</p>
+<p t="1316610" d="3870" wp="7" ws="1" p="12">Kanata Channel
+July 1 (Wednesday) @ 8 PM
+Major announcement stream!!</p>
+<p t="1323450" d="1920" wp="2" ws="1" p="2">Did you see that, guys?!</p>
+<p t="1325370" d="1190" wp="2" ws="1" p="2">It&#39;s coming!</p>
+<p t="1326560" d="1490" wp="2" ws="1" p="2">Later today―</p>
+<p t="1328050" d="1760" wp="2" ws="1" p="2">Ms. Amane Kanata</p>
+<p t="1329810" d="3630" wp="2" ws="1" p="2">is one of my batchmates in hololive 4th Gen.</p>
+<p t="1333440" d="1950" wp="2" ws="1" p="2">Later today,</p>
+<p t="1335390" d="990" wp="2" ws="1" p="2">at 8 PM―</p>
+<p t="1336380" d="5040" wp="2" ws="1" p="2">She will be making a major announcement at 8 PM today!</p>
+<p t="1341420" d="1270" wp="2" ws="1" p="2">Guys, this is</p>
+<p t="1342690" d="2760" wp="2" ws="1" p="2">an announcement not to be missed!</p>
+<p t="1345450" d="3690" wp="2" ws="1" p="2">Just what will she reveal?!</p>
+<p t="1349140" d="1970" wp="2" ws="1" p="2">Better make time, guys.</p>
+<p t="1351110" d="1990" wp="2" ws="1" p="2">What will happen to her?</p>
+<p t="1353100" d="890" wp="2" ws="1" p="2">Is this... huh?!</p>
+<p t="1353990" d="1300" wp="2" ws="1" p="2">It&#39;s a bust shot!</p>
+<p t="1355290" d="1400" wp="2" ws="1" p="2">Does that mean her bust―!</p>
+<p t="1356690" d="1200" wp="2" ws="1" p="2">Kanatan&#39;s bust―</p>
+<p t="1357890" d="1300" wp="2" ws="1" p="2">Will her bust...</p>
+<p t="1359580" d="2150" wp="2" ws="1"><s p="2">increase by </s><s>​</s><s p="13">3</s><s p="2"> cup sizes</s></p>
+<p t="1361730" d="2760" wp="2" ws="1"><s p="2">right into becoming a </s><s>​</s><s p="13">D</s><s p="2">-cup?!</s></p>
+<p t="1364490" d="2560" wp="2" ws="1" p="2">Let&#39;s look at today&#39;s weather!</p>
+<p t="1368050" d="1040" wp="2" ws="1" p="2">Err...</p>
+<p t="1369090" d="1100" wp="2" ws="1" p="2">Ah, this one―</p>
+<p t="1370820" d="520" wp="2" ws="1" p="2">Ah!</p>
+<p t="1371900" d="3010" wp="2" ws="1" p="2">Watame&#39;s also getting pumped for this!</p>
+<p t="1374910" d="2410" wp="2" ws="1" p="2">Speaking of which, she&#39;s getting good―</p>
+<p t="1377320" d="3210" wp="2" ws="1" p="2">She&#39;s getting really good at drawing.</p>
+<p t="1380530" d="2520" wp="2" ws="1" p="2">Watame... learns really fast, doesn&#39;t she?</p>
+<p t="1383050" d="2430" wp="2" ws="1" p="2">I&#39;m not gonna lose to her, though.</p>
+<p t="1385480" d="2720" wp="2" ws="1" p="2">In any case, for today we have―</p>
+<p t="1388200" d="1940" wp="2" ws="1" p="2">Uhh, ARK― Today&#39;s</p>
+<p t="1390140" d="2635" wp="2" ws="1" p="2">ARK password is &quot;kanatan&quot;.</p>
+<p t="1392775" d="601" wp="2" ws="1"><s p="2">K-</s><s>​</s><s p="3">A-N-A-T-A-N.</s></p>
+<p t="1392775" d="601" wp="2" ws="1"><s p="4">K-</s><s>​</s><s p="5">A-N-A-T-A-N.</s></p>
+<p t="1393376" d="266" wp="2" ws="1"><s p="2">K-A-</s><s>​</s><s p="3">N-A-T-A-N.</s></p>
+<p t="1393376" d="266" wp="2" ws="1"><s p="4">K-A-</s><s>​</s><s p="5">N-A-T-A-N.</s></p>
+<p t="1393642" d="701" wp="2" ws="1"><s p="2">K-A-N-</s><s>​</s><s p="3">A-T-A-N.</s></p>
+<p t="1393642" d="701" wp="2" ws="1"><s p="4">K-A-N-</s><s>​</s><s p="5">A-T-A-N.</s></p>
+<p t="1394343" d="367" wp="2" ws="1"><s p="2">K-A-N-A-</s><s>​</s><s p="3">T-A-N.</s></p>
+<p t="1394343" d="367" wp="2" ws="1"><s p="4">K-A-N-A-</s><s>​</s><s p="5">T-A-N.</s></p>
+<p t="1394710" d="300" wp="2" ws="1"><s p="2">K-A-N-A-T-</s><s>​</s><s p="3">A-N.</s></p>
+<p t="1394710" d="300" wp="2" ws="1"><s p="4">K-A-N-A-T-</s><s>​</s><s p="5">A-N.</s></p>
+<p t="1395010" d="301" wp="2" ws="1"><s p="2">K-A-N-A-T-A-</s><s>​</s><s p="3">N.</s></p>
+<p t="1395010" d="301" wp="2" ws="1"><s p="4">K-A-N-A-T-A-</s><s>​</s><s p="5">N.</s></p>
+<p t="1395311" d="229" wp="2" ws="1" p="2">K-A-N-A-T-A-N.</p>
+<p t="1395540" d="1430" wp="2" ws="1" p="2">And with all that said,</p>
+<p t="1396970" d="4280" wp="2" ws="1" p="2">thank you all so much for watching!</p>
+<p t="1401250" d="3930" wp="2" ws="1" p="2">Have a good morning!</p>
+<p t="1405180" d="16530" wp="8" ws="1" p="8">G&#39;morn everyone!
+It&#39;s already July! Halfway through the year!
+2020 has been quite fast-paced,
+but are you all having fun?
+The world around us is quite uncertain now,
+but those who keep their spirits up
+will make it to the end!!!!
+Live your life as you like
+despite what everyone around you says!
+Kanatan also has an announcement tonight!
+Just what dimension would she reach...
+Your definitely loved WAIFU, Coco</p>
+<p t="5000" d="100" wp="9" ws="2" p="14">​</p>
+<p t="5000" d="100" wp="9" ws="2" p="15">​</p>
+</body>
+</timedtext>
